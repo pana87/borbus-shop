@@ -1,4 +1,3 @@
-// import { getPriceInHbar } from "./fetch.js"
 import {
   _noUserSessionFound,
   _noAccountIdFound,
@@ -8,12 +7,12 @@ import {
 } from "./exceptions.js"
 import { _getAddresses, _getCart } from "./storage.js"
 
-export async function _updateCartPointer() {
+export function _updateCartPointer() {
   const cartPointerTopRight = document.querySelectorAll("div[class*='anzahl-warenkorb']")
 
   if (cartPointerTopRight.length === 0) return
 
-  const cart = await _getCart()
+  const cart = JSON.parse(window.localStorage.getItem("cart")) || []
   cartPointerTopRight.forEach(pointer => pointer.innerHTML = `${cart.length}`)
 }
 _updateCartPointer()
@@ -76,7 +75,7 @@ export async function _renderShopList() {
   if (nftContainer.length === 0) return
 
   shopListDivs.forEach(div => {
-    div.innerHTML = ""
+    div.innerHTML = " "
 
     div.style.position = "relative"
     div.style.bottom = "0"
@@ -368,39 +367,39 @@ function _inputIsValid(htmlInputElement) {
   }
 }
 
-function _renderAccountIdInputField() {
-  const fields = document.querySelectorAll("div[class*='hedera-account-id-input']")
+// function _renderAccountIdInputField() {
+//   const fields = document.querySelectorAll("div[class*='hedera-account-id-input']")
 
-  if (fields.length === 0) return
+//   if (fields.length === 0) return
 
-  fields.forEach(field => {
-    const input = document.createElement("input")
+//   fields.forEach(field => {
+//     const input = document.createElement("input")
 
-    input.setAttribute("type", "text")
-    input.setAttribute("name", "accountId")
-    input.setAttribute("pattern", "\\d.\\d.\\d{4,}")
-    input.setAttribute("required", "true")
-    input.setAttribute("title", "Geben Sie hier Ihre Hedera Account Id an.")
+//     input.setAttribute("type", "text")
+//     input.setAttribute("name", "accountId")
+//     input.setAttribute("pattern", "\\d.\\d.\\d{4,}")
+//     input.setAttribute("required", "true")
+//     input.setAttribute("title", "Geben Sie hier Ihre Hedera Account Id an.")
 
-    _inputDefaultStyle(input)
+//     _inputDefaultStyle(input)
 
-    input.addEventListener("keyup", (event) => {
-      _inputIsEmpty(event.target)
-      if (input.validity.patternMismatch) {
-        _inputIsNotValidStyle(input)
-        input.setAttribute("title", "Hedera Account Ids haben die Form: 0.0.1234xx")
-      }
-      _inputIsValid(event.target)
-    })
+//     input.addEventListener("keyup", (event) => {
+//       _inputIsEmpty(event.target)
+//       if (input.validity.patternMismatch) {
+//         _inputIsNotValidStyle(input)
+//         input.setAttribute("title", "Hedera Account Ids haben die Form: 0.0.1234xx")
+//       }
+//       _inputIsValid(event.target)
+//     })
 
-    field.appendChild(input)
-  })
-  return inputFields
-}
+//     field.appendChild(input)
+//   })
+//   return inputFields
+// }
 // _renderAccountIdInputField()
 
-function _nameInputField() {
-  const inputFields = document.querySelectorAll("div[class*='name-input']")
+function _renderNameInputField() {
+  const inputFields = document.querySelectorAll("div[class*='namederpersoneingabe']")
 
   if (inputFields.length === 0) return
 
@@ -423,10 +422,10 @@ function _nameInputField() {
   })
   return inputFields
 }
-// _nameInputField()
+_renderNameInputField()
 
-function _streetInputField() {
-  const inputFields = document.querySelectorAll("div[class*='strasse-input']")
+function _renderStreetInputField() {
+  const inputFields = document.querySelectorAll("div[class*='strasse1eingabe']")
 
   if (inputFields.length === 0) return
 
@@ -449,10 +448,10 @@ function _streetInputField() {
   })
   return inputFields
 }
-// _streetInputField()
+_renderStreetInputField()
 
-function _zipInputField() {
-  const inputFields = document.querySelectorAll("div[class*='plz-input']")
+function _renderZipInputField() {
+  const inputFields = document.querySelectorAll("div[class*='plz1eingabe']")
 
   if (inputFields.length === 0) return
 
@@ -461,24 +460,55 @@ function _zipInputField() {
 
     input.setAttribute("type", "text")
     input.setAttribute("name", "zip")
+    input.setAttribute("pattern", "[1-9][0-9]{4}\\s.[^\\s]+")
     input.setAttribute("required", "true")
     input.setAttribute("title", "Bitte geben Sie die Postleitzahl und Ortschaft an.")
 
     _inputDefaultStyle(input)
 
     input.addEventListener("keyup", (event) => {
-      _inputIsEmpty(event.target)
-      _inputIsValid(event.target)
+      if (input.validity.patternMismatch) {
+        input.setAttribute("style", `
+          border-radius: 15px;
+          border-color: red;
+          background-color: transparent;
+          width: 100%;
+          height: 100%;
+          padding-left: 20px;
+        `)
+        input.setAttribute("title", "Beispiel: 70771 Leinfelden-Echterdingen")
+      }
+      if (input.validity.valueMissing) {
+        input.setAttribute("style", `
+          border-radius: 15px;
+          border-color: red;
+          background-color: transparent;
+          width: 100%;
+          height: 100%;
+          padding-left: 20px;
+        `)
+        input.setAttribute("title", "Dieses Feld ist notwendig.")
+      }
+      if (input.checkValidity()) {
+        input.setAttribute("style", `
+          border-radius: 15px;
+          border-color: green;
+          background-color: transparent;
+          width: 100%;
+          height: 100%;
+          padding-left: 20px;
+        `)
+        input.setAttribute("title", "✅")
+      }
     })
-
     field.appendChild(input)
   })
   return inputFields
 }
-// _zipInputField()
+_renderZipInputField()
 
-function _emailInputField() {
-  const inputFields = document.querySelectorAll("div[class*='email-input']")
+function _renderEmailInputField() {
+  const inputFields = document.querySelectorAll("div[class*='email12eingabe']")
 
   if (inputFields.length === 0) return
 
@@ -506,60 +536,60 @@ function _emailInputField() {
   return inputFields
 
 }
-// _emailInputField()
+_renderEmailInputField()
 
-function _privateKeyInputField() {
-  const inputFields = document.querySelectorAll("div[class*='private-key-input']")
+// function _privateKeyInputField() {
+//   const inputFields = document.querySelectorAll("div[class*='private-key-input']")
 
-  if (inputFields.length === 0) return
+//   if (inputFields.length === 0) return
 
-  inputFields.forEach(field => {
-    const input = document.createElement("input")
+//   inputFields.forEach(field => {
+//     const input = document.createElement("input")
 
-    input.setAttribute("type", "password")
-    input.setAttribute("name", "privateKey")
-    input.setAttribute("required", "true")
-    input.setAttribute("title", "Bitte geben Sie Ihren Hedera Private Key an.")
+//     input.setAttribute("type", "password")
+//     input.setAttribute("name", "privateKey")
+//     input.setAttribute("required", "true")
+//     input.setAttribute("title", "Bitte geben Sie Ihren Hedera Private Key an.")
 
-    _inputDefaultStyle(input)
+//     _inputDefaultStyle(input)
 
-    input.addEventListener("keyup", (event) => {
-      _inputIsEmpty(event.target)
-      _inputIsValid(event.target)
-    })
+//     input.addEventListener("keyup", (event) => {
+//       _inputIsEmpty(event.target)
+//       _inputIsValid(event.target)
+//     })
 
-    field.appendChild(input)
-  })
-  return inputFields
+//     field.appendChild(input)
+//   })
+//   return inputFields
 
-}
+// }
 // _privateKeyInputField()
 
-function _securityKeyInputField() {
-  const inputFields = document.querySelectorAll("div[class*='sicherheitsschlssel-input']")
+// function _securityKeyInputField() {
+//   const inputFields = document.querySelectorAll("div[class*='sicherheitsschlssel-input']")
 
-  if (inputFields.length === 0) return
+//   if (inputFields.length === 0) return
 
-  inputFields.forEach(field => {
-    const input = document.createElement("input")
+//   inputFields.forEach(field => {
+//     const input = document.createElement("input")
 
-    input.setAttribute("type", "password")
-    input.setAttribute("name", "securityKey")
-    input.setAttribute("required", "true")
-    input.setAttribute("title", "Bitte geben Sie Ihren Sicherheitsschlüssen an.")
+//     input.setAttribute("type", "password")
+//     input.setAttribute("name", "securityKey")
+//     input.setAttribute("required", "true")
+//     input.setAttribute("title", "Bitte geben Sie Ihren Sicherheitsschlüssen an.")
 
-    _inputDefaultStyle(input)
+//     _inputDefaultStyle(input)
 
-    input.addEventListener("keyup", (event) => {
-      _inputIsEmpty(event.target)
-      _inputIsValid(event.target)
-    })
+//     input.addEventListener("keyup", (event) => {
+//       _inputIsEmpty(event.target)
+//       _inputIsValid(event.target)
+//     })
 
-    field.appendChild(input)
-  })
-  return inputFields
+//     field.appendChild(input)
+//   })
+//   return inputFields
 
-}
+// }
 // _securityKeyInputField()
 
 export function _openNameInputField(cssSelector) {
@@ -812,27 +842,12 @@ export function _openEmailInputField(cssSelector) {
   })
 }
 
-function _renderAddress() {
+function _renderShippingNameFields() {
   const shippingNameFields = document.querySelectorAll("div[class*='kundennameinput1']")
-  const billingNameFields = document.querySelectorAll("div[class*='kundennameinput2']")
-  const shippingStreetFields = document.querySelectorAll("div[class*='kundenstrasseinput1']")
-  const billingStreetFields = document.querySelectorAll("div[class*='kundenstrasseinput2']")
-  const shippingZipFields = document.querySelectorAll("div[class*='kundenplzinput1']")
-  const billingZipFields = document.querySelectorAll("div[class*='kundenplzinput2']")
-  const shippingEmailFields = document.querySelectorAll("div[class*='kundenemailinput1']")
-  const billingEmailFields = document.querySelectorAll("div[class*='kundenemailinput2']")
 
   if (shippingNameFields.length === 0) return
-  if (billingNameFields.length === 0) return
-  if (shippingStreetFields.length === 0) return
-  if (billingStreetFields.length === 0) return
-  if (shippingZipFields.length === 0) return
-  if (billingZipFields.length === 0) return
-  if (shippingEmailFields.length === 0) return
-  if (billingEmailFields.length === 0) return
 
-  const addresses = await _getAddresses()
-
+  const addresses = JSON.parse(window.localStorage.getItem("addresses")) || []
   if (addresses.length === 0) {
     _noAddressFound()
     return
@@ -841,33 +856,154 @@ function _renderAddress() {
   shippingNameFields.forEach(field => {
     field.innerHTML = addresses.filter(it => it.shippingAddress === true)[0].name
   })
+}
+_renderShippingNameFields()
+
+function _renderBillingNameFields() {
+  const billingNameFields = document.querySelectorAll("div[class*='kundennameinput2']")
+
+  if (billingNameFields.length === 0) return
+
+  const addresses = JSON.parse(window.localStorage.getItem("addresses")) || []
 
   billingNameFields.forEach(field => {
     field.innerHTML = addresses.filter(it => it.billingAddress === true)[0].name
   })
+}
+_renderBillingNameFields()
+
+function _renderShippingStreetFields() {
+  const shippingStreetFields = document.querySelectorAll("div[class*='kundenstrasseinput1']")
+
+  if (shippingStreetFields.length === 0) return
+
+  const addresses = JSON.parse(window.localStorage.getItem("addresses")) || []
 
   shippingStreetFields.forEach(field => {
     field.innerHTML = addresses.filter(it => it.shippingAddress === true)[0].street
   })
+}
+_renderShippingStreetFields()
+
+function _renderBillingStreetFields() {
+  const billingStreetFields = document.querySelectorAll("div[class*='kundenstrasseinput2']")
+
+  if (billingStreetFields.length === 0) return
+
+  const addresses = JSON.parse(window.localStorage.getItem("addresses")) || []
 
   billingStreetFields.forEach(field => {
     field.innerHTML = addresses.filter(it => it.billingAddress === true)[0].street
   })
+}
+_renderBillingStreetFields()
+
+function _renderShippingZipFields() {
+  const shippingZipFields = document.querySelectorAll("div[class*='kundenplzinput1']")
+
+  if (shippingZipFields.length === 0) return
+
+  const addresses = JSON.parse(window.localStorage.getItem("addresses")) || []
 
   shippingZipFields.forEach(field => {
     field.innerHTML = addresses.filter(it => it.shippingAddress === true)[0].zip
   })
+}
+_renderShippingZipFields()
+
+function _renderBillingZipFields() {
+  const billingZipFields = document.querySelectorAll("div[class*='kundenplzinput2']")
+
+  if (billingZipFields.length === 0) return
+
+  const addresses = JSON.parse(window.localStorage.getItem("addresses")) || []
 
   billingZipFields.forEach(field => {
     field.innerHTML = addresses.filter(it => it.billingAddress === true)[0].zip
   })
+}
+_renderBillingZipFields()
+
+function _renderShippingEmailFields() {
+  const shippingEmailFields = document.querySelectorAll("div[class*='kundenemailinput1']")
+
+  if (shippingEmailFields.length === 0) return
+
+  const addresses = JSON.parse(window.localStorage.getItem("addresses")) || []
 
   shippingEmailFields.forEach(field => {
     field.innerHTML = addresses.filter(it => it.shippingAddress === true)[0].email
   })
-
-  billingEmailFields.forEach(field => {
-    field.innerHTML = addresses.filter(it => it.billingAddress === true)[0].email
-  })
 }
-_renderAddress()
+_renderShippingEmailFields()
+
+function _renderPaypalButton(id) {
+
+  if (window.location.pathname !== "/bestelluebersicht/") return
+
+  const cart = JSON.parse(window.localStorage.getItem("cart")) || []
+  if (cart.length === 0) {
+    _noCartItemFound()
+    return
+  }
+
+  const addresses = JSON.parse(window.localStorage.getItem("addresses")) || []
+  if (addresses.length === 0) {
+    _noAddressFound()
+    return
+  }
+
+  const shippingAddress = addresses.filter(it => it.shippingAddress === true)[0]
+  const zip = shippingAddress.zip.split(" ")[0]
+  const area = shippingAddress.zip.split(" ")[1]
+
+  const total = cart
+  .map(item => parseFloat(item.price.replace(",", ".")))
+  .reduce((prev, curr) => prev + curr, 0)
+
+  paypal.Buttons({
+    style: {
+      layout: 'horizontal',
+      color:  'blue',
+      shape:  'rect',
+      label:  'paypal'
+    },
+
+    createOrder: function(data, actions) {
+      return actions.order.create({
+        purchase_units: [{
+          amount: {
+            value: total.toFixed(2)
+          },
+
+          shipping: {
+            name: {
+              full_name: shippingAddress.name
+            },
+            address: {
+              address_line_1: shippingAddress.street,
+              admin_area_2: area,
+              postal_code: zip,
+              country_code: 'DE',
+            }
+          }
+        }]
+      })
+    },
+
+    onApprove: function(data, actions) {
+      return actions.order.capture().then(function(details) {
+        alert('Transaction completed by ' + details.payer.name.given_name)
+        window.location.assign("/danke")
+      });
+    },
+
+    onError: function (error) {
+      window.location.assign("/fehlgeschlagen")
+    }
+  }).render(id)
+}
+_renderPaypalButton("div[class*='paypal-button-mobile']")
+_renderPaypalButton("div[class*='paypal-button-tablet']")
+_renderPaypalButton("div[class*='paypal-button-small-desktop']")
+_renderPaypalButton("div[class*='paypal-button-large-desktop']")

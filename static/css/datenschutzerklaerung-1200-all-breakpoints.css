@@ -1,0 +1,3382 @@
+/* screen - datenschutzerklaerung */
+
+.datenschutzerklaerung {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 2768px;
+  min-width: 1920px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.datenschutzerklaerung .gruppe-530-xZ7hOt {
+  background-color: transparent;
+  height: 1946px;
+  left: calc(42.31% - 581px);
+  position: absolute;
+  top: calc(29.32% - 571px);
+  width: 1374px;
+}
+
+.datenschutzerklaerung .geltungsbereichdiese-63D6tT {
+  background-color: transparent;
+  bottom: calc(1.52% - 27px);
+  display: block;
+  height: 1814px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 1376px;
+}
+
+.datenschutzerklaerung .geltungsbereichdiese-63D6tT.bp4-animate-enter144 {
+  animation: bp4-animate-enter144-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter144-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.datenschutzerklaerung .datenschutzerklrung-63D6tT {
+  background-color: transparent;
+  display: block;
+  height: 78px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(0.70% - 1px);
+  white-space: nowrap;
+  width: 397px;
+}
+
+.datenschutzerklaerung .datenschutzerklrung-63D6tT.bp4-animate-enter145 {
+  animation: bp4-animate-enter145-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter145-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.datenschutzerklaerung .rechteck-118-xZ7hOt {
+  background-color: var(--gallery);
+  box-shadow: 0px 2px 4px #00000029;
+  height: 34px;
+  left: 0px;
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.datenschutzerklaerung .stoffqualitt-xZ7hOt {
+  background-color: transparent;
+  height: 16px;
+  left: calc(33.45% - 27px);
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.datenschutzerklaerung .handarbeit-xZ7hOt {
+  background-color: transparent;
+  height: 15px;
+  left: calc(49.82% - 36px);
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 73px;
+}
+
+.datenschutzerklaerung .sichere-bezahlung-xZ7hOt {
+  background-color: transparent;
+  height: 16px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  right: calc(32.70% - 39px);
+  text-align: left;
+  top: 13px;
+  white-space: nowrap;
+  width: 119px;
+}
+
+.datenschutzerklaerung .gruppe-199-xZ7hOt {
+  background-color: transparent;
+  height: 17px;
+  position: absolute;
+  right: calc(37.47% - 5px);
+  top: 8px;
+  width: 12px;
+}
+
+.datenschutzerklaerung .rechteck-155-K7jntG {
+  background-color: var(--stratos);
+  border-radius: 2px;
+  height: calc(100.00% - 5px);
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 100%;
+}
+
+.datenschutzerklaerung .pfad-284-K7jntG {
+  background-color: transparent;
+  height: 14px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 4px);
+}
+
+.datenschutzerklaerung .pfad-285-K7jntG {
+  background-color: transparent;
+  bottom: calc(29.77% - 2px);
+  height: 5px;
+  left: calc(49.02% - 3px);
+  object-fit: cover;
+  position: absolute;
+  width: 7px;
+}
+
+.datenschutzerklaerung .rechteck-157-xZ7hOt {
+  background-color: transparent;
+  border-radius: 1px;
+  height: 15px;
+  left: calc(47.29% - 11px);
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 23px;
+}
+
+.datenschutzerklaerung .iconfinder_scissor_s-xZ7hOt {
+  background-color: transparent;
+  height: 14px;
+  left: calc(47.06% - 8px);
+  position: absolute;
+  top: 10px;
+  width: 16px;
+}
+
+.datenschutzerklaerung .pfad-273-m4eplZ {
+  background-color: transparent;
+  bottom: 1px;
+  height: 2px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 2px;
+}
+
+.datenschutzerklaerung .pfad-274-m4eplZ {
+  background-color: transparent;
+  height: calc(100.00% + 19px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 19px);
+}
+
+.datenschutzerklaerung .pfad-275-m4eplZ {
+  background-color: transparent;
+  height: 24px;
+  object-fit: cover;
+  position: absolute;
+  right: -9px;
+  top: 1.54%;
+  width: 29px;
+}
+
+.datenschutzerklaerung .pfad-276-m4eplZ {
+  background-color: transparent;
+  height: 2px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 2px;
+}
+
+.datenschutzerklaerung .iconfinder_4265038_b-xZ7hOt {
+  background-color: transparent;
+  height: 17px;
+  left: calc(31.25% - 4px);
+  position: absolute;
+  top: 9px;
+  width: 13px;
+}
+
+.datenschutzerklaerung .ellipse-41-8wuTAA {
+  background-color: var(--stratos);
+  border-radius: 2.75px;
+  height: 6px;
+  left: calc(49.99% - 3px);
+  position: absolute;
+  top: calc(33.49% - 2px);
+  width: 6px;
+}
+
+.datenschutzerklaerung .pfad-286-8wuTAA {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.datenschutzerklaerung .gruppe-163-xZ7hOt {
+  background-color: transparent;
+  bottom: 0px;
+  display: block;
+  height: 331px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.datenschutzerklaerung .gruppe-163-xZ7hOt.bp4-animate-enter146 {
+  animation: bp4-animate-enter146-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter146-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.datenschutzerklaerung .rechteck-90-w2NosL {
+  background-color: var(--stratos);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.datenschutzerklaerung .gruppe-364-w2NosL {
+  background-color: transparent;
+  height: 114px;
+  left: calc(13.51% - 32px);
+  position: absolute;
+  top: calc(17.06% - 19px);
+  width: 240px;
+}
+
+.datenschutzerklaerung .exklusive-serviceleistungen-VUWbM7 {
+  background-color: transparent;
+  height: 63px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% - 26px);
+}
+
+.datenschutzerklaerung .gruppe-137-VUWbM7 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 15px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.datenschutzerklaerung .versand-rckversand-frei-1pNX8X {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 34px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% - 32px);
+}
+
+.datenschutzerklaerung .truck-1pNX8X {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 26px;
+}
+
+.datenschutzerklaerung .gruppe-367-w2NosL {
+  background-color: transparent;
+  height: 155px;
+  left: calc(40.73% - 134px);
+  position: absolute;
+  top: 37px;
+  width: 329px;
+}
+
+.datenschutzerklaerung .knnen-wir-helfen-K1sISd {
+  background-color: transparent;
+  height: 63px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% + 1px);
+}
+
+.datenschutzerklaerung .gruppe-365-K1sISd {
+  background-color: transparent;
+  bottom: calc(29.29% - 4px);
+  height: 15px;
+  left: 0px;
+  position: absolute;
+  width: 92px;
+}
+
+.datenschutzerklaerung .gruppe-140-TXSE7m {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 57px;
+}
+
+.datenschutzerklaerung .kontakt-Rxx7Sl {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.datenschutzerklaerung .contact-TXSE7m {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 25px;
+}
+
+.datenschutzerklaerung .gruppe-366-K1sISd {
+  background-color: transparent;
+  bottom: 0px;
+  height: 20px;
+  left: 5px;
+  position: absolute;
+  width: 160px;
+}
+
+.datenschutzerklaerung .gruppe-141-iNXtwJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 4px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 130px;
+}
+
+.datenschutzerklaerung .zahlungsoptionen-sKJnbI {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.datenschutzerklaerung .money-iNXtwJ {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 20px;
+}
+
+.datenschutzerklaerung .gruppe-372-w2NosL {
+  background-color: transparent;
+  height: 117px;
+  position: absolute;
+  right: calc(12.59% - 27px);
+  top: 37px;
+  width: 212px;
+}
+
+.datenschutzerklaerung .besuche-uns-Mrg2eN {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+
+.datenschutzerklaerung .gruppe-320-Mrg2eN {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 18px;
+  left: 0px;
+  position: absolute;
+  width: 102px;
+}
+
+.datenschutzerklaerung .gruppe-162-e8PsTw {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 73px;
+}
+
+.datenschutzerklaerung .instagram-sClOPU {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.datenschutzerklaerung .icon-instagram-e8PsTw {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.datenschutzerklaerung .ssl-xZ7hOt {
+  background-color: transparent;
+  bottom: 60px;
+  display: block;
+  height: 90px;
+  left: calc(12.35% - 11px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 90px;
+}
+
+.datenschutzerklaerung .ssl-xZ7hOt.bp4-animate-enter147 {
+  animation: bp4-animate-enter147-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter147-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.datenschutzerklaerung .gruppe-554-xZ7hOt {
+  background-color: transparent;
+  bottom: 43px;
+  height: 251px;
+  position: absolute;
+  right: calc(36.66% - 84px);
+  width: 229px;
+}
+
+.datenschutzerklaerung .gruppe-371-lnFifB {
+  background-color: transparent;
+  height: 251px;
+  left: calc(50.00% - 114px);
+  position: absolute;
+  top: 0px;
+  width: 229px;
+}
+
+.datenschutzerklaerung .das-unternehmen-ccPDcZ {
+  background-color: transparent;
+  height: 63px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% - 15px);
+}
+
+.datenschutzerklaerung .gruppe-370-ccPDcZ {
+  background-color: transparent;
+  bottom: 0px;
+  height: 27px;
+  left: 8px;
+  position: absolute;
+  width: 30px;
+}
+
+.datenschutzerklaerung .gruppe-154-JHvImg {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.datenschutzerklaerung .gruppe-159-vkx5nx {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.datenschutzerklaerung .ellipse-25-xJx0WH {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.datenschutzerklaerung .i-xJx0WH {
+  background-color: transparent;
+  height: 25px;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: calc(100.00% - 7px);
+}
+
+.datenschutzerklaerung .gruppe-160-ccPDcZ {
+  background-color: transparent;
+  height: 20px;
+  left: 8px;
+  position: absolute;
+  top: calc(41.56% - 8px);
+  width: 118px;
+}
+
+.datenschutzerklaerung .gruppe-155-XSOlxp {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 4px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 94px;
+}
+
+.datenschutzerklaerung .gruppe-138-Y9MzRQ {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.datenschutzerklaerung .ber-borbus-LH8p3o {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.datenschutzerklaerung .b-XSOlxp {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 16px;
+}
+
+.datenschutzerklaerung .gruppe-368-ccPDcZ {
+  background-color: transparent;
+  bottom: calc(37.73% - 12px);
+  height: 31px;
+  left: 6px;
+  position: absolute;
+  width: calc(100.00% - 6px);
+}
+
+.datenschutzerklaerung .gruppe-156-onoiB7 {
+  background-color: transparent;
+  height: 100%;
+  left: 29px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 29px);
+}
+
+.datenschutzerklaerung .geschfts-und-nutzungs-bediengungen-Zq1PJu {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.datenschutzerklaerung .solid-onoiB7 {
+  background-color: transparent;
+  bottom: 4px;
+  height: 20px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 21px;
+}
+
+.datenschutzerklaerung .gruppe-369-ccPDcZ {
+  background-color: transparent;
+  bottom: calc(18.98% - 4px);
+  height: 19px;
+  left: 7px;
+  position: absolute;
+  width: calc(100.00% - 30px);
+}
+
+.datenschutzerklaerung .gruppe-157-suFAjA {
+  background-color: transparent;
+  height: 15px;
+  left: 28px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 28px);
+}
+
+.datenschutzerklaerung .datenschutz-cookies-3FaHUp {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.datenschutzerklaerung .cookie-suFAjA {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 19px;
+}
+
+.datenschutzerklaerung .impressum-lnFifB {
+  background-color: transparent;
+  bottom: 8px;
+  cursor: pointer;
+  height: 17px;
+  left: calc(23.53% - 18px);
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 76px;
+}
+
+.datenschutzerklaerung .borbus-xZ7hOt {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.94% - 120px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
+}
+
+.datenschutzerklaerung .warenkorb-oben-rechts-xZ7hOt {
+  background-color: transparent;
+  height: 41px;
+  position: absolute;
+  right: 80px;
+  top: 57px;
+  width: 44px;
+}
+
+.datenschutzerklaerung .iconfinder_basket_ecommerce_shop_4177565-xONXG5 {
+  background-color: transparent;
+  height: 24px;
+  object-fit: cover;
+  position: absolute;
+  right: 16px;
+  top: 17px;
+  width: 28px;
+}
+
+.datenschutzerklaerung .gruppe-579-xONXG5 {
+  background-color: transparent;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.datenschutzerklaerung .ellipse-47-D8u4Yd {
+  background-color: var(--stratos);
+  border-radius: 11.5px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.datenschutzerklaerung .anzahl-warenkorb-D8u4Yd {
+  -webkit-text-stroke: 0.05000000074505806px var(--gallery);
+  background-color: transparent;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: 5px;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 11px;
+}
+/* screen - datenschutzerklaerung-1200-all-breakpoints */
+
+.datenschutzerklaerung-1200-all-breakpoints {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 3030px;
+  min-width: 1200px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .gruppe-533-Js8fLx {
+  background-color: transparent;
+  height: calc(100.00% - 843px);
+  left: 152px;
+  position: absolute;
+  top: 317px;
+  width: calc(100.00% - 305px);
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .geltungsbereichdiese-ultswm {
+  background-color: transparent;
+  display: block;
+  height: calc(100.00% - 113px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 111px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .geltungsbereichdiese-ultswm.bp3-animate-enter145 {
+  animation: bp3-animate-enter145-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter145-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .datenschutzerklrung-ultswm {
+  background-color: transparent;
+  display: block;
+  height: 78px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 13px;
+  white-space: nowrap;
+  width: 397px;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .datenschutzerklrung-ultswm.bp3-animate-enter146 {
+  animation: bp3-animate-enter146-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter146-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .rechteck-118-Js8fLx {
+  background-color: var(--gallery);
+  box-shadow: 0px 2px 4px #00000029;
+  height: 34px;
+  left: 0px;
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .stoffqualitt-Js8fLx {
+  background-color: transparent;
+  height: 16px;
+  left: calc(34.72% - 28px);
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .handarbeit-Js8fLx {
+  background-color: transparent;
+  height: 15px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  right: calc(48.74% - 36px);
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 73px;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .sichere-bezahlung-Js8fLx {
+  background-color: transparent;
+  height: 16px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  right: calc(29.77% - 35px);
+  text-align: left;
+  top: 13px;
+  white-space: nowrap;
+  width: 119px;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .gruppe-199-Js8fLx {
+  background-color: transparent;
+  height: 17px;
+  position: absolute;
+  right: calc(37.47% - 5px);
+  top: 8px;
+  width: 12px;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .rechteck-155-xPlis1 {
+  background-color: var(--stratos);
+  border-radius: 2px;
+  height: calc(100.00% - 5px);
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 100%;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .pfad-284-xPlis1 {
+  background-color: transparent;
+  height: 14px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 4px);
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .pfad-285-xPlis1 {
+  background-color: transparent;
+  bottom: calc(29.77% - 2px);
+  height: 5px;
+  left: calc(49.03% - 3px);
+  object-fit: cover;
+  position: absolute;
+  width: 7px;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .rechteck-157-Js8fLx {
+  background-color: transparent;
+  border-radius: 1px;
+  height: 15px;
+  left: calc(47.29% - 11px);
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 23px;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .iconfinder_4265038_b-Js8fLx {
+  background-color: transparent;
+  height: 17px;
+  left: calc(31.25% - 4px);
+  position: absolute;
+  top: 9px;
+  width: 13px;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .ellipse-41-5MGwk4 {
+  background-color: var(--stratos);
+  border-radius: 2.75px;
+  height: 6px;
+  left: calc(49.99% - 3px);
+  position: absolute;
+  top: calc(33.49% - 2px);
+  width: 6px;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .pfad-286-5MGwk4 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .iconfinder_scissor_s-Js8fLx {
+  background-color: transparent;
+  height: 14px;
+  left: calc(47.06% - 8px);
+  position: absolute;
+  top: 10px;
+  width: 16px;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .pfad-273-tWw3eX {
+  background-color: transparent;
+  bottom: 2px;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: 1px;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .pfad-274-tWw3eX {
+  background-color: transparent;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .pfad-275-tWw3eX {
+  background-color: transparent;
+  height: 23px;
+  object-fit: cover;
+  position: absolute;
+  right: -9px;
+  top: 4.11%;
+  width: 28px;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .pfad-276-tWw3eX {
+  background-color: transparent;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .borbus-Js8fLx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.90% - 120px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .gruppe-322-Js8fLx {
+  background-color: transparent;
+  bottom: 0px;
+  height: 331px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .gruppe-163-mIBixo {
+  background-color: transparent;
+  display: block;
+  height: 100%;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .gruppe-163-mIBixo.bp3-animate-enter147 {
+  animation: bp3-animate-enter147-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter147-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .rechteck-90-53dSm1 {
+  background-color: var(--stratos);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .exklusive-serviceleistungen-53dSm1 {
+  background-color: transparent;
+  height: 63px;
+  left: 121px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 36px;
+  width: 214px;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .gruppe-137-53dSm1 {
+  background-color: transparent;
+  height: 15px;
+  left: 121px;
+  position: absolute;
+  top: calc(43.06% - 7px);
+  width: 118px;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .versand-frei-3YPjDj {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 1px);
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .truck-3YPjDj {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 26px;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .gruppe-341-53dSm1 {
+  background-color: transparent;
+  height: 155px;
+  left: calc(37.21% - 80px);
+  position: absolute;
+  top: 37px;
+  width: 214px;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .knnen-wir-helfen-sHYiHu {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  width: 216px;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .gruppe-339-sHYiHu {
+  background-color: transparent;
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  top: 99px;
+  width: 90px;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .gruppe-140-gwRhuh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 53px;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .kontakt-Vj7nw3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .contact-gwRhuh {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 25px;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .gruppe-340-sHYiHu {
+  background-color: transparent;
+  height: 20px;
+  left: calc(8.13% - 12px);
+  position: absolute;
+  top: 135px;
+  width: 154px;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .gruppe-141-uPtbQd {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 15px;
+  position: absolute;
+  right: 0px;
+  width: 122px;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .zahlungsoptionen-uOGXc6 {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .money-uPtbQd {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .gruppe-345-53dSm1 {
+  background-color: transparent;
+  height: 251px;
+  position: absolute;
+  right: calc(35.16% - 76px);
+  top: 37px;
+  width: 216px;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .das-unternehmen-KhP2nx {
+  background-color: transparent;
+  height: 63px;
+  left: calc(200.00% - 428px);
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  width: 214px;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .gruppe-344-KhP2nx {
+  background-color: transparent;
+  bottom: 0px;
+  height: 27px;
+  left: 0px;
+  position: absolute;
+  width: 110px;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .gruppe-158-VGLYuH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 80px;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .impressum-HnH1fA {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .gruppe-154-VGLYuH {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .gruppe-159-BjCoRO {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .ellipse-25-0oR8oX {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .i-0oR8oX {
+  background-color: transparent;
+  height: 25px;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: calc(100.00% - 7px);
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .gruppe-160-KhP2nx {
+  background-color: transparent;
+  bottom: 135px;
+  height: 20px;
+  left: calc(4.08% - 5px);
+  position: absolute;
+  width: 120px;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .gruppe-155-UGERDH {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 4px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 94px;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .gruppe-138-tpxBZ1 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .ber-borbus-uk9uBu {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .b-UGERDH {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 16px;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .gruppe-342-KhP2nx {
+  background-color: transparent;
+  bottom: 83px;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  width: 202px;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .gruppe-156-jlQAW2 {
+  background-color: transparent;
+  height: 100%;
+  left: 30px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 30px);
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .geschfts-und-nutzungsbediengungen-cE1Dag {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .solid-jlQAW2 {
+  background-color: transparent;
+  bottom: 4px;
+  height: 20px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 21px;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .gruppe-343-KhP2nx {
+  background-color: transparent;
+  bottom: 44px;
+  height: 19px;
+  left: 0px;
+  position: absolute;
+  width: 201px;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .gruppe-157-3c5km8 {
+  background-color: transparent;
+  height: 15px;
+  left: 30px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 30px);
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .datenschutz-cookies-xvlaN7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .cookie-3c5km8 {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 19px;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .gruppe-346-53dSm1 {
+  background-color: transparent;
+  height: 120px;
+  position: absolute;
+  right: calc(7.29% - 15px);
+  top: 37px;
+  width: 212px;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .besuche-uns-LxsVxP {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  width: 214px;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .gruppe-321-LxsVxP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 23px;
+  left: calc(0.46% - 1px);
+  position: absolute;
+  top: 98px;
+  width: 131px;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .gruppe-162-atbC8x {
+  background-color: transparent;
+  height: 100%;
+  left: 31px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 31px);
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .instagram-F6Avot {
+  background-color: transparent;
+  height: 25px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .icon-instagram-atbC8x {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .ssl-mIBixo {
+  background-color: transparent;
+  bottom: 31px;
+  display: block;
+  height: 90px;
+  left: calc(9.91% - 9px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 90px;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .ssl-mIBixo.bp3-animate-enter148 {
+  animation: bp3-animate-enter148-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter148-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .warenkorb-oben-rechts-Js8fLx {
+  background-color: transparent;
+  height: 41px;
+  position: absolute;
+  right: 83px;
+  top: 54px;
+  width: 44px;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .iconfinder_basket_ecommerce_shop_4177565-DrxZqZ {
+  background-color: transparent;
+  height: 24px;
+  object-fit: cover;
+  position: absolute;
+  right: 16px;
+  top: 17px;
+  width: 28px;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .gruppe-579-DrxZqZ {
+  background-color: transparent;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .ellipse-47-eRn5if {
+  background-color: var(--stratos);
+  border-radius: 11.5px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.datenschutzerklaerung-1200-all-breakpoints .anzahl-warenkorb-eRn5if {
+  -webkit-text-stroke: 0.05000000074505806px var(--gallery);
+  background-color: transparent;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: 5px;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 11px;
+}
+/* screen - datenschutzerklaerung-375 */
+
+.datenschutzerklaerung-375 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 5221px;
+  min-width: 375px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.datenschutzerklaerung-375 .gruppe-539-tyTB5u {
+  background-color: transparent;
+  height: 67px;
+  left: 9.87%;
+  position: absolute;
+  top: 235px;
+  width: 65.60%;
+}
+
+.datenschutzerklaerung-375 .datenschutzerklrung-QWllkg {
+  background-color: transparent;
+  display: block;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.datenschutzerklaerung-375 .datenschutzerklrung-QWllkg.bp1-animate-enter140 {
+  animation: bp1-animate-enter140-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter140-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.datenschutzerklaerung-375 .geltungsbereichdiese-tyTB5u {
+  background-color: transparent;
+  height: 4388px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  right: calc(38.61% - 125px);
+  text-align: left;
+  top: calc(46.71% - 2049px);
+  white-space: nowrap;
+  width: 324px;
+}
+
+.datenschutzerklaerung-375 .rechteck-118-tyTB5u {
+  background-color: var(--gallery);
+  box-shadow: 0px 2px 4px #00000029;
+  height: 34px;
+  left: 0px;
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.datenschutzerklaerung-375 .gruppe-546-tyTB5u {
+  background-color: transparent;
+  height: 17px;
+  position: absolute;
+  right: 21px;
+  top: 8px;
+  width: 107px;
+}
+
+.datenschutzerklaerung-375 .sichere-bezahlung-rxPxnS {
+  background-color: transparent;
+  bottom: -2px;
+  height: 13px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  opacity: 0.73;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 92px;
+}
+
+.datenschutzerklaerung-375 .gruppe-199-rxPxnS {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 12px;
+}
+
+.datenschutzerklaerung-375 .rechteck-155-oXnGTR {
+  background-color: var(--stratos);
+  border-radius: 2px;
+  height: calc(100.00% - 5px);
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 100%;
+}
+
+.datenschutzerklaerung-375 .pfad-284-oXnGTR {
+  background-color: transparent;
+  height: 14px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 4px);
+}
+
+.datenschutzerklaerung-375 .pfad-285-oXnGTR {
+  background-color: transparent;
+  bottom: calc(29.77% - 2px);
+  height: 5px;
+  left: calc(49.03% - 3px);
+  object-fit: cover;
+  position: absolute;
+  width: 7px;
+}
+
+.datenschutzerklaerung-375 .gruppe-548-tyTB5u {
+  background-color: transparent;
+  height: 17px;
+  left: 30px;
+  position: absolute;
+  top: 9px;
+  width: 78px;
+}
+
+.datenschutzerklaerung-375 .stoffqualitt-XoC80g {
+  background-color: transparent;
+  bottom: -1px;
+  height: 13px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  opacity: 0.73;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.datenschutzerklaerung-375 .iconfinder_4265038_b-XoC80g {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+
+.datenschutzerklaerung-375 .ellipse-41-ndmuoF {
+  background-color: var(--stratos);
+  border-radius: 2.75px;
+  height: 6px;
+  left: calc(49.99% - 3px);
+  position: absolute;
+  top: calc(33.49% - 2px);
+  width: 6px;
+}
+
+.datenschutzerklaerung-375 .pfad-286-ndmuoF {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.datenschutzerklaerung-375 .gruppe-547-tyTB5u {
+  background-color: transparent;
+  height: 14px;
+  left: calc(46.35% - 35px);
+  position: absolute;
+  top: 10px;
+  width: 75px;
+}
+
+.datenschutzerklaerung-375 .handarbeit-OojlP2 {
+  background-color: transparent;
+  bottom: -2px;
+  height: 12px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  opacity: 0.73;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 56px;
+}
+
+.datenschutzerklaerung-375 .iconfinder_scissor_s-OojlP2 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 16px;
+}
+
+.datenschutzerklaerung-375 .pfad-273-Iaze8z {
+  background-color: transparent;
+  bottom: 2px;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: 1px;
+}
+
+.datenschutzerklaerung-375 .pfad-274-Iaze8z {
+  background-color: transparent;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+
+.datenschutzerklaerung-375 .pfad-275-Iaze8z {
+  background-color: transparent;
+  height: 23px;
+  object-fit: cover;
+  position: absolute;
+  right: -9px;
+  top: 4.11%;
+  width: 28px;
+}
+
+.datenschutzerklaerung-375 .pfad-276-Iaze8z {
+  background-color: transparent;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.datenschutzerklaerung-375 .borbus-tyTB5u {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.26% - 118px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
+}
+
+.datenschutzerklaerung-375 .gruppe-327-tyTB5u {
+  background-color: transparent;
+  bottom: 0px;
+  height: 331px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.datenschutzerklaerung-375 .rechteck-90-TbF2sd {
+  background-color: var(--stratos);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.datenschutzerklaerung-375 .gruppe-356-TbF2sd {
+  background-color: transparent;
+  height: 88px;
+  left: calc(5.99% - 5px);
+  position: absolute;
+  top: calc(10.30% - 9px);
+  width: 91px;
+}
+
+.datenschutzerklaerung-375 .exklusive-serviceleistungen-o2tylL {
+  -webkit-text-stroke: 0.30000001192092896px var(--swirl);
+  background-color: transparent;
+  height: 40px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  width: calc(100.00% + 2px);
+}
+
+.datenschutzerklaerung-375 .gruppe-137-o2tylL {
+  background-color: transparent;
+  bottom: 1px;
+  height: 11px;
+  left: 0px;
+  position: absolute;
+  width: calc(100.00% - 9px);
+}
+
+.datenschutzerklaerung-375 .versand-frei-TZ4dxi {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 1px);
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.datenschutzerklaerung-375 .truck-TZ4dxi {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 19px;
+}
+
+.datenschutzerklaerung-375 .gruppe-359-TbF2sd {
+  background-color: transparent;
+  height: 120px;
+  left: calc(48.05% - 53px);
+  position: absolute;
+  top: 25px;
+  width: 111px;
+}
+
+.datenschutzerklaerung-375 .knnen-wir-helfen-cWk0kP {
+  -webkit-text-stroke: 0.30000001192092896px var(--swirl);
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  width: calc(100.00% - 12px);
+}
+
+.datenschutzerklaerung-375 .gruppe-357-cWk0kP {
+  background-color: transparent;
+  bottom: calc(29.92% - 3px);
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  width: 61px;
+}
+
+.datenschutzerklaerung-375 .gruppe-140-JyyS0k {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 38px;
+}
+
+.datenschutzerklaerung-375 .kontakt-vc2ksh {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.datenschutzerklaerung-375 .contact-JyyS0k {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.datenschutzerklaerung-375 .gruppe-358-cWk0kP {
+  background-color: transparent;
+  bottom: 0px;
+  height: 16px;
+  left: 3px;
+  position: absolute;
+  width: calc(100.00% - 3px);
+}
+
+.datenschutzerklaerung-375 .gruppe-141-4Rg9yP {
+  background-color: transparent;
+  bottom: 0px;
+  height: 11px;
+  position: absolute;
+  right: 0px;
+  width: 87px;
+}
+
+.datenschutzerklaerung-375 .zahlungsoptionen-dgX6G5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -7px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.datenschutzerklaerung-375 .money-4Rg9yP {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 15px;
+}
+
+.datenschutzerklaerung-375 .gruppe-363-TbF2sd {
+  background-color: transparent;
+  height: 196px;
+  position: absolute;
+  right: calc(5.44% - 6px);
+  top: calc(18.48% - 36px);
+  width: 102px;
+}
+
+.datenschutzerklaerung-375 .das-unternehmen-HCChP0 {
+  -webkit-text-stroke: 0.30000001192092896px var(--swirl);
+  background-color: transparent;
+  height: 17px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: calc(100.00% - 5px);
+}
+
+.datenschutzerklaerung-375 .gruppe-362-HCChP0 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 11px;
+  left: 1px;
+  position: absolute;
+  width: 68px;
+}
+
+.datenschutzerklaerung-375 .gruppe-158-5jXREb {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 15px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 15px);
+}
+
+.datenschutzerklaerung-375 .impressum-fj2Dth {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -7px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.datenschutzerklaerung-375 .gruppe-154-5jXREb {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 11px;
+}
+
+.datenschutzerklaerung-375 .gruppe-159-5FguME {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.datenschutzerklaerung-375 .ellipse-25-DZMMRh {
+  background-color: var(--white);
+  border-radius: 5.47px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.datenschutzerklaerung-375 .i-DZMMRh {
+  background-color: transparent;
+  height: 10px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  overflow: hidden;
+  position: absolute;
+  right: calc(34.51% - 2px);
+  text-align: left;
+  top: -7px;
+  white-space: nowrap;
+  width: 4px;
+}
+
+.datenschutzerklaerung-375 .gruppe-160-HCChP0 {
+  background-color: transparent;
+  height: 15px;
+  left: 1px;
+  position: absolute;
+  top: calc(40.56% - 6px);
+  width: 78px;
+}
+
+.datenschutzerklaerung-375 .gruppe-155-7xyDzV {
+  background-color: transparent;
+  bottom: 2px;
+  height: 11px;
+  position: absolute;
+  right: 0px;
+  width: 63px;
+}
+
+.datenschutzerklaerung-375 .gruppe-138-7niVcU {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.datenschutzerklaerung-375 .ber-borbus-QJe8WU {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -7px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.datenschutzerklaerung-375 .b-7xyDzV {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 13px;
+}
+
+.datenschutzerklaerung-375 .gruppe-361-HCChP0 {
+  background-color: transparent;
+  bottom: 28px;
+  height: 26px;
+  left: 1px;
+  position: absolute;
+  width: 100%;
+}
+
+.datenschutzerklaerung-375 .gruppe-156-v43peF {
+  background-color: transparent;
+  height: 100%;
+  left: 16px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 16px);
+}
+
+.datenschutzerklaerung-375 .geschftsbedien-gungen-XsEkW1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.datenschutzerklaerung-375 .solid-v43peF {
+  background-color: transparent;
+  height: 12px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(46.50% - 6px);
+  width: 13px;
+}
+
+.datenschutzerklaerung-375 .gruppe-360-HCChP0 {
+  background-color: transparent;
+  bottom: calc(41.77% - 5px);
+  height: 13px;
+  left: 0px;
+  position: absolute;
+  width: 81px;
+}
+
+.datenschutzerklaerung-375 .gruppe-157-Xk2mGB {
+  background-color: transparent;
+  bottom: 1px;
+  height: 10px;
+  position: absolute;
+  right: 0px;
+  width: 65px;
+}
+
+.datenschutzerklaerung-375 .datenschutz-x1aWj8 {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.datenschutzerklaerung-375 .cookie-Xk2mGB {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+
+.datenschutzerklaerung-375 .gruppe-325-TbF2sd {
+  background-color: transparent;
+  bottom: 18px;
+  cursor: pointer;
+  height: 18px;
+  position: absolute;
+  right: 31px;
+  width: 147px;
+}
+
+.datenschutzerklaerung-375 .gruppe-162-hnx30L {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 15px;
+  left: 0px;
+  position: absolute;
+  width: 122px;
+}
+
+.datenschutzerklaerung-375 .folge-uns-auf-instagram-BxVIKt {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.datenschutzerklaerung-375 .icon-instagram-hnx30L {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 18px;
+}
+
+.datenschutzerklaerung-375 .ssl-TbF2sd {
+  background-color: transparent;
+  bottom: 55px;
+  display: block;
+  height: 90px;
+  left: calc(8.86% - 8px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 90px;
+}
+
+.datenschutzerklaerung-375 .ssl-TbF2sd.bp1-animate-enter141 {
+  animation: bp1-animate-enter141-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter141-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.datenschutzerklaerung-375 .warenkorb-oben-rechts-tyTB5u {
+  background-color: transparent;
+  height: 32px;
+  position: absolute;
+  right: 10px;
+  top: 44px;
+  width: 35px;
+}
+
+.datenschutzerklaerung-375 .iconfinder_basket_ecommerce_shop_4177565-6TqiLm {
+  background-color: transparent;
+  height: 21px;
+  object-fit: cover;
+  position: absolute;
+  right: 11px;
+  top: 11px;
+  width: 24px;
+}
+
+.datenschutzerklaerung-375 .gruppe-579-6TqiLm {
+  background-color: transparent;
+  height: 16px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 16px;
+}
+
+.datenschutzerklaerung-375 .ellipse-47-um2uOb {
+  background-color: var(--stratos);
+  border-radius: 8.16px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 16px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 16px;
+}
+
+.datenschutzerklaerung-375 .anzahl-warenkorb-um2uOb {
+  -webkit-text-stroke: 0.05000000074505806px var(--gallery);
+  background-color: transparent;
+  height: 11px;
+  letter-spacing: 0.00px;
+  line-height: 9px;
+  position: absolute;
+  right: 4px;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 7px;
+}
+/* screen - datenschutzerklaerung-767 */
+
+.datenschutzerklaerung-767 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 4554px;
+  min-width: 767px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.datenschutzerklaerung-767 .gruppe-536-G0CpaI {
+  background-color: transparent;
+  height: calc(100.00% - 756px);
+  left: 95px;
+  position: absolute;
+  top: 317px;
+  width: calc(100.00% - 146px);
+}
+
+.datenschutzerklaerung-767 .datenschutzerklrung-KFY1Yu {
+  background-color: transparent;
+  display: block;
+  height: 136px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  width: calc(100.00% - 122px);
+}
+
+.datenschutzerklaerung-767 .datenschutzerklrung-KFY1Yu.bp2-animate-enter144 {
+  animation: bp2-animate-enter144-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter144-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.datenschutzerklaerung-767 .gruppe-166-KFY1Yu {
+  background-color: transparent;
+  display: block;
+  height: calc(100.00% - 208px);
+  left: 1px;
+  opacity: 0;
+  position: absolute;
+  top: 208px;
+  width: 100%;
+}
+
+.datenschutzerklaerung-767 .gruppe-166-KFY1Yu.bp2-animate-enter145 {
+  animation: bp2-animate-enter145-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter145-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.datenschutzerklaerung-767 .geltungsbereichdiese-tBxtQ8 {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.datenschutzerklaerung-767 .rechteck-118-G0CpaI {
+  background-color: var(--gallery);
+  box-shadow: 0px 2px 4px #00000029;
+  height: 34px;
+  left: 0px;
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.datenschutzerklaerung-767 .stoffqualitt-G0CpaI {
+  background-color: transparent;
+  height: 16px;
+  left: calc(28.20% - 23px);
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.datenschutzerklaerung-767 .handarbeit-G0CpaI {
+  background-color: transparent;
+  height: 15px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  right: calc(49.40% - 36px);
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 73px;
+}
+
+.datenschutzerklaerung-767 .sichere-bezahlung-G0CpaI {
+  background-color: transparent;
+  height: 16px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  right: calc(23.18% - 28px);
+  text-align: left;
+  top: 13px;
+  white-space: nowrap;
+  width: 119px;
+}
+
+.datenschutzerklaerung-767 .gruppe-199-G0CpaI {
+  background-color: transparent;
+  height: 17px;
+  position: absolute;
+  right: calc(36.40% - 4px);
+  top: 8px;
+  width: 12px;
+}
+
+.datenschutzerklaerung-767 .rechteck-155-Pqg8mH {
+  background-color: var(--stratos);
+  border-radius: 2px;
+  height: calc(100.00% - 5px);
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 100%;
+}
+
+.datenschutzerklaerung-767 .pfad-284-Pqg8mH {
+  background-color: transparent;
+  height: 14px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 4px);
+}
+
+.datenschutzerklaerung-767 .pfad-285-Pqg8mH {
+  background-color: transparent;
+  bottom: calc(29.77% - 2px);
+  height: 5px;
+  left: calc(49.03% - 3px);
+  object-fit: cover;
+  position: absolute;
+  width: 7px;
+}
+
+.datenschutzerklaerung-767 .rechteck-157-G0CpaI {
+  background-color: transparent;
+  border-radius: 1px;
+  height: 15px;
+  left: calc(46.61% - 11px);
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 23px;
+}
+
+.datenschutzerklaerung-767 .iconfinder_4265038_b-G0CpaI {
+  background-color: transparent;
+  height: 17px;
+  left: calc(23.29% - 3px);
+  position: absolute;
+  top: 9px;
+  width: 13px;
+}
+
+.datenschutzerklaerung-767 .ellipse-41-kywqRV {
+  background-color: var(--stratos);
+  border-radius: 2.75px;
+  height: 6px;
+  left: calc(49.99% - 3px);
+  position: absolute;
+  top: calc(33.49% - 2px);
+  width: 6px;
+}
+
+.datenschutzerklaerung-767 .pfad-286-kywqRV {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.datenschutzerklaerung-767 .iconfinder_scissor_s-G0CpaI {
+  background-color: transparent;
+  height: 14px;
+  left: calc(44.02% - 7px);
+  position: absolute;
+  top: 10px;
+  width: 16px;
+}
+
+.datenschutzerklaerung-767 .pfad-273-jLTtqS {
+  background-color: transparent;
+  bottom: 2px;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: 1px;
+}
+
+.datenschutzerklaerung-767 .pfad-274-jLTtqS {
+  background-color: transparent;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+
+.datenschutzerklaerung-767 .pfad-275-jLTtqS {
+  background-color: transparent;
+  height: 23px;
+  object-fit: cover;
+  position: absolute;
+  right: -9px;
+  top: 4.11%;
+  width: 28px;
+}
+
+.datenschutzerklaerung-767 .pfad-276-jLTtqS {
+  background-color: transparent;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.datenschutzerklaerung-767 .borbus-G0CpaI {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.81% - 120px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
+}
+
+.datenschutzerklaerung-767 .gruppe-163-G0CpaI {
+  background-color: transparent;
+  bottom: 0px;
+  display: block;
+  height: 331px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.datenschutzerklaerung-767 .gruppe-163-G0CpaI.bp2-animate-enter146 {
+  animation: bp2-animate-enter146-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter146-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.datenschutzerklaerung-767 .rechteck-90-k3p1aV {
+  background-color: var(--stratos);
+  bottom: 0px;
+  height: 331px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.datenschutzerklaerung-767 .gruppe-347-k3p1aV {
+  background-color: transparent;
+  height: 114px;
+  left: 51px;
+  position: absolute;
+  top: 37px;
+  width: 148px;
+}
+
+.datenschutzerklaerung-767 .exklusive-serviceleistungen-OkuHbr {
+  background-color: transparent;
+  height: 54px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  width: calc(100.00% + 2px);
+}
+
+.datenschutzerklaerung-767 .gruppe-137-OkuHbr {
+  background-color: transparent;
+  bottom: 0px;
+  height: 15px;
+  left: 0px;
+  position: absolute;
+  width: 118px;
+}
+
+.datenschutzerklaerung-767 .versand-frei-uzgWq7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 1px);
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.datenschutzerklaerung-767 .truck-uzgWq7 {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 26px;
+}
+
+.datenschutzerklaerung-767 .gruppe-350-k3p1aV {
+  background-color: transparent;
+  height: 155px;
+  left: calc(38.10% - 60px);
+  position: absolute;
+  top: 37px;
+  width: 158px;
+}
+
+.datenschutzerklaerung-767 .knnen-wir-helfen-xYS4sa {
+  background-color: transparent;
+  height: 28px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: 160px;
+}
+
+.datenschutzerklaerung-767 .gruppe-348-xYS4sa {
+  background-color: transparent;
+  bottom: calc(29.79% - 4px);
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  width: 86px;
+}
+
+.datenschutzerklaerung-767 .gruppe-140-4q3vLd {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 53px;
+}
+
+.datenschutzerklaerung-767 .kontakt-xFefYG {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.datenschutzerklaerung-767 .contact-4q3vLd {
+  background-color: transparent;
+  height: 12px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 25px;
+}
+
+.datenschutzerklaerung-767 .gruppe-349-xYS4sa {
+  background-color: transparent;
+  bottom: 0px;
+  height: 20px;
+  left: calc(37.82% - 57px);
+  position: absolute;
+  width: 152px;
+}
+
+.datenschutzerklaerung-767 .gruppe-141-oOk7OX {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 15px;
+  position: absolute;
+  right: 0px;
+  width: 122px;
+}
+
+.datenschutzerklaerung-767 .zahlungsoptionen-UmfJlk {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.datenschutzerklaerung-767 .money-oOk7OX {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 20px;
+}
+
+.datenschutzerklaerung-767 .gruppe-354-k3p1aV {
+  background-color: transparent;
+  height: 251px;
+  position: absolute;
+  right: calc(23.89% - 49px);
+  top: 37px;
+  width: 205px;
+}
+
+.datenschutzerklaerung-767 .das-unternehmen-RYoI4s {
+  background-color: transparent;
+  height: 28px;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% - 49px);
+}
+
+.datenschutzerklaerung-767 .gruppe-353-RYoI4s {
+  background-color: transparent;
+  bottom: 0px;
+  height: 27px;
+  left: 1px;
+  position: absolute;
+  width: 113px;
+}
+
+.datenschutzerklaerung-767 .gruppe-158-AjXiaI {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  position: absolute;
+  right: 1px;
+  top: 2px;
+  width: 80px;
+}
+
+.datenschutzerklaerung-767 .impressum-gZGOB8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.datenschutzerklaerung-767 .gruppe-154-AjXiaI {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+
+.datenschutzerklaerung-767 .gruppe-159-fxZnQb {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.datenschutzerklaerung-767 .ellipse-25-45Kx56 {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.datenschutzerklaerung-767 .i-45Kx56 {
+  background-color: transparent;
+  height: 25px;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: calc(100.00% - 7px);
+}
+
+.datenschutzerklaerung-767 .gruppe-160-RYoI4s {
+  background-color: transparent;
+  height: 20px;
+  left: 7px;
+  position: absolute;
+  top: calc(41.56% - 8px);
+  width: 120px;
+}
+
+.datenschutzerklaerung-767 .gruppe-155-mxVTJd {
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 94px;
+}
+
+.datenschutzerklaerung-767 .gruppe-138-5PDBcI {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.datenschutzerklaerung-767 .ber-borbus-WAUuUh {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.datenschutzerklaerung-767 .b-mxVTJd {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 16px;
+}
+
+.datenschutzerklaerung-767 .gruppe-351-RYoI4s {
+  background-color: transparent;
+  bottom: calc(37.16% - 12px);
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.datenschutzerklaerung-767 .gruppe-156-74E2NK {
+  background-color: transparent;
+  height: 100%;
+  left: 33px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 33px);
+}
+
+.datenschutzerklaerung-767 .geschfts-und-nutzungsbediengungen-ABVxJI {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.datenschutzerklaerung-767 .solid-74E2NK {
+  background-color: transparent;
+  bottom: calc(47.15% - 10px);
+  height: 20px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 21px;
+}
+
+.datenschutzerklaerung-767 .gruppe-352-RYoI4s {
+  background-color: transparent;
+  bottom: calc(18.98% - 4px);
+  height: 19px;
+  left: 2px;
+  position: absolute;
+  width: calc(100.00% - 3px);
+}
+
+.datenschutzerklaerung-767 .gruppe-157-BaKvzW {
+  background-color: transparent;
+  height: 15px;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 171px;
+}
+
+.datenschutzerklaerung-767 .datenschutz-cookies-CCjOMo {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.datenschutzerklaerung-767 .cookie-BaKvzW {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 19px;
+}
+
+.datenschutzerklaerung-767 .gruppe-355-k3p1aV {
+  background-color: transparent;
+  height: 122px;
+  position: absolute;
+  right: calc(4.87% - 5px);
+  top: 37px;
+  width: 110px;
+}
+
+.datenschutzerklaerung-767 .besuche-uns-cdiQRN {
+  background-color: transparent;
+  height: 28px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.datenschutzerklaerung-767 .gruppe-323-cdiQRN {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 26px;
+  left: 0px;
+  position: absolute;
+  width: calc(100.00% - 4px);
+}
+
+.datenschutzerklaerung-767 .gruppe-162-bbT5Q5 {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  position: absolute;
+  right: 0px;
+  top: 3px;
+  width: 82px;
+}
+
+.datenschutzerklaerung-767 .instagram-ENLAhT {
+  background-color: transparent;
+  height: 25px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.datenschutzerklaerung-767 .icon-instagram-bbT5Q5 {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.datenschutzerklaerung-767 .ssl-G0CpaI {
+  background-color: transparent;
+  bottom: 31px;
+  display: block;
+  height: 90px;
+  left: calc(9.91% - 9px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 90px;
+}
+
+.datenschutzerklaerung-767 .ssl-G0CpaI.bp2-animate-enter147 {
+  animation: bp2-animate-enter147-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter147-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.datenschutzerklaerung-767 .warenkorb-oben-rechts-G0CpaI {
+  background-color: transparent;
+  height: 41px;
+  position: absolute;
+  right: 49px;
+  top: 49px;
+  width: 44px;
+}
+
+.datenschutzerklaerung-767 .iconfinder_basket_ecommerce_shop_4177565-emupCb {
+  background-color: transparent;
+  height: 24px;
+  object-fit: cover;
+  position: absolute;
+  right: 16px;
+  top: 17px;
+  width: 28px;
+}
+
+.datenschutzerklaerung-767 .gruppe-579-emupCb {
+  background-color: transparent;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.datenschutzerklaerung-767 .ellipse-47-ZgzANF {
+  background-color: var(--stratos);
+  border-radius: 11.5px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.datenschutzerklaerung-767 .anzahl-warenkorb-ZgzANF {
+  -webkit-text-stroke: 0.05000000074505806px var(--gallery);
+  background-color: transparent;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: 5px;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 11px;
+}
+@media screen and (max-width: 766px) {
+  .screen.datenschutzerklaerung { 
+    display: none;
+   }
+  .screen.datenschutzerklaerung-1200-all-breakpoints { 
+    display: none;
+   }
+  .screen.datenschutzerklaerung-767 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 767px) and (max-width: 1199px) {
+  .screen.datenschutzerklaerung { 
+    display: none;
+   }
+  .screen.datenschutzerklaerung-1200-all-breakpoints { 
+    display: none;
+   }
+  .screen.datenschutzerklaerung-375 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1200px) and (max-width: 1919px) {
+  .screen.datenschutzerklaerung { 
+    display: none;
+   }
+  .screen.datenschutzerklaerung-767 { 
+    display: none;
+   }
+  .screen.datenschutzerklaerung-375 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1920px) {
+  .screen.datenschutzerklaerung-1200-all-breakpoints { 
+    display: none;
+   }
+  .screen.datenschutzerklaerung-767 { 
+    display: none;
+   }
+  .screen.datenschutzerklaerung-375 { 
+    display: none;
+   }
+}

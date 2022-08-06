@@ -1,0 +1,6811 @@
+/* screen - bestellubersicht */
+
+.bestellubersicht {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1490px;
+  min-width: 1920px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.bestellubersicht .rechteck-173-wr6AgC {
+  background-color: var(--black-haze);
+  border-radius: 4px;
+  height: 469px;
+  left: 139px;
+  position: absolute;
+  top: 312px;
+  width: 1173px;
+}
+
+.bestellubersicht .rechteck-175-wr6AgC {
+  background-color: var(--black-haze);
+  border-radius: 4px;
+  height: 389px;
+  position: absolute;
+  right: calc(9.34% - 40px);
+  top: calc(28.34% - 110px);
+  width: 432px;
+}
+
+.bestellubersicht .rechteck-174-wr6AgC {
+  background-color: transparent;
+  border: 1px solid var(--black-haze);
+  border-radius: 4px;
+  bottom: calc(34.23% - 101px);
+  height: 295px;
+  left: 139px;
+  position: absolute;
+  width: 1173px;
+}
+
+.bestellubersicht .rechteck-161-wr6AgC {
+  background-color: var(--white);
+  height: 146px;
+  left: 0px;
+  position: absolute;
+  top: 63px;
+  width: 100%;
+}
+
+.bestellubersicht .rechteck-118-wr6AgC {
+  background-color: var(--gallery);
+  box-shadow: 0px 2px 4px #00000029;
+  height: 34px;
+  left: 0px;
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht .stoffqualitt-wr6AgC {
+  background-color: transparent;
+  height: 16px;
+  left: calc(33.45% - 27px);
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.bestellubersicht .handarbeit-wr6AgC {
+  background-color: transparent;
+  height: 15px;
+  left: calc(49.82% - 36px);
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 73px;
+}
+
+.bestellubersicht .rechteck-157-wr6AgC {
+  background-color: transparent;
+  border-radius: 1px;
+  height: 15px;
+  left: calc(47.29% - 11px);
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 23px;
+}
+
+.bestellubersicht .iconfinder_scissor_s-wr6AgC {
+  background-color: transparent;
+  height: 14px;
+  left: calc(47.06% - 8px);
+  position: absolute;
+  top: 10px;
+  width: 16px;
+}
+
+.bestellubersicht .pfad-273-yKSDvq {
+  background-color: transparent;
+  bottom: 1px;
+  height: 2px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 2px;
+}
+
+.bestellubersicht .pfad-274-yKSDvq {
+  background-color: transparent;
+  height: calc(100.00% + 19px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 19px);
+}
+
+.bestellubersicht .pfad-275-yKSDvq {
+  background-color: transparent;
+  height: 24px;
+  object-fit: cover;
+  position: absolute;
+  right: -9px;
+  top: 1.54%;
+  width: 29px;
+}
+
+.bestellubersicht .pfad-276-yKSDvq {
+  background-color: transparent;
+  height: 2px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 2px;
+}
+
+.bestellubersicht .iconfinder_4265038_b-wr6AgC {
+  background-color: transparent;
+  height: 17px;
+  left: calc(31.25% - 4px);
+  position: absolute;
+  top: 9px;
+  width: 13px;
+}
+
+.bestellubersicht .ellipse-41-G9siln {
+  background-color: var(--stratos);
+  border-radius: 2.75px;
+  height: 6px;
+  left: calc(49.99% - 3px);
+  position: absolute;
+  top: calc(33.49% - 2px);
+  width: 6px;
+}
+
+.bestellubersicht .pfad-286-G9siln {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht .sichere-bezahlung-wr6AgC {
+  background-color: transparent;
+  height: 16px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  right: calc(32.70% - 39px);
+  text-align: left;
+  top: 13px;
+  white-space: nowrap;
+  width: 119px;
+}
+
+.bestellubersicht .gruppe-199-wr6AgC {
+  background-color: transparent;
+  height: 17px;
+  position: absolute;
+  right: calc(37.47% - 5px);
+  top: 8px;
+  width: 12px;
+}
+
+.bestellubersicht .rechteck-155-8ZxsW6 {
+  background-color: var(--stratos);
+  border-radius: 2px;
+  height: calc(100.00% - 5px);
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 100%;
+}
+
+.bestellubersicht .pfad-284-8ZxsW6 {
+  background-color: transparent;
+  height: 14px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 4px);
+}
+
+.bestellubersicht .pfad-285-8ZxsW6 {
+  background-color: transparent;
+  bottom: calc(29.77% - 2px);
+  height: 5px;
+  left: calc(49.03% - 3px);
+  object-fit: cover;
+  position: absolute;
+  width: 7px;
+}
+
+.bestellubersicht .borbus-wr6AgC {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.94% - 120px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
+}
+
+.bestellubersicht .bestellbersicht-wr6AgC {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 37px;
+  left: 139px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 198px;
+  white-space: nowrap;
+  width: 282px;
+}
+
+.bestellubersicht .bestellbersicht-wr6AgC.bp4-animate-enter {
+  animation: bp4-animate-enter-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .kleidchenbezeichnung-wr6AgC {
+  -webkit-text-stroke: 0.05000000074505806px var(--tacao);
+  background-color: transparent;
+  bottom: calc(43.68% - 12px);
+  color: var(--tacao);
+  display: block;
+  font-family: var(--font-family-hiraginomincho_pron-w6);
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: 27px;
+  left: 205px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 169px;
+}
+
+.bestellubersicht .kleidchenbezeichnung-wr6AgC.bp4-animate-enter1 {
+  animation: bp4-animate-enter1-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter1-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .gruppe-598-wr6AgC {
+  background-color: transparent;
+  height: 16px;
+  left: 139px;
+  position: absolute;
+  top: 259px;
+  width: 681px;
+}
+
+.bestellubersicht .datenschutz-cookies-Rkm2Jt {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  color: var(--navy-blue);
+  cursor: pointer;
+  display: block;
+  font-family: var(--font-family-hiraginomincho_pron-w3);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+  height: calc(100.00% + 1px);
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  right: calc(22.96% - 38px);
+  text-align: left;
+  text-decoration: underline;
+  top: -4px;
+  white-space: nowrap;
+  width: 167px;
+}
+
+.bestellubersicht .datenschutz-cookies-Rkm2Jt.bp4-animate-enter2 {
+  animation: bp4-animate-enter2-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter2-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .bei-bestellung-stimm-Rkm2Jt {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  display: block;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: -3px;
+  white-space: nowrap;
+  width: 321px;
+}
+
+.bestellubersicht .bei-bestellung-stimm-Rkm2Jt.bp4-animate-enter3 {
+  animation: bp4-animate-enter3-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter3-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .ag-bs-Rkm2Jt {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  color: var(--navy-blue);
+  cursor: pointer;
+  display: block;
+  font-family: var(--font-family-hiraginomincho_pron-w3);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+  height: calc(100.00% + 1px);
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.84% - 22px);
+  text-align: left;
+  text-decoration: underline;
+  top: -4px;
+  white-space: nowrap;
+  width: 45px;
+}
+
+.bestellubersicht .ag-bs-Rkm2Jt.bp4-animate-enter4 {
+  animation: bp4-animate-enter4-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter4-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .und-Rkm2Jt {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  display: block;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  right: calc(43.85% - 14px);
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: 31px;
+}
+
+.bestellubersicht .und-Rkm2Jt.bp4-animate-enter5 {
+  animation: bp4-animate-enter5-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter5-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .von-borbus-zu-Rkm2Jt {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  display: block;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  overflow: hidden;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: 119px;
+}
+
+.bestellubersicht .von-borbus-zu-Rkm2Jt.bp4-animate-enter6 {
+  animation: bp4-animate-enter6-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter6-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .gruppe-600-wr6AgC {
+  background-color: transparent;
+  height: 17px;
+  left: 205px;
+  position: absolute;
+  top: calc(25.56% - 4px);
+  width: 166px;
+}
+
+.bestellubersicht .lieferadresse-wMdLzU {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: 114px;
+}
+
+.bestellubersicht .lieferadresse-wMdLzU.bp4-animate-enter7 {
+  animation: bp4-animate-enter7-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter7-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .ndern1-wMdLzU {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  bottom: 5px;
+  display: block;
+  height: 14px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.bestellubersicht .ndern1-wMdLzU.bp4-animate-enter8 {
+  animation: bp4-animate-enter8-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter8-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .kundennameinput1-wr6AgC {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 19px;
+  left: 205px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(29.50% - 6px);
+  white-space: nowrap;
+  width: 138px;
+}
+
+.bestellubersicht .kundennameinput1-wr6AgC.bp4-animate-enter9 {
+  animation: bp4-animate-enter9-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter9-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .kundenstrasseinput1-wr6AgC {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 19px;
+  left: 205px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(32.43% - 6px);
+  white-space: nowrap;
+  width: 171px;
+}
+
+.bestellubersicht .kundenstrasseinput1-wr6AgC.bp4-animate-enter10 {
+  animation: bp4-animate-enter10-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter10-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .kundenplzinput1-wr6AgC {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 19px;
+  left: 205px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(35.35% - 7px);
+  white-space: nowrap;
+  width: 71px;
+}
+
+.bestellubersicht .kundenplzinput1-wr6AgC.bp4-animate-enter11 {
+  animation: bp4-animate-enter11-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter11-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .kundenemailinput1-wr6AgC {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 19px;
+  left: 205px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(38.27% - 7px);
+  white-space: nowrap;
+  width: 122px;
+}
+
+.bestellubersicht .kundenemailinput1-wr6AgC.bp4-animate-enter12 {
+  animation: bp4-animate-enter12-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter12-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .x-wr6AgC {
+  -webkit-text-stroke: 0.05000000074505806px var(--monza);
+  background-color: transparent;
+  bottom: calc(38.26% - 21px);
+  display: block;
+  height: 55px;
+  left: 24.61%;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 2px;
+}
+
+.bestellubersicht .x-wr6AgC.bp4-animate-enter13 {
+  animation: bp4-animate-enter13-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter13-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .gruppe-599-wr6AgC {
+  background-color: transparent;
+  bottom: calc(28.45% - 71px);
+  height: 251px;
+  left: 205px;
+  position: absolute;
+  width: 691px;
+}
+
+.bestellubersicht .vorderseitebild-0bQy4q {
+  background-color: var(--white);
+  height: calc(100.00% - 105px);
+  left: 0px;
+  position: absolute;
+  top: 10px;
+  width: 186px;
+}
+
+.bestellubersicht .gruppe-597-0bQy4q {
+  background-color: transparent;
+  height: 251px;
+  position: absolute;
+  right: 0px;
+  top: calc(50.00% - 126px);
+  width: 443px;
+}
+
+.bestellubersicht .voraussichtliche-lie-AR8qcA {
+  background-color: transparent;
+  display: block;
+  height: 253px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 445px;
+}
+
+.bestellubersicht .span0-N6VrUH {
+}
+
+.bestellubersicht .span1-N6VrUH {
+}
+
+.bestellubersicht .span2-N6VrUH {
+  color: var(--monza);
+  font-family: var(--font-family-hiraginomincho_pron-w3);
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.bestellubersicht .span3-N6VrUH {
+}
+
+.bestellubersicht .voraussichtliche-lie-AR8qcA.bp4-animate-enter14 {
+  animation: bp4-animate-enter14-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter14-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .stckpreis-AR8qcA {
+  -webkit-text-stroke: 0.05000000074505806px var(--monza);
+  background-color: transparent;
+  display: block;
+  height: 24px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 0;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: calc(27.97% - 7px);
+  width: 92px;
+}
+
+.bestellubersicht .span0-ICCCdS {
+}
+
+.bestellubersicht .span1-ICCCdS {
+}
+
+.bestellubersicht .stckpreis-AR8qcA.bp4-animate-enter15 {
+  animation: bp4-animate-enter15-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter15-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .gruppe-607-wr6AgC {
+  background-color: transparent;
+  height: 226px;
+  position: absolute;
+  right: calc(22.31% - 30px);
+  top: calc(29.79% - 67px);
+  width: 136px;
+}
+
+.bestellubersicht .bestellbersicht-xfF9Ix {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 19px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht .bestellbersicht-xfF9Ix.bp4-animate-enter16 {
+  animation: bp4-animate-enter16-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter16-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .versandkostengesamtkosten-xfF9Ix {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: 1px;
+  color: var(--monza);
+  display: block;
+  font-family: var(--font-family-hiragino_mincho_pron);
+  font-size: 17px;
+  font-weight: 400;
+  height: 173px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 17px);
+}
+
+.bestellubersicht .span0-V6EtBi {
+}
+
+.bestellubersicht .span1-V6EtBi {
+}
+
+.bestellubersicht .versandkostengesamtkosten-xfF9Ix.bp4-animate-enter17 {
+  animation: bp4-animate-enter17-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter17-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .gruppe-608-wr6AgC {
+  background-color: transparent;
+  height: 170px;
+  position: absolute;
+  right: calc(9.62% - 9px);
+  top: calc(32.69% - 56px);
+  width: 90px;
+}
+
+.bestellubersicht .gesamtpreis1-IDuWLI {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: 0.33%;
+  display: block;
+  height: 19px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  right: -2px;
+  text-align: right;
+  white-space: nowrap;
+  width: 92px;
+}
+
+.bestellubersicht .gesamtpreis1-IDuWLI.bp4-animate-enter18 {
+  animation: bp4-animate-enter18-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter18-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .stckpreis-IDuWLI {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(101.66% - 19px);
+  display: block;
+  height: 19px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  right: 4px;
+  text-align: right;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.bestellubersicht .stckpreis-IDuWLI.bp4-animate-enter19 {
+  animation: bp4-animate-enter19-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter19-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .x0000-eur-IDuWLI {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 19px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  right: 4px;
+  text-align: right;
+  top: calc(28.15% - 5px);
+  white-space: nowrap;
+  width: 88px;
+}
+
+.bestellubersicht .x0000-eur-IDuWLI.bp4-animate-enter20 {
+  animation: bp4-animate-enter20-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter20-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .kleidchenbezeichnung-P57a13 {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 19px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  right: calc(23.43% - 26px);
+  text-align: left;
+  top: calc(29.16% - 6px);
+  white-space: nowrap;
+  width: 110px;
+}
+
+.bestellubersicht .kleidchenbezeichnung-P57a13.bp4-animate-enter21 {
+  animation: bp4-animate-enter21-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter21-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .gruppe-606-wr6AgC {
+  background-color: transparent;
+  height: 83px;
+  left: calc(35.13% - 56px);
+  position: absolute;
+  top: calc(26.76% - 22px);
+  width: 158px;
+}
+
+.bestellubersicht .gruppe-603-sB6rKT {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht .gruppe-601-4wn5bp {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 101px;
+}
+
+.bestellubersicht .zahlungsart-JVEJ2T {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht .zahlungsart-JVEJ2T.bp4-animate-enter22 {
+  animation: bp4-animate-enter22-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter22-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .gruppe-602-4wn5bp {
+  background-color: transparent;
+  bottom: 0px;
+  height: 38px;
+  left: 6px;
+  position: absolute;
+  width: calc(100.00% - 6px);
+}
+
+.bestellubersicht .paypal-konto-TxxMbE {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: calc(44.45% - 9px);
+  white-space: nowrap;
+  width: 109px;
+}
+
+.bestellubersicht .paypal-konto-TxxMbE.bp4-animate-enter23 {
+  animation: bp4-animate-enter23-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter23-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .gruppe-557-TxxMbE {
+  background-color: transparent;
+  bottom: 0px;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  width: 32px;
+}
+
+.bestellubersicht .x32_50-paypal-lhjaRI {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 1px;
+  width: 100%;
+}
+
+.bestellubersicht .gruppe-700-sO9xXq {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht .pfad-288-375xOW {
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 4px);
+}
+
+.bestellubersicht .pfad-289-375xOW {
+  background-color: transparent;
+  bottom: 0px;
+  height: 28px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 24px;
+}
+
+.bestellubersicht .linie-54-wr6AgC {
+  background-color: transparent;
+  display: block;
+  height: 1px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  right: 164px;
+  top: 36.67%;
+  width: 381px;
+}
+
+.bestellubersicht .linie-54-wr6AgC.bp4-animate-enter24 {
+  animation: bp4-animate-enter24-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter24-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .gruppe-163-wr6AgC {
+  background-color: transparent;
+  bottom: 0px;
+  display: block;
+  height: 331px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.bestellubersicht .gruppe-163-wr6AgC.bp4-animate-enter25 {
+  animation: bp4-animate-enter25-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter25-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .rechteck-90-PicDpg {
+  background-color: var(--stratos);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht .gruppe-364-PicDpg {
+  background-color: transparent;
+  height: 114px;
+  left: calc(13.51% - 32px);
+  position: absolute;
+  top: calc(17.06% - 19px);
+  width: 240px;
+}
+
+.bestellubersicht .exklusive-serviceleistungen-AZJrPG {
+  background-color: transparent;
+  height: 63px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% - 26px);
+}
+
+.bestellubersicht .gruppe-137-AZJrPG {
+  background-color: transparent;
+  bottom: 0px;
+  height: 15px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.bestellubersicht .versand-rckversand-frei-i1kpx7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 34px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% - 32px);
+}
+
+.bestellubersicht .truck-i1kpx7 {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 26px;
+}
+
+.bestellubersicht .gruppe-367-PicDpg {
+  background-color: transparent;
+  height: 155px;
+  left: calc(40.73% - 134px);
+  position: absolute;
+  top: 37px;
+  width: 329px;
+}
+
+.bestellubersicht .knnen-wir-helfen-hkBBps {
+  background-color: transparent;
+  height: 63px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% + 1px);
+}
+
+.bestellubersicht .gruppe-365-hkBBps {
+  background-color: transparent;
+  bottom: calc(29.29% - 4px);
+  height: 15px;
+  left: 0px;
+  position: absolute;
+  width: 92px;
+}
+
+.bestellubersicht .gruppe-140-ATjWt8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 57px;
+}
+
+.bestellubersicht .kontakt-N5xDiG {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht .contact-ATjWt8 {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 25px;
+}
+
+.bestellubersicht .gruppe-366-hkBBps {
+  background-color: transparent;
+  bottom: 0px;
+  height: 20px;
+  left: 5px;
+  position: absolute;
+  width: 160px;
+}
+
+.bestellubersicht .gruppe-141-y1kqNl {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 4px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 130px;
+}
+
+.bestellubersicht .zahlungsoptionen-8asGin {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht .money-y1kqNl {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 20px;
+}
+
+.bestellubersicht .gruppe-372-PicDpg {
+  background-color: transparent;
+  height: 117px;
+  position: absolute;
+  right: calc(12.59% - 27px);
+  top: 37px;
+  width: 212px;
+}
+
+.bestellubersicht .besuche-uns-tqjyc0 {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht .gruppe-320-tqjyc0 {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 18px;
+  left: 0px;
+  position: absolute;
+  width: 102px;
+}
+
+.bestellubersicht .gruppe-162-grld3Z {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 73px;
+}
+
+.bestellubersicht .instagram-xNQZHU {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht .icon-instagram-grld3Z {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.bestellubersicht .ssl-wr6AgC {
+  background-color: transparent;
+  bottom: 60px;
+  display: block;
+  height: 90px;
+  left: calc(12.35% - 11px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 90px;
+}
+
+.bestellubersicht .ssl-wr6AgC.bp4-animate-enter26 {
+  animation: bp4-animate-enter26-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter26-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht .gruppe-554-wr6AgC {
+  background-color: transparent;
+  bottom: 43px;
+  height: 251px;
+  position: absolute;
+  right: calc(36.66% - 84px);
+  width: 229px;
+}
+
+.bestellubersicht .gruppe-371-NeOw8g {
+  background-color: transparent;
+  height: 251px;
+  left: calc(50.00% - 114px);
+  position: absolute;
+  top: 0px;
+  width: 229px;
+}
+
+.bestellubersicht .das-unternehmen-EEWncl {
+  background-color: transparent;
+  height: 63px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% - 15px);
+}
+
+.bestellubersicht .gruppe-370-EEWncl {
+  background-color: transparent;
+  bottom: 0px;
+  height: 27px;
+  left: 8px;
+  position: absolute;
+  width: 30px;
+}
+
+.bestellubersicht .gruppe-154-3E7pbr {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht .gruppe-159-7eBMbQ {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht .ellipse-25-VrOnB1 {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.bestellubersicht .i-VrOnB1 {
+  background-color: transparent;
+  height: 25px;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: calc(100.00% - 7px);
+}
+
+.bestellubersicht .gruppe-160-EEWncl {
+  background-color: transparent;
+  height: 20px;
+  left: 8px;
+  position: absolute;
+  top: calc(41.56% - 8px);
+  width: 118px;
+}
+
+.bestellubersicht .gruppe-155-DDTg4R {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 4px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 94px;
+}
+
+.bestellubersicht .gruppe-138-KaG1pv {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht .ber-borbus-pU4l2F {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht .b-DDTg4R {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 16px;
+}
+
+.bestellubersicht .gruppe-368-EEWncl {
+  background-color: transparent;
+  bottom: calc(37.73% - 12px);
+  height: 31px;
+  left: 6px;
+  position: absolute;
+  width: calc(100.00% - 6px);
+}
+
+.bestellubersicht .gruppe-156-BpfiSe {
+  background-color: transparent;
+  height: 100%;
+  left: 29px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 29px);
+}
+
+.bestellubersicht .geschfts-und-nutzungs-bediengungen-9sWVhR {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht .solid-BpfiSe {
+  background-color: transparent;
+  bottom: 4px;
+  height: 20px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 21px;
+}
+
+.bestellubersicht .gruppe-369-EEWncl {
+  background-color: transparent;
+  bottom: calc(18.98% - 4px);
+  height: 19px;
+  left: 7px;
+  position: absolute;
+  width: calc(100.00% - 30px);
+}
+
+.bestellubersicht .gruppe-157-9sIsgn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 15px;
+  left: 28px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 28px);
+}
+
+.bestellubersicht .datenschutz-cookies-g8Bv1G {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht .cookie-9sIsgn {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 19px;
+}
+
+.bestellubersicht .impressum-NeOw8g {
+  background-color: transparent;
+  bottom: 8px;
+  cursor: pointer;
+  height: 17px;
+  left: calc(23.53% - 18px);
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 76px;
+}
+
+.bestellubersicht .paypal-button-large-desktop-wr6AgC {
+  background-color: var(--black-haze);
+  border-radius: 6px;
+  height: 52px;
+  opacity: 0.8;
+  position: absolute;
+  right: calc(11.27% - 40px);
+  top: calc(43.74% - 23px);
+  width: 358px;
+}
+/* screen - bestellubersicht-1200-all-breakpoints */
+
+.bestellubersicht-1200-all-breakpoints {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1326px;
+  min-width: 1200px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.bestellubersicht-1200-all-breakpoints .rechteck-118-CEFmZZ {
+  background-color: var(--gallery);
+  box-shadow: 0px 2px 4px #00000029;
+  height: 34px;
+  left: 0px;
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-1200-all-breakpoints .stoffqualitt-CEFmZZ {
+  background-color: transparent;
+  height: 16px;
+  left: calc(34.72% - 28px);
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.bestellubersicht-1200-all-breakpoints .handarbeit-CEFmZZ {
+  background-color: transparent;
+  height: 15px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  right: calc(48.74% - 36px);
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 73px;
+}
+
+.bestellubersicht-1200-all-breakpoints .sichere-bezahlung-CEFmZZ {
+  background-color: transparent;
+  height: 16px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  right: calc(29.77% - 35px);
+  text-align: left;
+  top: 13px;
+  white-space: nowrap;
+  width: 119px;
+}
+
+.bestellubersicht-1200-all-breakpoints .gruppe-199-CEFmZZ {
+  background-color: transparent;
+  height: 17px;
+  position: absolute;
+  right: calc(37.47% - 5px);
+  top: 8px;
+  width: 12px;
+}
+
+.bestellubersicht-1200-all-breakpoints .rechteck-155-mq5QhO {
+  background-color: var(--stratos);
+  border-radius: 2px;
+  height: calc(100.00% - 5px);
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 100%;
+}
+
+.bestellubersicht-1200-all-breakpoints .pfad-284-mq5QhO {
+  background-color: transparent;
+  height: 14px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 4px);
+}
+
+.bestellubersicht-1200-all-breakpoints .pfad-285-mq5QhO {
+  background-color: transparent;
+  bottom: calc(29.77% - 2px);
+  height: 5px;
+  left: calc(49.03% - 3px);
+  object-fit: cover;
+  position: absolute;
+  width: 7px;
+}
+
+.bestellubersicht-1200-all-breakpoints .rechteck-157-CEFmZZ {
+  background-color: transparent;
+  border-radius: 1px;
+  height: 15px;
+  left: calc(47.29% - 11px);
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 23px;
+}
+
+.bestellubersicht-1200-all-breakpoints .iconfinder_4265038_b-CEFmZZ {
+  background-color: transparent;
+  height: 17px;
+  left: calc(31.25% - 4px);
+  position: absolute;
+  top: 9px;
+  width: 13px;
+}
+
+.bestellubersicht-1200-all-breakpoints .ellipse-41-tk46nj {
+  background-color: var(--stratos);
+  border-radius: 2.75px;
+  height: 6px;
+  left: calc(49.99% - 3px);
+  position: absolute;
+  top: calc(33.49% - 2px);
+  width: 6px;
+}
+
+.bestellubersicht-1200-all-breakpoints .pfad-286-tk46nj {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.bestellubersicht-1200-all-breakpoints .iconfinder_scissor_s-CEFmZZ {
+  background-color: transparent;
+  height: 14px;
+  left: calc(47.06% - 8px);
+  position: absolute;
+  top: 10px;
+  width: 16px;
+}
+
+.bestellubersicht-1200-all-breakpoints .pfad-273-c8XLfC {
+  background-color: transparent;
+  bottom: 2px;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: 1px;
+}
+
+.bestellubersicht-1200-all-breakpoints .pfad-274-c8XLfC {
+  background-color: transparent;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+
+.bestellubersicht-1200-all-breakpoints .pfad-275-c8XLfC {
+  background-color: transparent;
+  height: 23px;
+  object-fit: cover;
+  position: absolute;
+  right: -9px;
+  top: 4.11%;
+  width: 28px;
+}
+
+.bestellubersicht-1200-all-breakpoints .pfad-276-c8XLfC {
+  background-color: transparent;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.bestellubersicht-1200-all-breakpoints .borbus-CEFmZZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.90% - 120px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
+}
+
+.bestellubersicht-1200-all-breakpoints .gruppe-609-CEFmZZ {
+  background-color: transparent;
+  height: 774px;
+  left: calc(50.00% - 534px);
+  position: absolute;
+  top: calc(35.90% - 278px);
+  width: 1068px;
+}
+
+.bestellubersicht-1200-all-breakpoints .rechteck-174-zSH0ZD {
+  background-color: transparent;
+  border: 1px solid var(--black-haze);
+  border-radius: 4px;
+  bottom: 1px;
+  height: 257px;
+  left: 0px;
+  position: absolute;
+  width: 763px;
+}
+
+.bestellubersicht-1200-all-breakpoints .bestellbersicht-zSH0ZD {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 24px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 178px;
+}
+
+.bestellubersicht-1200-all-breakpoints .bestellbersicht-zSH0ZD.bp3-animate-enter {
+  animation: bp3-animate-enter-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200-all-breakpoints .kleidchenbezeichnung-zSH0ZD {
+  -webkit-text-stroke: 0.05000000074505806px var(--tacao);
+  background-color: transparent;
+  bottom: calc(26.63% - 5px);
+  color: var(--tacao);
+  display: block;
+  font-family: var(--font-family-hiraginomincho_pron-w6);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  height: 18px;
+  left: 43px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 109px;
+}
+
+.bestellubersicht-1200-all-breakpoints .kleidchenbezeichnung-zSH0ZD.bp3-animate-enter1 {
+  animation: bp3-animate-enter1-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter1-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200-all-breakpoints .gruppe-598-zSH0ZD {
+  background-color: transparent;
+  height: 15px;
+  left: 0px;
+  position: absolute;
+  top: 58px;
+  width: 554px;
+}
+
+.bestellubersicht-1200-all-breakpoints .datenschutz-cookies-el8rDt {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 14px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  right: calc(23.81% - 32px);
+  text-align: left;
+  text-decoration: underline;
+  top: 0px;
+  white-space: nowrap;
+  width: 134px;
+}
+
+.bestellubersicht-1200-all-breakpoints .datenschutz-cookies-el8rDt.bp3-animate-enter2 {
+  animation: bp3-animate-enter2-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter2-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200-all-breakpoints .bei-bestellung-stimm-el8rDt {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  display: block;
+  height: 100%;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 257px;
+}
+
+.bestellubersicht-1200-all-breakpoints .bei-bestellung-stimm-el8rDt.bp3-animate-enter3 {
+  animation: bp3-animate-enter3-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter3-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200-all-breakpoints .ag-bs-el8rDt {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 14px;
+  left: calc(49.23% - 18px);
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 0px;
+  white-space: nowrap;
+  width: 36px;
+}
+
+.bestellubersicht-1200-all-breakpoints .ag-bs-el8rDt.bp3-animate-enter4 {
+  animation: bp3-animate-enter4-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter4-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200-all-breakpoints .und-el8rDt {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  display: block;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  right: calc(44.61% - 11px);
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: 25px;
+}
+
+.bestellubersicht-1200-all-breakpoints .und-el8rDt.bp3-animate-enter5 {
+  animation: bp3-animate-enter5-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter5-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200-all-breakpoints .von-borbus-zu-el8rDt {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  display: block;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  overflow: hidden;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: 101px;
+}
+
+.bestellubersicht-1200-all-breakpoints .von-borbus-zu-el8rDt.bp3-animate-enter6 {
+  animation: bp3-animate-enter6-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter6-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200-all-breakpoints .x-zSH0ZD {
+  -webkit-text-stroke: 0.05000000074505806px var(--monza);
+  background-color: transparent;
+  bottom: 32px;
+  display: block;
+  height: 55px;
+  left: 20.31%;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 2px;
+}
+
+.bestellubersicht-1200-all-breakpoints .x-zSH0ZD.bp3-animate-enter7 {
+  animation: bp3-animate-enter7-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter7-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200-all-breakpoints .gruppe-610-zSH0ZD {
+  background-color: transparent;
+  bottom: 0px;
+  height: 179px;
+  left: 43px;
+  position: absolute;
+  width: 447px;
+}
+
+.bestellubersicht-1200-all-breakpoints .gruppe-599-afe0sM {
+  background-color: transparent;
+  height: 179px;
+  left: 0px;
+  position: relative;
+  top: calc(50.00% - 90px);
+  width: 447px;
+}
+
+.bestellubersicht-1200-all-breakpoints .vorderseitebild-9zUzdg {
+  background-color: var(--white);
+  height: calc(100.00% - 84px);
+  left: 0px;
+  position: absolute;
+  top: 10px;
+  width: 121px;
+}
+
+.bestellubersicht-1200-all-breakpoints .gruppe-597-9zUzdg {
+  background-color: transparent;
+  height: 179px;
+  position: absolute;
+  right: 0px;
+  top: calc(50.00% - 90px);
+  width: 286px;
+}
+
+.bestellubersicht-1200-all-breakpoints .voraussichtliche-lie-QbS37K {
+  background-color: transparent;
+  color: var(--black);
+  display: block;
+  font-family: var(--font-family-hiragino_mincho_pron);
+  font-size: 11px;
+  font-weight: 400;
+  height: 181px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: -0.28%;
+  white-space: nowrap;
+  width: 288px;
+}
+
+.bestellubersicht-1200-all-breakpoints .span0-fSu1co {
+  font-family: var(--font-family-hiraginomincho_pron-w6);
+  font-style: normal;
+}
+
+.bestellubersicht-1200-all-breakpoints .span1-fSu1co {
+}
+
+.bestellubersicht-1200-all-breakpoints .span2-fSu1co {
+  color: var(--monza);
+  font-family: var(--font-family-hiraginomincho_pron-w3);
+  font-style: normal;
+}
+
+.bestellubersicht-1200-all-breakpoints .span3-fSu1co {
+}
+
+.bestellubersicht-1200-all-breakpoints .voraussichtliche-lie-QbS37K.bp3-animate-enter8 {
+  animation: bp3-animate-enter8-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter8-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200-all-breakpoints .stckpreis-QbS37K {
+  -webkit-text-stroke: 0.05000000074505806px var(--monza);
+  background-color: transparent;
+  display: block;
+  height: 24px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 0;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: calc(28.71% - 7px);
+  width: 102px;
+}
+
+.bestellubersicht-1200-all-breakpoints .span0-mVjyKa {
+}
+
+.bestellubersicht-1200-all-breakpoints .span1-mVjyKa {
+}
+
+.bestellubersicht-1200-all-breakpoints .stckpreis-QbS37K.bp3-animate-enter9 {
+  animation: bp3-animate-enter9-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter9-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200-all-breakpoints .gruppe-612-zSH0ZD {
+  background-color: transparent;
+  height: 389px;
+  left: 0px;
+  position: absolute;
+  top: 114px;
+  width: 763px;
+}
+
+.bestellubersicht-1200-all-breakpoints .rechteck-173-zo17T9 {
+  background-color: var(--black-haze);
+  border-radius: 4px;
+  height: 389px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 763px;
+}
+
+.bestellubersicht-1200-all-breakpoints .gruppe-600-zo17T9 {
+  background-color: transparent;
+  height: 12px;
+  left: 43px;
+  position: absolute;
+  top: calc(16.58% - 2px);
+  width: 112px;
+}
+
+.bestellubersicht-1200-all-breakpoints .lieferadresse-ffhCV1 {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.bestellubersicht-1200-all-breakpoints .lieferadresse-ffhCV1.bp3-animate-enter10 {
+  animation: bp3-animate-enter10-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter10-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200-all-breakpoints .ndern1-ffhCV1 {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  bottom: 1px;
+  display: block;
+  height: 9px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 25px;
+}
+
+.bestellubersicht-1200-all-breakpoints .ndern1-ffhCV1.bp3-animate-enter11 {
+  animation: bp3-animate-enter11-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter11-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200-all-breakpoints .gruppe-606-zo17T9 {
+  background-color: transparent;
+  height: 78px;
+  left: calc(48.18% - 55px);
+  position: absolute;
+  top: calc(20.40% - 16px);
+  width: 115px;
+}
+
+.bestellubersicht-1200-all-breakpoints .gruppe-603-BvPsz1 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-1200-all-breakpoints .gruppe-601-BnpeV7 {
+  background-color: transparent;
+  height: 13px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 71px;
+}
+
+.bestellubersicht-1200-all-breakpoints .zahlungsart-8nixbx {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-1200-all-breakpoints .zahlungsart-8nixbx.bp3-animate-enter12 {
+  animation: bp3-animate-enter12-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter12-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200-all-breakpoints .gruppe-602-BnpeV7 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 32px;
+  left: 4px;
+  position: absolute;
+  width: calc(100.00% - 4px);
+}
+
+.bestellubersicht-1200-all-breakpoints .paypal-konto-LPxMZJ {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 15px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: calc(46.99% - 7px);
+  white-space: nowrap;
+  width: 78px;
+}
+
+.bestellubersicht-1200-all-breakpoints .paypal-konto-LPxMZJ.bp3-animate-enter13 {
+  animation: bp3-animate-enter13-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter13-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200-all-breakpoints .gruppe-557-LPxMZJ {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  position: absolute;
+  top: calc(50.00% - 16px);
+  width: 27px;
+}
+
+.bestellubersicht-1200-all-breakpoints .x32_50-paypal-1rxuR3 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-1200-all-breakpoints .gruppe-700-MW5lHp {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-1200-all-breakpoints .pfad-288-TU8Jca {
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 3px);
+}
+
+.bestellubersicht-1200-all-breakpoints .pfad-289-TU8Jca {
+  background-color: transparent;
+  bottom: 0px;
+  height: 23px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 20px;
+}
+
+.bestellubersicht-1200-all-breakpoints .kundennameinput1-zo17T9 {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 14px;
+  left: 43px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(28.13% - 4px);
+  white-space: nowrap;
+  width: 98px;
+}
+
+.bestellubersicht-1200-all-breakpoints .kundennameinput1-zo17T9.bp3-animate-enter14 {
+  animation: bp3-animate-enter14-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter14-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200-all-breakpoints .kundenstrasseinput1-zo17T9 {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 14px;
+  left: 43px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(35.07% - 5px);
+  white-space: nowrap;
+  width: 122px;
+}
+
+.bestellubersicht-1200-all-breakpoints .kundenstrasseinput1-zo17T9.bp3-animate-enter15 {
+  animation: bp3-animate-enter15-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter15-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200-all-breakpoints .kundenplzinput1-zo17T9 {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 14px;
+  left: 43px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(42.00% - 6px);
+  white-space: nowrap;
+  width: 51px;
+}
+
+.bestellubersicht-1200-all-breakpoints .kundenplzinput1-zo17T9.bp3-animate-enter16 {
+  animation: bp3-animate-enter16-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter16-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200-all-breakpoints .kundenemailinput1-zo17T9 {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 14px;
+  left: 43px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(48.93% - 7px);
+  white-space: nowrap;
+  width: 87px;
+}
+
+.bestellubersicht-1200-all-breakpoints .kundenemailinput1-zo17T9.bp3-animate-enter17 {
+  animation: bp3-animate-enter17-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter17-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200-all-breakpoints .gruppe-613-zSH0ZD {
+  background-color: transparent;
+  height: 389px;
+  position: absolute;
+  right: 0px;
+  top: 114px;
+  width: 281px;
+}
+
+.bestellubersicht-1200-all-breakpoints .rechteck-175-a6tyvz {
+  background-color: var(--black-haze);
+  border-radius: 4px;
+  height: 389px;
+  left: calc(50.00% - 140px);
+  position: absolute;
+  top: calc(50.00% - 194px);
+  width: 281px;
+}
+
+.bestellubersicht-1200-all-breakpoints .gruppe-607-a6tyvz {
+  background-color: transparent;
+  height: 207px;
+  left: calc(12.92% - 12px);
+  position: absolute;
+  top: calc(34.89% - 72px);
+  width: 96px;
+}
+
+.bestellubersicht-1200-all-breakpoints .bestellbersicht-n9mEWD {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 14px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-1200-all-breakpoints .bestellbersicht-n9mEWD.bp3-animate-enter18 {
+  animation: bp3-animate-enter18-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter18-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200-all-breakpoints .versandkostengesamtkosten-n9mEWD {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: -1px;
+  display: block;
+  height: 154px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 12px);
+}
+
+.bestellubersicht-1200-all-breakpoints .span0-4Y8huv {
+}
+
+.bestellubersicht-1200-all-breakpoints .span1-4Y8huv {
+}
+
+.bestellubersicht-1200-all-breakpoints .versandkostengesamtkosten-n9mEWD.bp3-animate-enter19 {
+  animation: bp3-animate-enter19-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter19-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200-all-breakpoints .gruppe-608-a6tyvz {
+  background-color: transparent;
+  height: 154px;
+  position: absolute;
+  right: calc(11.29% - 7px);
+  top: calc(50.00% - 77px);
+  width: 63px;
+}
+
+.bestellubersicht-1200-all-breakpoints .gesamtpreis1-fCGMvv {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 15px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 0;
+  position: absolute;
+  right: -2px;
+  text-align: right;
+  top: calc(101.08% - 15px);
+  white-space: nowrap;
+  width: 65px;
+}
+
+.bestellubersicht-1200-all-breakpoints .gesamtpreis1-fCGMvv.bp3-animate-enter20 {
+  animation: bp3-animate-enter20-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter20-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200-all-breakpoints .stckpreis-fCGMvv {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(100.36% - 14px);
+  display: block;
+  height: 14px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  right: 2px;
+  text-align: right;
+  white-space: nowrap;
+  width: 63px;
+}
+
+.bestellubersicht-1200-all-breakpoints .stckpreis-fCGMvv.bp3-animate-enter21 {
+  animation: bp3-animate-enter21-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter21-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200-all-breakpoints .x0000-eur-fCGMvv {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 14px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  right: 2px;
+  text-align: right;
+  top: calc(31.79% - 4px);
+  white-space: nowrap;
+  width: 63px;
+}
+
+.bestellubersicht-1200-all-breakpoints .x0000-eur-fCGMvv.bp3-animate-enter22 {
+  animation: bp3-animate-enter22-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter22-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200-all-breakpoints .kleidchenbezeichnung-a6tyvz {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 14px;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(31.33% - 4px);
+  white-space: nowrap;
+  width: 78px;
+}
+
+.bestellubersicht-1200-all-breakpoints .kleidchenbezeichnung-a6tyvz.bp3-animate-enter23 {
+  animation: bp3-animate-enter23-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter23-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200-all-breakpoints .paypal-button-small-desktop-a6tyvz {
+  background-color: transparent;
+  bottom: calc(7.72% - 4px);
+  height: 52px;
+  left: calc(50.00% - 116px);
+  position: absolute;
+  width: 233px;
+}
+
+.bestellubersicht-1200-all-breakpoints .gruppe-204-xQZeCE {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-1200-all-breakpoints .paypal-button-kv3zkZ {
+  background-color: #f5f5f5;
+  border-radius: 6px;
+  height: 52px;
+  left: 0px;
+  opacity: 0.8;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-1200-all-breakpoints .linie-54-zSH0ZD {
+  background-color: transparent;
+  display: block;
+  height: 1px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  right: 17px;
+  top: 45.90%;
+  width: 248px;
+}
+
+.bestellubersicht-1200-all-breakpoints .linie-54-zSH0ZD.bp3-animate-enter24 {
+  animation: bp3-animate-enter24-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter24-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200-all-breakpoints .gruppe-322-CEFmZZ {
+  background-color: transparent;
+  bottom: 0px;
+  height: 331px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.bestellubersicht-1200-all-breakpoints .gruppe-163-yEB6vX {
+  background-color: transparent;
+  display: block;
+  height: 100%;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-1200-all-breakpoints .gruppe-163-yEB6vX.bp3-animate-enter25 {
+  animation: bp3-animate-enter25-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter25-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-1200-all-breakpoints .rechteck-90-zZ72Hx {
+  background-color: var(--stratos);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-1200-all-breakpoints .exklusive-serviceleistungen-zZ72Hx {
+  background-color: transparent;
+  height: 63px;
+  left: 121px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 36px;
+  width: 214px;
+}
+
+.bestellubersicht-1200-all-breakpoints .gruppe-137-zZ72Hx {
+  background-color: transparent;
+  height: 15px;
+  left: 121px;
+  position: absolute;
+  top: calc(43.06% - 7px);
+  width: 118px;
+}
+
+.bestellubersicht-1200-all-breakpoints .versand-frei-Fv0d35 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 1px);
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.bestellubersicht-1200-all-breakpoints .truck-Fv0d35 {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 26px;
+}
+
+.bestellubersicht-1200-all-breakpoints .gruppe-341-zZ72Hx {
+  background-color: transparent;
+  height: 155px;
+  left: calc(37.21% - 80px);
+  position: absolute;
+  top: 37px;
+  width: 214px;
+}
+
+.bestellubersicht-1200-all-breakpoints .knnen-wir-helfen-ZvI9Gb {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  width: 216px;
+}
+
+.bestellubersicht-1200-all-breakpoints .gruppe-339-ZvI9Gb {
+  background-color: transparent;
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  top: 99px;
+  width: 90px;
+}
+
+.bestellubersicht-1200-all-breakpoints .gruppe-140-o1Uwgd {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 53px;
+}
+
+.bestellubersicht-1200-all-breakpoints .kontakt-V7WJax {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-1200-all-breakpoints .contact-o1Uwgd {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 25px;
+}
+
+.bestellubersicht-1200-all-breakpoints .gruppe-340-ZvI9Gb {
+  background-color: transparent;
+  height: 20px;
+  left: calc(8.13% - 12px);
+  position: absolute;
+  top: 135px;
+  width: 154px;
+}
+
+.bestellubersicht-1200-all-breakpoints .gruppe-141-74cNiB {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 15px;
+  position: absolute;
+  right: 0px;
+  width: 122px;
+}
+
+.bestellubersicht-1200-all-breakpoints .zahlungsoptionen-g23tmk {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-1200-all-breakpoints .money-74cNiB {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.bestellubersicht-1200-all-breakpoints .gruppe-345-zZ72Hx {
+  background-color: transparent;
+  height: 251px;
+  position: absolute;
+  right: calc(35.16% - 76px);
+  top: 37px;
+  width: 216px;
+}
+
+.bestellubersicht-1200-all-breakpoints .das-unternehmen-xLSclF {
+  background-color: transparent;
+  height: 63px;
+  left: calc(200.00% - 428px);
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  width: 214px;
+}
+
+.bestellubersicht-1200-all-breakpoints .gruppe-344-xLSclF {
+  background-color: transparent;
+  bottom: 0px;
+  height: 27px;
+  left: 0px;
+  position: absolute;
+  width: 110px;
+}
+
+.bestellubersicht-1200-all-breakpoints .gruppe-158-wwpQ7g {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 80px;
+}
+
+.bestellubersicht-1200-all-breakpoints .impressum-P9lhfc {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-1200-all-breakpoints .gruppe-154-wwpQ7g {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+
+.bestellubersicht-1200-all-breakpoints .gruppe-159-bRxxWL {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-1200-all-breakpoints .ellipse-25-qBYrCg {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.bestellubersicht-1200-all-breakpoints .i-qBYrCg {
+  background-color: transparent;
+  height: 25px;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: calc(100.00% - 7px);
+}
+
+.bestellubersicht-1200-all-breakpoints .gruppe-160-xLSclF {
+  background-color: transparent;
+  bottom: 135px;
+  height: 20px;
+  left: calc(4.08% - 5px);
+  position: absolute;
+  width: 120px;
+}
+
+.bestellubersicht-1200-all-breakpoints .gruppe-155-FxhhG6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 4px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 94px;
+}
+
+.bestellubersicht-1200-all-breakpoints .gruppe-138-wdwjV1 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-1200-all-breakpoints .ber-borbus-KhtcQK {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-1200-all-breakpoints .b-FxhhG6 {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 16px;
+}
+
+.bestellubersicht-1200-all-breakpoints .gruppe-342-xLSclF {
+  background-color: transparent;
+  bottom: 83px;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  width: 202px;
+}
+
+.bestellubersicht-1200-all-breakpoints .gruppe-156-z7AOe0 {
+  background-color: transparent;
+  height: 100%;
+  left: 30px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 30px);
+}
+
+.bestellubersicht-1200-all-breakpoints .geschfts-und-nutzungsbediengungen-4sBRJK {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-1200-all-breakpoints .solid-z7AOe0 {
+  background-color: transparent;
+  bottom: 4px;
+  height: 20px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 21px;
+}
+
+.bestellubersicht-1200-all-breakpoints .gruppe-343-xLSclF {
+  background-color: transparent;
+  bottom: 44px;
+  height: 19px;
+  left: 0px;
+  position: absolute;
+  width: 201px;
+}
+
+.bestellubersicht-1200-all-breakpoints .gruppe-157-xKD7og {
+  background-color: transparent;
+  cursor: pointer;
+  height: 15px;
+  left: 30px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 30px);
+}
+
+.bestellubersicht-1200-all-breakpoints .datenschutz-cookies-QIxqhJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-1200-all-breakpoints .cookie-xKD7og {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 19px;
+}
+
+.bestellubersicht-1200-all-breakpoints .gruppe-346-zZ72Hx {
+  background-color: transparent;
+  height: 120px;
+  position: absolute;
+  right: calc(7.29% - 15px);
+  top: 37px;
+  width: 212px;
+}
+
+.bestellubersicht-1200-all-breakpoints .besuche-uns-qxF1xC {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  width: 214px;
+}
+
+.bestellubersicht-1200-all-breakpoints .gruppe-321-qxF1xC {
+  background-color: transparent;
+  cursor: pointer;
+  height: 23px;
+  left: calc(0.46% - 1px);
+  position: absolute;
+  top: 98px;
+  width: 131px;
+}
+
+.bestellubersicht-1200-all-breakpoints .gruppe-162-53Iwnz {
+  background-color: transparent;
+  height: 100%;
+  left: 31px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 31px);
+}
+
+.bestellubersicht-1200-all-breakpoints .instagram-rFAggr {
+  background-color: transparent;
+  height: 25px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-1200-all-breakpoints .icon-instagram-53Iwnz {
+  background-color: transparent;
+  height: 18px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.bestellubersicht-1200-all-breakpoints .ssl-yEB6vX {
+  background-color: transparent;
+  bottom: 31px;
+  display: block;
+  height: 90px;
+  left: calc(9.91% - 9px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 90px;
+}
+
+.bestellubersicht-1200-all-breakpoints .ssl-yEB6vX.bp3-animate-enter26 {
+  animation: bp3-animate-enter26-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter26-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+/* screen - bestellubersicht-375 */
+
+.bestellubersicht-375 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1676px;
+  min-width: 375px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.bestellubersicht-375 .rechteck-118-jPtlDi {
+  background-color: var(--gallery);
+  box-shadow: 0px 2px 4px #00000029;
+  height: 34px;
+  left: 0px;
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-375 .gruppe-546-jPtlDi {
+  background-color: transparent;
+  height: 17px;
+  position: absolute;
+  right: 21px;
+  top: 8px;
+  width: 107px;
+}
+
+.bestellubersicht-375 .sichere-bezahlung-fug2S4 {
+  background-color: transparent;
+  bottom: -2px;
+  height: 13px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  opacity: 0.73;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 92px;
+}
+
+.bestellubersicht-375 .gruppe-199-fug2S4 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 12px;
+}
+
+.bestellubersicht-375 .rechteck-155-AN4mKN {
+  background-color: var(--stratos);
+  border-radius: 2px;
+  height: calc(100.00% - 5px);
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 100%;
+}
+
+.bestellubersicht-375 .pfad-284-AN4mKN {
+  background-color: transparent;
+  height: 14px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 4px);
+}
+
+.bestellubersicht-375 .pfad-285-AN4mKN {
+  background-color: transparent;
+  bottom: calc(29.77% - 2px);
+  height: 5px;
+  left: calc(49.03% - 3px);
+  object-fit: cover;
+  position: absolute;
+  width: 7px;
+}
+
+.bestellubersicht-375 .gruppe-548-jPtlDi {
+  background-color: transparent;
+  height: 17px;
+  left: 30px;
+  position: absolute;
+  top: 9px;
+  width: 78px;
+}
+
+.bestellubersicht-375 .stoffqualitt-BvJg9Z {
+  background-color: transparent;
+  bottom: -1px;
+  height: 13px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  opacity: 0.73;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.bestellubersicht-375 .iconfinder_4265038_b-BvJg9Z {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+
+.bestellubersicht-375 .ellipse-41-vODAiF {
+  background-color: var(--stratos);
+  border-radius: 2.75px;
+  height: 6px;
+  left: calc(49.99% - 3px);
+  position: absolute;
+  top: calc(33.49% - 2px);
+  width: 6px;
+}
+
+.bestellubersicht-375 .pfad-286-vODAiF {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-375 .gruppe-547-jPtlDi {
+  background-color: transparent;
+  height: 14px;
+  left: calc(46.35% - 35px);
+  position: absolute;
+  top: 10px;
+  width: 75px;
+}
+
+.bestellubersicht-375 .handarbeit-v4rZqr {
+  background-color: transparent;
+  bottom: -2px;
+  height: 12px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  opacity: 0.73;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 56px;
+}
+
+.bestellubersicht-375 .iconfinder_scissor_s-v4rZqr {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 16px;
+}
+
+.bestellubersicht-375 .pfad-273-TQl62w {
+  background-color: transparent;
+  bottom: 2px;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: 1px;
+}
+
+.bestellubersicht-375 .pfad-274-TQl62w {
+  background-color: transparent;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+
+.bestellubersicht-375 .pfad-275-TQl62w {
+  background-color: transparent;
+  height: 23px;
+  object-fit: cover;
+  position: absolute;
+  right: -9px;
+  top: 4.11%;
+  width: 28px;
+}
+
+.bestellubersicht-375 .pfad-276-TQl62w {
+  background-color: transparent;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.bestellubersicht-375 .borbus-jPtlDi {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.26% - 118px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
+}
+
+.bestellubersicht-375 .gruppe-619-jPtlDi {
+  background-color: transparent;
+  height: 56px;
+  left: calc(40.61% - 130px);
+  position: absolute;
+  top: calc(13.64% - 8px);
+  width: 321px;
+}
+
+.bestellubersicht-375 .bestellbersicht-SqKEDJ {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 29px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 204px;
+}
+
+.bestellubersicht-375 .bestellbersicht-SqKEDJ.bp1-animate-enter {
+  animation: bp1-animate-enter-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .gruppe-598-SqKEDJ {
+  background-color: transparent;
+  height: 15px;
+  left: 1px;
+  position: absolute;
+  top: 41px;
+  width: 321px;
+}
+
+.bestellubersicht-375 .datenschutz-cookies-dclEw7 {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 9px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  right: calc(22.31% - 18px);
+  text-align: left;
+  text-decoration: underline;
+  top: -3px;
+  white-space: nowrap;
+  width: 79px;
+}
+
+.bestellubersicht-375 .datenschutz-cookies-dclEw7.bp1-animate-enter1 {
+  animation: bp1-animate-enter1-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter1-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .bei-bestellung-stimm-dclEw7 {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  display: block;
+  height: 9px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: -3px;
+  white-space: nowrap;
+  width: 151px;
+}
+
+.bestellubersicht-375 .bei-bestellung-stimm-dclEw7.bp1-animate-enter2 {
+  animation: bp1-animate-enter2-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter2-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .ag-bs-dclEw7 {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 9px;
+  left: calc(49.83% - 11px);
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: -3px;
+  white-space: nowrap;
+  width: 22px;
+}
+
+.bestellubersicht-375 .ag-bs-dclEw7.bp1-animate-enter3 {
+  animation: bp1-animate-enter3-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter3-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .und-dclEw7 {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  display: block;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  right: calc(42.67% - 9px);
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: 21px;
+}
+
+.bestellubersicht-375 .und-dclEw7.bp1-animate-enter4 {
+  animation: bp1-animate-enter4-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter4-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .von-borbus-zu-dclEw7 {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  display: block;
+  height: 13px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  overflow: hidden;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: 55px;
+}
+
+.bestellubersicht-375 .von-borbus-zu-dclEw7.bp1-animate-enter5 {
+  animation: bp1-animate-enter5-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter5-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .gruppe-616-jPtlDi {
+  background-color: transparent;
+  height: 389px;
+  left: calc(50.00% - 182px);
+  position: absolute;
+  top: calc(24.01% - 93px);
+  width: 363px;
+}
+
+.bestellubersicht-375 .rechteck-173-0WZiRZ {
+  background-color: var(--black-haze);
+  border-radius: 4px;
+  height: 389px;
+  left: calc(50.00% - 182px);
+  position: absolute;
+  top: calc(50.00% - 194px);
+  width: 363px;
+}
+
+.bestellubersicht-375 .gruppe-600-0WZiRZ {
+  background-color: transparent;
+  height: 10px;
+  left: calc(5.90% - 6px);
+  position: absolute;
+  top: calc(12.27% - 1px);
+  width: 94px;
+}
+
+.bestellubersicht-375 .lieferadresse-g9qrRW {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.bestellubersicht-375 .lieferadresse-g9qrRW.bp1-animate-enter6 {
+  animation: bp1-animate-enter6-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter6-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .ndern1-g9qrRW {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  bottom: 1px;
+  display: block;
+  height: 9px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 25px;
+}
+
+.bestellubersicht-375 .ndern1-g9qrRW.bp1-animate-enter7 {
+  animation: bp1-animate-enter7-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter7-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .gruppe-606-0WZiRZ {
+  background-color: transparent;
+  height: 67px;
+  position: absolute;
+  right: 95px;
+  top: calc(14.76% - 10px);
+  width: 102px;
+}
+
+.bestellubersicht-375 .gruppe-603-qTucUt {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-375 .gruppe-601-NOEjIi {
+  background-color: transparent;
+  height: 11px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 60px;
+}
+
+.bestellubersicht-375 .zahlungsart-HXOiqA {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-375 .zahlungsart-HXOiqA.bp1-animate-enter8 {
+  animation: bp1-animate-enter8-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter8-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .gruppe-602-NOEjIi {
+  background-color: transparent;
+  bottom: 0px;
+  height: 30px;
+  left: 2px;
+  position: absolute;
+  width: calc(100.00% - 2px);
+}
+
+.bestellubersicht-375 .paypal-konto-o4rOdc {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(47.10% - 6px);
+  display: block;
+  height: 13px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 65px;
+}
+
+.bestellubersicht-375 .paypal-konto-o4rOdc.bp1-animate-enter9 {
+  animation: bp1-animate-enter9-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter9-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .gruppe-557-o4rOdc {
+  background-color: transparent;
+  height: 30px;
+  left: 0px;
+  position: absolute;
+  top: calc(50.00% - 15px);
+  width: 26px;
+}
+
+.bestellubersicht-375 .x32_50-paypal-1hPXkx {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-375 .gruppe-700-2ix3Da {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-375 .pfad-288-xKbIxa {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 3px);
+}
+
+.bestellubersicht-375 .pfad-289-xKbIxa {
+  background-color: transparent;
+  bottom: 0px;
+  height: 22px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 19px;
+}
+
+.bestellubersicht-375 .kundennameinput1-0WZiRZ {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 12px;
+  left: calc(5.65% - 5px);
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(21.09% - 3px);
+  white-space: nowrap;
+  width: 82px;
+}
+
+.bestellubersicht-375 .kundennameinput1-0WZiRZ.bp1-animate-enter10 {
+  animation: bp1-animate-enter10-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter10-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .kundenstrasseinput1-0WZiRZ {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 12px;
+  left: calc(6.09% - 6px);
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(27.98% - 3px);
+  white-space: nowrap;
+  width: 102px;
+}
+
+.bestellubersicht-375 .kundenstrasseinput1-0WZiRZ.bp1-animate-enter11 {
+  animation: bp1-animate-enter11-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter11-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .kundenplzinput1-0WZiRZ {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 12px;
+  left: calc(4.96% - 2px);
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(34.88% - 4px);
+  white-space: nowrap;
+  width: 43px;
+}
+
+.bestellubersicht-375 .kundenplzinput1-0WZiRZ.bp1-animate-enter12 {
+  animation: bp1-animate-enter12-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter12-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .kundenemailinput1-0WZiRZ {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 12px;
+  left: calc(5.48% - 4px);
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(41.78% - 5px);
+  white-space: nowrap;
+  width: 73px;
+}
+
+.bestellubersicht-375 .kundenemailinput1-0WZiRZ.bp1-animate-enter13 {
+  animation: bp1-animate-enter13-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter13-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .gruppe-617-jPtlDi {
+  background-color: transparent;
+  bottom: calc(49.43% - 119px);
+  height: 240px;
+  left: calc(41.02% - 122px);
+  position: absolute;
+  width: 298px;
+}
+
+.bestellubersicht-375 .kleidchenbezeichnung-5pomrQ {
+  -webkit-text-stroke: 0.05000000074505806px var(--tacao);
+  background-color: transparent;
+  color: var(--tacao);
+  display: block;
+  font-family: var(--font-family-hiraginomincho_pron-w6);
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: 14px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 82px;
+}
+
+.bestellubersicht-375 .kleidchenbezeichnung-5pomrQ.bp1-animate-enter14 {
+  animation: bp1-animate-enter14-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter14-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .gruppe-610-5pomrQ {
+  background-color: transparent;
+  bottom: 0px;
+  height: 202px;
+  left: 14px;
+  position: absolute;
+  width: calc(100.00% - 14px);
+}
+
+.bestellubersicht-375 .gruppe-599-upVqYO {
+  background-color: transparent;
+  height: 202px;
+  left: 0px;
+  position: relative;
+  top: calc(50.00% - 101px);
+  width: 285px;
+}
+
+.bestellubersicht-375 .vorderseitebild-01UU80 {
+  background-color: var(--white);
+  height: calc(100.00% - 107px);
+  left: 0px;
+  position: absolute;
+  top: 9px;
+  width: 121px;
+}
+
+.bestellubersicht-375 .gruppe-597-01UU80 {
+  background-color: transparent;
+  height: 202px;
+  position: absolute;
+  right: 0px;
+  top: calc(50.00% - 101px);
+  width: 123px;
+}
+
+.bestellubersicht-375 .x5-7-werktage-lieferz-VpNnRr {
+  background-color: transparent;
+  color: var(--black);
+  display: block;
+  font-family: var(--font-family-hiragino_mincho_pron);
+  font-size: var(--font-size-xxxs);
+  font-weight: 400;
+  height: 204px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(50.00% - 102px);
+  white-space: nowrap;
+  width: 125px;
+}
+
+.bestellubersicht-375 .span0-HJBS4V {
+}
+
+.bestellubersicht-375 .span1-HJBS4V {
+}
+
+.bestellubersicht-375 .span2-HJBS4V {
+  color: var(--monza);
+  font-family: var(--font-family-hiraginomincho_pron-w3);
+  font-style: normal;
+}
+
+.bestellubersicht-375 .span3-HJBS4V {
+}
+
+.bestellubersicht-375 .x5-7-werktage-lieferz-VpNnRr.bp1-animate-enter15 {
+  animation: bp1-animate-enter15-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter15-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .stckpreis-VpNnRr {
+  -webkit-text-stroke: 0.05000000074505806px var(--monza);
+  background-color: transparent;
+  color: var(--black);
+  display: block;
+  font-family: var(--font-family-hiragino_mincho_pron);
+  font-size: var(--font-size-xxs);
+  font-weight: 400;
+  height: 24px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 0;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: calc(25.28% - 6px);
+  width: 100px;
+}
+
+.bestellubersicht-375 .span0-0TIxmM {
+  color: var(--monza);
+  font-family: var(--font-family-hiraginomincho_pron-w6);
+  font-style: normal;
+}
+
+.bestellubersicht-375 .span1-0TIxmM {
+}
+
+.bestellubersicht-375 .stckpreis-VpNnRr.bp1-animate-enter16 {
+  animation: bp1-animate-enter16-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter16-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .gruppe-618-jPtlDi {
+  background-color: transparent;
+  bottom: calc(29.29% - 109px);
+  height: 372px;
+  left: calc(50.00% - 152px);
+  position: absolute;
+  width: 303px;
+}
+
+.bestellubersicht-375 .rechteck-175-WfbG8X {
+  background-color: var(--black-haze);
+  border-radius: 4px;
+  height: 372px;
+  left: 0px;
+  position: absolute;
+  top: calc(50.00% - 186px);
+  width: 303px;
+}
+
+.bestellubersicht-375 .gruppe-607-WfbG8X {
+  background-color: transparent;
+  height: 207px;
+  left: calc(21.67% - 21px);
+  position: absolute;
+  top: calc(14.24% - 29px);
+  width: 96px;
+}
+
+.bestellubersicht-375 .bestellbersicht-mmBLyB {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 14px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-375 .bestellbersicht-mmBLyB.bp1-animate-enter17 {
+  animation: bp1-animate-enter17-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter17-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .versandkostengesamtkosten-mmBLyB {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: -1px;
+  display: block;
+  height: 154px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 12px);
+}
+
+.bestellubersicht-375 .span0-AFFvOW {
+}
+
+.bestellubersicht-375 .span1-AFFvOW {
+}
+
+.bestellubersicht-375 .versandkostengesamtkosten-mmBLyB.bp1-animate-enter18 {
+  animation: bp1-animate-enter18-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter18-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .gruppe-608-WfbG8X {
+  background-color: transparent;
+  height: 154px;
+  position: absolute;
+  right: calc(10.83% - 7px);
+  top: calc(35.55% - 55px);
+  width: 63px;
+}
+
+.bestellubersicht-375 .gesamtpreis1-UnOVlu {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 15px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 0;
+  position: absolute;
+  right: -2px;
+  text-align: right;
+  top: calc(101.08% - 15px);
+  white-space: nowrap;
+  width: 65px;
+}
+
+.bestellubersicht-375 .gesamtpreis1-UnOVlu.bp1-animate-enter19 {
+  animation: bp1-animate-enter19-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter19-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .stckpreis-UnOVlu {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(100.36% - 14px);
+  display: block;
+  height: 14px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  right: 2px;
+  text-align: right;
+  white-space: nowrap;
+  width: 63px;
+}
+
+.bestellubersicht-375 .stckpreis-UnOVlu.bp1-animate-enter20 {
+  animation: bp1-animate-enter20-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter20-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .x0000-eur-UnOVlu {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 53px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  right: 2px;
+  text-align: right;
+  top: calc(44.06% - 23px);
+  white-space: nowrap;
+  width: 63px;
+}
+
+.bestellubersicht-375 .x0000-eur-UnOVlu.bp1-animate-enter21 {
+  animation: bp1-animate-enter21-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter21-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .kleidchenbezeichnung-WfbG8X {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 14px;
+  left: calc(19.94% - 16px);
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(21.65% - 3px);
+  white-space: nowrap;
+  width: 78px;
+}
+
+.bestellubersicht-375 .kleidchenbezeichnung-WfbG8X.bp1-animate-enter22 {
+  animation: bp1-animate-enter22-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter22-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .linie-54-WfbG8X {
+  background-color: transparent;
+  display: block;
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 50.00%;
+  width: 100%;
+}
+
+.bestellubersicht-375 .linie-54-WfbG8X.bp1-animate-enter23 {
+  animation: bp1-animate-enter23-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter23-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-375 .paypal-button-mobile-WfbG8X {
+  background-color: var(--black-haze);
+  border-radius: 6px;
+  bottom: calc(10.62% - 6px);
+  height: 52px;
+  left: calc(50.00% - 116px);
+  opacity: 0.8;
+  position: absolute;
+  width: 233px;
+}
+
+.bestellubersicht-375 .gruppe-327-jPtlDi {
+  background-color: transparent;
+  bottom: 0px;
+  height: 331px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.bestellubersicht-375 .rechteck-90-vWY6DS {
+  background-color: var(--stratos);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-375 .gruppe-356-vWY6DS {
+  background-color: transparent;
+  height: 88px;
+  left: calc(5.99% - 5px);
+  position: absolute;
+  top: calc(10.30% - 9px);
+  width: 91px;
+}
+
+.bestellubersicht-375 .exklusive-serviceleistungen-VbxO6W {
+  -webkit-text-stroke: 0.30000001192092896px var(--swirl);
+  background-color: transparent;
+  height: 40px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-375 .gruppe-137-VbxO6W {
+  background-color: transparent;
+  bottom: 1px;
+  height: 11px;
+  left: 0px;
+  position: absolute;
+  width: calc(100.00% - 9px);
+}
+
+.bestellubersicht-375 .versand-frei-CkLsbT {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 1px);
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.bestellubersicht-375 .truck-CkLsbT {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 19px;
+}
+
+.bestellubersicht-375 .gruppe-359-vWY6DS {
+  background-color: transparent;
+  height: 120px;
+  left: calc(48.05% - 53px);
+  position: absolute;
+  top: 25px;
+  width: 111px;
+}
+
+.bestellubersicht-375 .knnen-wir-helfen-dWdVsy {
+  -webkit-text-stroke: 0.30000001192092896px var(--swirl);
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  width: calc(100.00% - 12px);
+}
+
+.bestellubersicht-375 .gruppe-357-dWdVsy {
+  background-color: transparent;
+  bottom: calc(29.92% - 3px);
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  width: 61px;
+}
+
+.bestellubersicht-375 .gruppe-140-aSxxmt {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 38px;
+}
+
+.bestellubersicht-375 .kontakt-fDhVN7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-375 .contact-aSxxmt {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.bestellubersicht-375 .gruppe-358-dWdVsy {
+  background-color: transparent;
+  bottom: 0px;
+  height: 16px;
+  left: 3px;
+  position: absolute;
+  width: calc(100.00% - 3px);
+}
+
+.bestellubersicht-375 .gruppe-141-4zoivt {
+  background-color: transparent;
+  bottom: 0px;
+  height: 11px;
+  position: absolute;
+  right: 0px;
+  width: 87px;
+}
+
+.bestellubersicht-375 .zahlungsoptionen-HhtESf {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -7px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-375 .money-4zoivt {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 15px;
+}
+
+.bestellubersicht-375 .gruppe-363-vWY6DS {
+  background-color: transparent;
+  height: 196px;
+  position: absolute;
+  right: calc(5.44% - 6px);
+  top: calc(18.48% - 36px);
+  width: 102px;
+}
+
+.bestellubersicht-375 .das-unternehmen-kNIRxN {
+  -webkit-text-stroke: 0.30000001192092896px var(--swirl);
+  background-color: transparent;
+  height: 17px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: calc(100.00% - 5px);
+}
+
+.bestellubersicht-375 .gruppe-362-kNIRxN {
+  background-color: transparent;
+  bottom: 0px;
+  height: 11px;
+  left: 1px;
+  position: absolute;
+  width: 68px;
+}
+
+.bestellubersicht-375 .gruppe-158-ZAp7zl {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 15px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 15px);
+}
+
+.bestellubersicht-375 .impressum-ojElYl {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -7px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-375 .gruppe-154-ZAp7zl {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 11px;
+}
+
+.bestellubersicht-375 .gruppe-159-zEqavM {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-375 .ellipse-25-EtBP9w {
+  background-color: var(--white);
+  border-radius: 5.47px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-375 .i-EtBP9w {
+  background-color: transparent;
+  height: 10px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  overflow: hidden;
+  position: absolute;
+  right: calc(34.51% - 2px);
+  text-align: left;
+  top: -7px;
+  white-space: nowrap;
+  width: 4px;
+}
+
+.bestellubersicht-375 .gruppe-160-kNIRxN {
+  background-color: transparent;
+  height: 15px;
+  left: 1px;
+  position: absolute;
+  top: calc(40.56% - 6px);
+  width: 78px;
+}
+
+.bestellubersicht-375 .gruppe-155-Oxqelx {
+  background-color: transparent;
+  bottom: 2px;
+  height: 11px;
+  position: absolute;
+  right: 0px;
+  width: 63px;
+}
+
+.bestellubersicht-375 .gruppe-138-1EGAiV {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-375 .ber-borbus-ZvzCNB {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -7px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-375 .b-Oxqelx {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 13px;
+}
+
+.bestellubersicht-375 .gruppe-361-kNIRxN {
+  background-color: transparent;
+  bottom: 28px;
+  height: 26px;
+  left: 1px;
+  position: absolute;
+  width: 100%;
+}
+
+.bestellubersicht-375 .gruppe-156-xNc7I0 {
+  background-color: transparent;
+  height: 100%;
+  left: 16px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 16px);
+}
+
+.bestellubersicht-375 .geschftsbedien-gungen-DPY3ax {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-375 .solid-xNc7I0 {
+  background-color: transparent;
+  height: 12px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(46.50% - 6px);
+  width: 13px;
+}
+
+.bestellubersicht-375 .gruppe-360-kNIRxN {
+  background-color: transparent;
+  bottom: calc(41.77% - 5px);
+  height: 13px;
+  left: 0px;
+  position: absolute;
+  width: 81px;
+}
+
+.bestellubersicht-375 .gruppe-157-NOLHxY {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 10px;
+  position: absolute;
+  right: 0px;
+  width: 65px;
+}
+
+.bestellubersicht-375 .datenschutz-dxoMXO {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-375 .cookie-NOLHxY {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+
+.bestellubersicht-375 .gruppe-325-vWY6DS {
+  background-color: transparent;
+  bottom: 18px;
+  cursor: pointer;
+  height: 18px;
+  position: absolute;
+  right: 31px;
+  width: 147px;
+}
+
+.bestellubersicht-375 .gruppe-162-5PxmkB {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 15px;
+  left: 0px;
+  position: absolute;
+  width: 122px;
+}
+
+.bestellubersicht-375 .folge-uns-auf-instagram-WOQ9gQ {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-375 .icon-instagram-5PxmkB {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 18px;
+}
+
+.bestellubersicht-375 .ssl-vWY6DS {
+  background-color: transparent;
+  bottom: 55px;
+  display: block;
+  height: 90px;
+  left: calc(8.86% - 8px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 90px;
+}
+
+.bestellubersicht-375 .ssl-vWY6DS.bp1-animate-enter24 {
+  animation: bp1-animate-enter24-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter24-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+/* screen - bestellubersicht-767 */
+
+.bestellubersicht-767 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1528px;
+  min-width: 767px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.bestellubersicht-767 .rechteck-118-XoxrRX {
+  background-color: var(--gallery);
+  box-shadow: 0px 2px 4px #00000029;
+  height: 34px;
+  left: 0px;
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-767 .stoffqualitt-XoxrRX {
+  background-color: transparent;
+  height: 16px;
+  left: calc(28.20% - 23px);
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.bestellubersicht-767 .handarbeit-XoxrRX {
+  background-color: transparent;
+  height: 15px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  right: calc(49.40% - 36px);
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 73px;
+}
+
+.bestellubersicht-767 .sichere-bezahlung-XoxrRX {
+  background-color: transparent;
+  height: 16px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  right: calc(23.18% - 28px);
+  text-align: left;
+  top: 13px;
+  white-space: nowrap;
+  width: 119px;
+}
+
+.bestellubersicht-767 .gruppe-199-XoxrRX {
+  background-color: transparent;
+  height: 17px;
+  position: absolute;
+  right: calc(36.40% - 4px);
+  top: 8px;
+  width: 12px;
+}
+
+.bestellubersicht-767 .rechteck-155-VYa0g8 {
+  background-color: var(--stratos);
+  border-radius: 2px;
+  height: calc(100.00% - 5px);
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 100%;
+}
+
+.bestellubersicht-767 .pfad-284-VYa0g8 {
+  background-color: transparent;
+  height: 14px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 4px);
+}
+
+.bestellubersicht-767 .pfad-285-VYa0g8 {
+  background-color: transparent;
+  bottom: calc(29.77% - 2px);
+  height: 5px;
+  left: calc(49.03% - 3px);
+  object-fit: cover;
+  position: absolute;
+  width: 7px;
+}
+
+.bestellubersicht-767 .rechteck-157-XoxrRX {
+  background-color: transparent;
+  border-radius: 1px;
+  height: 15px;
+  left: calc(46.61% - 11px);
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 23px;
+}
+
+.bestellubersicht-767 .iconfinder_4265038_b-XoxrRX {
+  background-color: transparent;
+  height: 17px;
+  left: calc(23.29% - 3px);
+  position: absolute;
+  top: 9px;
+  width: 13px;
+}
+
+.bestellubersicht-767 .ellipse-41-DRrJ0x {
+  background-color: var(--stratos);
+  border-radius: 2.75px;
+  height: 6px;
+  left: calc(49.99% - 3px);
+  position: absolute;
+  top: calc(33.49% - 2px);
+  width: 6px;
+}
+
+.bestellubersicht-767 .pfad-286-DRrJ0x {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.bestellubersicht-767 .iconfinder_scissor_s-XoxrRX {
+  background-color: transparent;
+  height: 14px;
+  left: calc(44.02% - 7px);
+  position: absolute;
+  top: 10px;
+  width: 16px;
+}
+
+.bestellubersicht-767 .pfad-273-OQm34W {
+  background-color: transparent;
+  bottom: 2px;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: 1px;
+}
+
+.bestellubersicht-767 .pfad-274-OQm34W {
+  background-color: transparent;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+
+.bestellubersicht-767 .pfad-275-OQm34W {
+  background-color: transparent;
+  height: 23px;
+  object-fit: cover;
+  position: absolute;
+  right: -9px;
+  top: 4.11%;
+  width: 28px;
+}
+
+.bestellubersicht-767 .pfad-276-OQm34W {
+  background-color: transparent;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.bestellubersicht-767 .borbus-XoxrRX {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.81% - 120px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
+}
+
+.bestellubersicht-767 .gruppe-611-XoxrRX {
+  background-color: transparent;
+  height: 59px;
+  left: 112px;
+  position: absolute;
+  top: calc(13.61% - 8px);
+  width: 583px;
+}
+
+.bestellubersicht-767 .bestellbersicht-rTuy2q {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 29px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 218px;
+}
+
+.bestellubersicht-767 .bestellbersicht-rTuy2q.bp2-animate-enter {
+  animation: bp2-animate-enter-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .gruppe-598-rTuy2q {
+  background-color: transparent;
+  bottom: 0px;
+  height: 15px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.bestellubersicht-767 .datenschutz-cookies-EDKs4F {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 14px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  right: calc(29.62% - 40px);
+  text-align: left;
+  text-decoration: underline;
+  top: 0px;
+  white-space: nowrap;
+  width: 134px;
+}
+
+.bestellubersicht-767 .datenschutz-cookies-EDKs4F.bp2-animate-enter1 {
+  animation: bp2-animate-enter1-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter1-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .bei-bestellung-stimm-EDKs4F {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  display: block;
+  height: 100%;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 257px;
+}
+
+.bestellubersicht-767 .bei-bestellung-stimm-EDKs4F.bp2-animate-enter2 {
+  animation: bp2-animate-enter2-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter2-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .ag-bs-EDKs4F {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 14px;
+  left: calc(46.44% - 17px);
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 0px;
+  white-space: nowrap;
+  width: 36px;
+}
+
+.bestellubersicht-767 .ag-bs-EDKs4F.bp2-animate-enter3 {
+  animation: bp2-animate-enter3-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter3-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .und-EDKs4F {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  display: block;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  right: calc(47.66% - 13px);
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: 27px;
+}
+
+.bestellubersicht-767 .und-EDKs4F.bp2-animate-enter4 {
+  animation: bp2-animate-enter4-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter4-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .von-borbus-zu-EDKs4F {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  display: block;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  overflow: hidden;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: 134px;
+}
+
+.bestellubersicht-767 .von-borbus-zu-EDKs4F.bp2-animate-enter5 {
+  animation: bp2-animate-enter5-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter5-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .gruppe-615-XoxrRX {
+  background-color: transparent;
+  height: 389px;
+  left: calc(50.00% - 354px);
+  position: absolute;
+  top: calc(25.11% - 98px);
+  width: 709px;
+}
+
+.bestellubersicht-767 .rechteck-173-z5p3vg {
+  background-color: var(--black-haze);
+  border-radius: 4px;
+  height: 389px;
+  left: calc(50.00% - 354px);
+  position: absolute;
+  top: calc(50.00% - 194px);
+  width: 709px;
+}
+
+.bestellubersicht-767 .gruppe-600-z5p3vg {
+  background-color: transparent;
+  height: 12px;
+  left: calc(13.90% - 16px);
+  position: absolute;
+  top: calc(16.58% - 2px);
+  width: 112px;
+}
+
+.bestellubersicht-767 .lieferadresse-r6csbb {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.bestellubersicht-767 .lieferadresse-r6csbb.bp2-animate-enter6 {
+  animation: bp2-animate-enter6-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter6-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .ndern1-r6csbb {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  bottom: 1px;
+  display: block;
+  height: 9px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 25px;
+}
+
+.bestellubersicht-767 .ndern1-r6csbb.bp2-animate-enter7 {
+  animation: bp2-animate-enter7-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter7-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .gruppe-606-z5p3vg {
+  background-color: transparent;
+  height: 76px;
+  position: absolute;
+  right: 282px;
+  top: calc(20.28% - 15px);
+  width: 115px;
+}
+
+.bestellubersicht-767 .gruppe-603-eUF9um {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-767 .gruppe-601-lsQjFi {
+  background-color: transparent;
+  height: 13px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 71px;
+}
+
+.bestellubersicht-767 .zahlungsart-ARTrE6 {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-767 .zahlungsart-ARTrE6.bp2-animate-enter8 {
+  animation: bp2-animate-enter8-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter8-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .gruppe-602-lsQjFi {
+  background-color: transparent;
+  bottom: 0px;
+  height: 29px;
+  left: 3px;
+  position: absolute;
+  width: calc(100.00% - 3px);
+}
+
+.bestellubersicht-767 .paypal-konto-pwUZYK {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 15px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: calc(50.00% - 7px);
+  white-space: nowrap;
+  width: 78px;
+}
+
+.bestellubersicht-767 .paypal-konto-pwUZYK.bp2-animate-enter9 {
+  animation: bp2-animate-enter9-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter9-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .gruppe-557-pwUZYK {
+  background-color: transparent;
+  height: 29px;
+  left: 0px;
+  position: absolute;
+  top: calc(50.00% - 14px);
+  width: 24px;
+}
+
+.bestellubersicht-767 .x32_50-paypal-rc5dDF {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-767 .gruppe-700-XwiW07 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-767 .pfad-288-Pt1sFM {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 3px);
+}
+
+.bestellubersicht-767 .pfad-289-Pt1sFM {
+  background-color: transparent;
+  bottom: 0px;
+  height: 21px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  width: 18px;
+}
+
+.bestellubersicht-767 .kundennameinput1-z5p3vg {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 14px;
+  left: 83px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(27.87% - 4px);
+  white-space: nowrap;
+  width: 98px;
+}
+
+.bestellubersicht-767 .kundennameinput1-z5p3vg.bp2-animate-enter10 {
+  animation: bp2-animate-enter10-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter10-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .kundenstrasseinput1-z5p3vg {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 14px;
+  left: 83px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(34.80% - 5px);
+  white-space: nowrap;
+  width: 122px;
+}
+
+.bestellubersicht-767 .kundenstrasseinput1-z5p3vg.bp2-animate-enter11 {
+  animation: bp2-animate-enter11-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter11-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .kundenplzinput1-z5p3vg {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 14px;
+  left: 83px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(41.73% - 6px);
+  white-space: nowrap;
+  width: 51px;
+}
+
+.bestellubersicht-767 .kundenplzinput1-z5p3vg.bp2-animate-enter12 {
+  animation: bp2-animate-enter12-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter12-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .kundenemailinput1-z5p3vg {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 14px;
+  left: 83px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(48.67% - 7px);
+  white-space: nowrap;
+  width: 87px;
+}
+
+.bestellubersicht-767 .kundenemailinput1-z5p3vg.bp2-animate-enter13 {
+  animation: bp2-animate-enter13-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter13-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .kleidchenbezeichnung-XoxrRX {
+  -webkit-text-stroke: 0.05000000074505806px var(--tacao);
+  background-color: transparent;
+  color: var(--tacao);
+  display: block;
+  font-family: var(--font-family-hiraginomincho_pron-w6);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+  height: 16px;
+  left: calc(7.37% - 7px);
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 753px;
+  white-space: nowrap;
+  width: 95px;
+}
+
+.bestellubersicht-767 .kleidchenbezeichnung-XoxrRX.bp2-animate-enter14 {
+  animation: bp2-animate-enter14-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter14-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .gruppe-610-XoxrRX {
+  background-color: transparent;
+  height: 191px;
+  left: calc(10.42% - 31px);
+  position: absolute;
+  top: 791px;
+  width: 297px;
+}
+
+.bestellubersicht-767 .gruppe-599-hq6mix {
+  background-color: transparent;
+  height: 191px;
+  left: 0px;
+  position: relative;
+  top: calc(50.00% - 96px);
+  width: 297px;
+}
+
+.bestellubersicht-767 .vorderseitebild-7IRz4X {
+  background-color: var(--white);
+  height: calc(100.00% - 96px);
+  left: 0px;
+  position: absolute;
+  top: 10px;
+  width: 121px;
+}
+
+.bestellubersicht-767 .gruppe-597-7IRz4X {
+  background-color: transparent;
+  height: 191px;
+  position: absolute;
+  right: 0px;
+  top: calc(50.00% - 96px);
+  width: 135px;
+}
+
+.bestellubersicht-767 .x5-7-werktage-lieferz-DPItxU {
+  background-color: transparent;
+  color: var(--black);
+  display: block;
+  font-family: var(--font-family-hiragino_mincho_pron);
+  font-size: 11px;
+  font-weight: 400;
+  height: 193px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: -0.26%;
+  white-space: nowrap;
+  width: 137px;
+}
+
+.bestellubersicht-767 .span0-hhN2RI {
+  font-family: var(--font-family-hiraginomincho_pron-w6);
+  font-style: normal;
+}
+
+.bestellubersicht-767 .span1-hhN2RI {
+}
+
+.bestellubersicht-767 .span2-hhN2RI {
+  color: var(--monza);
+  font-family: var(--font-family-hiraginomincho_pron-w3);
+  font-style: normal;
+}
+
+.bestellubersicht-767 .span3-hhN2RI {
+}
+
+.bestellubersicht-767 .x5-7-werktage-lieferz-DPItxU.bp2-animate-enter15 {
+  animation: bp2-animate-enter15-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter15-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .stckpreis-DPItxU {
+  -webkit-text-stroke: 0.05000000074505806px var(--monza);
+  background-color: transparent;
+  display: block;
+  height: 24px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 0;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: calc(26.65% - 6px);
+  width: 100px;
+}
+
+.bestellubersicht-767 .span0-sw3BAB {
+}
+
+.bestellubersicht-767 .span1-sw3BAB {
+}
+
+.bestellubersicht-767 .stckpreis-DPItxU.bp2-animate-enter16 {
+  animation: bp2-animate-enter16-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter16-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .gruppe-614-XoxrRX {
+  background-color: transparent;
+  bottom: calc(37.28% - 139px);
+  height: 372px;
+  position: absolute;
+  right: calc(6.15% - 19px);
+  width: 304px;
+}
+
+.bestellubersicht-767 .rechteck-175-x6wiHF {
+  background-color: var(--black-haze);
+  border-radius: 4px;
+  height: 372px;
+  left: 0px;
+  position: absolute;
+  top: calc(50.00% - 186px);
+  width: 303px;
+}
+
+.bestellubersicht-767 .gruppe-607-x6wiHF {
+  background-color: transparent;
+  height: 207px;
+  left: calc(16.84% - 16px);
+  position: absolute;
+  top: calc(14.24% - 29px);
+  width: 96px;
+}
+
+.bestellubersicht-767 .bestellbersicht-RJoSJA {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 14px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-767 .bestellbersicht-RJoSJA.bp2-animate-enter17 {
+  animation: bp2-animate-enter17-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter17-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .versandkostengesamtkosten-RJoSJA {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: -1px;
+  display: block;
+  height: 154px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 12px);
+}
+
+.bestellubersicht-767 .span0-GzGLCd {
+}
+
+.bestellubersicht-767 .span1-GzGLCd {
+}
+
+.bestellubersicht-767 .versandkostengesamtkosten-RJoSJA.bp2-animate-enter18 {
+  animation: bp2-animate-enter18-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter18-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .gruppe-608-x6wiHF {
+  background-color: transparent;
+  height: 154px;
+  position: absolute;
+  right: calc(15.00% - 9px);
+  top: calc(35.55% - 55px);
+  width: 63px;
+}
+
+.bestellubersicht-767 .gesamtpreis1-msfncZ {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 15px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 0;
+  position: absolute;
+  right: -2px;
+  text-align: right;
+  top: calc(101.08% - 15px);
+  white-space: nowrap;
+  width: 65px;
+}
+
+.bestellubersicht-767 .gesamtpreis1-msfncZ.bp2-animate-enter19 {
+  animation: bp2-animate-enter19-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter19-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .stckpreis-msfncZ {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(100.36% - 14px);
+  display: block;
+  height: 14px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  right: 2px;
+  text-align: right;
+  white-space: nowrap;
+  width: 63px;
+}
+
+.bestellubersicht-767 .stckpreis-msfncZ.bp2-animate-enter20 {
+  animation: bp2-animate-enter20-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter20-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .x0000-eur-msfncZ {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 53px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  right: 2px;
+  text-align: right;
+  top: calc(44.06% - 23px);
+  white-space: nowrap;
+  width: 63px;
+}
+
+.bestellubersicht-767 .x0000-eur-msfncZ.bp2-animate-enter21 {
+  animation: bp2-animate-enter21-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter21-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .kleidchenbezeichnung-x6wiHF {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 14px;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(21.65% - 3px);
+  white-space: nowrap;
+  width: 78px;
+}
+
+.bestellubersicht-767 .kleidchenbezeichnung-x6wiHF.bp2-animate-enter22 {
+  animation: bp2-animate-enter22-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter22-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .linie-54-x6wiHF {
+  background-color: transparent;
+  display: block;
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 50.00%;
+  width: 100%;
+}
+
+.bestellubersicht-767 .linie-54-x6wiHF.bp2-animate-enter23 {
+  animation: bp2-animate-enter23-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter23-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .paypal-button-tablet-x6wiHF {
+  background-color: var(--black-haze);
+  border-radius: 6px;
+  bottom: calc(14.37% - 7px);
+  height: 52px;
+  opacity: 0.8;
+  position: absolute;
+  right: calc(49.65% - 116px);
+  width: 233px;
+}
+
+.bestellubersicht-767 .gruppe-163-XoxrRX {
+  background-color: transparent;
+  bottom: 0px;
+  display: block;
+  height: 331px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.bestellubersicht-767 .gruppe-163-XoxrRX.bp2-animate-enter24 {
+  animation: bp2-animate-enter24-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter24-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.bestellubersicht-767 .rechteck-90-pFRMhK {
+  background-color: var(--stratos);
+  bottom: 0px;
+  height: 331px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.bestellubersicht-767 .gruppe-347-pFRMhK {
+  background-color: transparent;
+  height: 114px;
+  left: 51px;
+  position: absolute;
+  top: 37px;
+  width: 148px;
+}
+
+.bestellubersicht-767 .exklusive-serviceleistungen-qfyQvd {
+  background-color: transparent;
+  height: 54px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-767 .gruppe-137-qfyQvd {
+  background-color: transparent;
+  bottom: 0px;
+  height: 15px;
+  left: 0px;
+  position: absolute;
+  width: 118px;
+}
+
+.bestellubersicht-767 .versand-frei-2Au7z0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 1px);
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.bestellubersicht-767 .truck-2Au7z0 {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 26px;
+}
+
+.bestellubersicht-767 .gruppe-350-pFRMhK {
+  background-color: transparent;
+  height: 155px;
+  left: calc(38.10% - 60px);
+  position: absolute;
+  top: 37px;
+  width: 158px;
+}
+
+.bestellubersicht-767 .knnen-wir-helfen-wARrTU {
+  background-color: transparent;
+  height: 28px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: 160px;
+}
+
+.bestellubersicht-767 .gruppe-348-wARrTU {
+  background-color: transparent;
+  bottom: calc(29.79% - 4px);
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  width: 86px;
+}
+
+.bestellubersicht-767 .gruppe-140-fqQakZ {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 53px;
+}
+
+.bestellubersicht-767 .kontakt-ys1CYU {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-767 .contact-fqQakZ {
+  background-color: transparent;
+  height: 12px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 25px;
+}
+
+.bestellubersicht-767 .gruppe-349-wARrTU {
+  background-color: transparent;
+  bottom: 0px;
+  height: 20px;
+  left: calc(37.82% - 57px);
+  position: absolute;
+  width: 152px;
+}
+
+.bestellubersicht-767 .gruppe-141-36Wo1y {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 15px;
+  position: absolute;
+  right: 0px;
+  width: 122px;
+}
+
+.bestellubersicht-767 .zahlungsoptionen-xS1kVq {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-767 .money-36Wo1y {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 20px;
+}
+
+.bestellubersicht-767 .gruppe-354-pFRMhK {
+  background-color: transparent;
+  height: 251px;
+  position: absolute;
+  right: calc(23.89% - 49px);
+  top: 37px;
+  width: 205px;
+}
+
+.bestellubersicht-767 .das-unternehmen-LX5v3a {
+  background-color: transparent;
+  height: 28px;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% - 49px);
+}
+
+.bestellubersicht-767 .gruppe-353-LX5v3a {
+  background-color: transparent;
+  bottom: 0px;
+  height: 27px;
+  left: 1px;
+  position: absolute;
+  width: 113px;
+}
+
+.bestellubersicht-767 .gruppe-158-xsShSE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  position: absolute;
+  right: 1px;
+  top: 2px;
+  width: 80px;
+}
+
+.bestellubersicht-767 .impressum-FUFt35 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-767 .gruppe-154-xsShSE {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+
+.bestellubersicht-767 .gruppe-159-PYRQ90 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-767 .ellipse-25-OLPeuS {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.bestellubersicht-767 .i-OLPeuS {
+  background-color: transparent;
+  height: 25px;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: calc(100.00% - 7px);
+}
+
+.bestellubersicht-767 .gruppe-160-LX5v3a {
+  background-color: transparent;
+  height: 20px;
+  left: 7px;
+  position: absolute;
+  top: calc(41.56% - 8px);
+  width: 120px;
+}
+
+.bestellubersicht-767 .gruppe-155-Wwk1T2 {
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 94px;
+}
+
+.bestellubersicht-767 .gruppe-138-8NjFrG {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.bestellubersicht-767 .ber-borbus-ZQXFCz {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-767 .b-Wwk1T2 {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 16px;
+}
+
+.bestellubersicht-767 .gruppe-351-LX5v3a {
+  background-color: transparent;
+  bottom: calc(37.16% - 12px);
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.bestellubersicht-767 .gruppe-156-8WxPQG {
+  background-color: transparent;
+  height: 100%;
+  left: 33px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 33px);
+}
+
+.bestellubersicht-767 .geschfts-und-nutzungsbediengungen-4sxmHr {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-767 .solid-8WxPQG {
+  background-color: transparent;
+  bottom: calc(47.15% - 10px);
+  height: 20px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 21px;
+}
+
+.bestellubersicht-767 .gruppe-352-LX5v3a {
+  background-color: transparent;
+  bottom: calc(18.98% - 4px);
+  height: 19px;
+  left: 2px;
+  position: absolute;
+  width: calc(100.00% - 3px);
+}
+
+.bestellubersicht-767 .gruppe-157-DxzwbR {
+  background-color: transparent;
+  cursor: pointer;
+  height: 15px;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 171px;
+}
+
+.bestellubersicht-767 .datenschutz-cookies-jmUO75 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-767 .cookie-DxzwbR {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 19px;
+}
+
+.bestellubersicht-767 .gruppe-355-pFRMhK {
+  background-color: transparent;
+  height: 122px;
+  position: absolute;
+  right: calc(4.87% - 5px);
+  top: 37px;
+  width: 110px;
+}
+
+.bestellubersicht-767 .besuche-uns-DxqmxR {
+  background-color: transparent;
+  height: 28px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-767 .gruppe-323-DxqmxR {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 26px;
+  left: 0px;
+  position: absolute;
+  width: calc(100.00% - 4px);
+}
+
+.bestellubersicht-767 .gruppe-162-jY5Lba {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  position: absolute;
+  right: 0px;
+  top: 3px;
+  width: 82px;
+}
+
+.bestellubersicht-767 .instagram-xRgtyr {
+  background-color: transparent;
+  height: 25px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.bestellubersicht-767 .icon-instagram-jY5Lba {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.bestellubersicht-767 .ssl-XoxrRX {
+  background-color: transparent;
+  bottom: 31px;
+  display: block;
+  height: 90px;
+  left: calc(9.91% - 9px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 90px;
+}
+
+.bestellubersicht-767 .ssl-XoxrRX.bp2-animate-enter25 {
+  animation: bp2-animate-enter25-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter25-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+@media screen and (max-width: 766px) {
+  .screen.bestellubersicht { 
+    display: none;
+   }
+  .screen.bestellubersicht-1200-all-breakpoints { 
+    display: none;
+   }
+  .screen.bestellubersicht-767 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 767px) and (max-width: 1199px) {
+  .screen.bestellubersicht { 
+    display: none;
+   }
+  .screen.bestellubersicht-1200-all-breakpoints { 
+    display: none;
+   }
+  .screen.bestellubersicht-375 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1200px) and (max-width: 1919px) {
+  .screen.bestellubersicht { 
+    display: none;
+   }
+  .screen.bestellubersicht-767 { 
+    display: none;
+   }
+  .screen.bestellubersicht-375 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1920px) {
+  .screen.bestellubersicht-1200-all-breakpoints { 
+    display: none;
+   }
+  .screen.bestellubersicht-767 { 
+    display: none;
+   }
+  .screen.bestellubersicht-375 { 
+    display: none;
+   }
+}
