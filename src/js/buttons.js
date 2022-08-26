@@ -8,7 +8,6 @@ import {
   _openEmailInputField
 } from "./render.js"
 import { _noAddressFound, _noCartItemFound, _noUserFound, _noUserSessionFound } from "./exceptions.js"
-// import { getPriceInHbar } from "./fetch.js"
 import { _getAddresses, _getCart } from "./storage.js"
 
 function _onLoginButtonClick() {
@@ -93,7 +92,7 @@ function _onLoginButtonClick() {
     })
   })
 }
-_onLoginButtonClick()
+// _onLoginButtonClick()
 
 function _onLoginLinkButtonClick() {
   const loginLinks = document.querySelectorAll("div[class*='login2']")
@@ -113,9 +112,9 @@ function _onLoginLinkButtonClick() {
     })
   })
 }
-_onLoginLinkButtonClick()
+// _onLoginLinkButtonClick()
 
-function _onOrderButtonClick() {
+async function _onOrderButtonClick() {
   const orderButtons = document.querySelectorAll("div[class*='bestellen1']")
 
   if (orderButtons.length === 0) return
@@ -167,7 +166,7 @@ function _onPayButtonClick() {
         return
       }
 
-      window.location.assign("/bestellubersicht")
+      window.location.assign("/bestelluebersicht")
     })
   })
 }
@@ -186,23 +185,11 @@ function _onCartButtonClick() {
 
     cart = JSON.parse(localStorage.getItem("cart")) || []
 
-    if (!window.sessionStorage.getItem("nfts")) {
-      alert("Es wird noch die Verfügbarkeit geprüft. Bitte versuchen Sie es in ein paar Sekunden erneut")
-      return
-    }
-    const nfts = JSON.parse(window.sessionStorage.getItem("nfts"))
-    const notAvailableNfts = nfts.filter(it => it.treasuryId !== it.owner)
-    if (notAvailableNfts.some(item => item.serial === window.__DATA__.id)) {
-      alert("Dieses Kleidchen ist bereits verkauft")
-      return
-    }
-
     const cartContainsDressId = cart.some(item => item.id === window.__DATA__.id)
     if (cartContainsDressId) {
       alert(`${window.__DATA__.name} ist bereits im Warenkorb`)
       return
     }
-
 
     cart = []
     cart.push(window.__DATA__)
@@ -223,12 +210,12 @@ function _onDeleteCartButtonClick() {
 
   deleteButtons.forEach(element => {
     element.setAttribute("style", "cursor: pointer;")
-    element.addEventListener("click", () => {
+    element.addEventListener("click", async () => {
       window.localStorage.removeItem("cart")
-      _removeItemFromCart()
+      alert("Es befindet sich kein Kleidchen im Warenkorb")
+      window.location.assign("/shop")
     })
   })
-
 }
 _onDeleteCartButtonClick()
 
@@ -245,7 +232,6 @@ function _onCartButtonTopRightClick() {
 
       if (cart.length === 0) {
         alert("Es befindet sich kein Kleidchen im Warenkorb")
-        window.location.assign("/shop")
         return
       }
       window.location.assign("/warenkorb")
@@ -263,36 +249,6 @@ function _onRegisterButtonClick() {
     button.setAttribute("style", "cursor: pointer;")
 
     button.addEventListener("click", async () => {
-
-      const accountIdFields = document.querySelectorAll("input[name='accountId']")
-      if (accountIdFields.length === 0) return
-      let accountId
-      accountIdFields.forEach(field => {
-        _inputIsEmpty(field)
-        if (!field.checkValidity()) return
-        accountId = field.value
-      })
-      if (accountId === undefined) return
-
-      const privateKeyFields = document.querySelectorAll("input[name='privateKey']")
-      if(privateKeyFields.length === 0) return
-      let privateKey
-      privateKeyFields.forEach(field => {
-        _inputIsEmpty(field)
-        if (!field.checkValidity()) return
-        privateKey = field.value
-      })
-      if (privateKey === undefined) return
-
-      const securityKeyFields = document.querySelectorAll("input[name='securityKey']")
-      if(securityKeyFields.length === 0) return
-      let securityKey
-      securityKeyFields.forEach(field => {
-        _inputIsEmpty(field)
-        if (!field.checkValidity()) return
-        securityKey = field.value
-      })
-      if (securityKey === undefined) return
 
       const nameFields = document.querySelectorAll("input[name='name']")
       if (nameFields.length === 0) return
@@ -334,70 +290,30 @@ function _onRegisterButtonClick() {
       })
       if (email === undefined) return
 
-      // store addresses
       const addresses = JSON.parse(window.localStorage.getItem("addresses")) || []
-      if (addresses.length === 0) {
-        addresses.push({
-          name,
-          street,
-          zip,
-          email,
-          shippingAddress: true,
-          billingAddress: true,
-        })
-      } else {
-        addresses.push({
-          name,
-          street,
-          zip,
-          email,
-          shippingAddress: false,
-          billingAddress: false,
-        })
+
+      if (addresses.length !== 0) {
+        const lastElement = addresses.pop()
+        lastElement.shippingAddress = false
+        lastElement.billingAddress = false
+
+        addresses.push(lastElement)
       }
+
+      addresses.push({
+        name,
+        street,
+        zip,
+        email,
+        shippingAddress: true,
+        billingAddress: true,
+      })
+
       window.localStorage.setItem("addresses", JSON.stringify(addresses))
 
-      // import key
-      const dataAsBytes = new TextEncoder().encode(privateKey)
-      const keyAsBytes = new TextEncoder().encode(securityKey)
+      console.log(addresses);
 
-      const passwordKey = await window.crypto.subtle.importKey(
-        "raw",
-        keyAsBytes,
-        "PBKDF2",
-        false,
-        ["deriveKey"]
-      )
-
-      // derive key
-      const salt = window.crypto.getRandomValues(new Uint8Array(32))
-      const aesKey = await window.crypto.subtle.deriveKey({
-        name: "PBKDF2",
-        hash: { name: "SHA-256" },
-        salt,
-        iterations: 250000
-      }, passwordKey, { name: "AES-GCM", length: 256 }, false, ["encrypt"])
-
-      // encrypt data
-      const iv = window.crypto.getRandomValues(new Uint8Array(12))
-      const encryptedData = await window.crypto.subtle.encrypt({
-        name: "AES-GCM",
-        iv,
-      }, aesKey, dataAsBytes)
-      const encryptedBytes = new Uint8Array(encryptedData)
-      const encryptedPackage = [...salt, ...iv, ...encryptedBytes]
-
-      window.sessionStorage.setItem("userSession", JSON.stringify({
-        accountId,
-        data: encryptedPackage,
-      }))
-
-      if (document.referrer.endsWith("/warenkorb/")) {
-        window.location.assign("/bestellubersicht")
-        return
-      }
-      window.location.assign("/accountuebersicht")
-
+      window.location.assign("/bestelluebersicht")
     })
   })
 }
@@ -410,79 +326,49 @@ function _onChangeShippingAddressButtonClick() {
 
   elements.forEach(element => {
     element.setAttribute("style", "cursor: pointer;")
-    element.addEventListener("click", async () => {
-      const name = await _openNameInputField("div[class*='kundennameinput1']")
-      const street = await _openStreetInputField("div[class*='kundenstrasseinput1']")
-      const zip = await _openZipInputField("div[class*='kundenplzinput1']")
-      const email = await _openEmailInputField("div[class*='kundenemailinput1']")
-
-      if (!window.localStorage.getItem("addresses")) {
-        _noAddressFound()
-        return
-      }
-
-      const addresses = JSON.parse(window.localStorage.getItem("addresses"))
-
-      addresses.forEach(address => address.shippingAddress = false)
-      addresses.push({
-        name,
-        street,
-        zip,
-        email,
-        shippingAddress: true,
-        billingAddress: false
-      })
-      window.localStorage.setItem("addresses", JSON.stringify(addresses))
-    })
+    element.addEventListener("click", () => window.location.assign("/bestellformular"))
   })
 }
 _onChangeShippingAddressButtonClick()
 
-function _onChangeBillingAddressButtonClick() {
-  const elements = document.querySelectorAll("div[class*='ndern3']")
+function _onBackButtonClick() {
+  const backButtons = document.querySelectorAll("div[class*='zurck']")
 
-  if (elements.length === 0) return
+  if (backButtons.length === 0) return
 
-  elements.forEach(element => {
-    element.setAttribute("style", "cursor: pointer;")
-    element.addEventListener("click", async () => {
-      const name = await _openNameInputField("div[class*='kundennameinput2']")
-      const street = await _openStreetInputField("div[class*='kundenstrasseinput2']")
-      const zip = await _openZipInputField("div[class*='kundenplzinput2']")
-      const email = await _openEmailInputField("div[class*='kundenemailinput2']")
-
-      if (!window.localStorage.getItem("addresses")) {
-        _noAddressFound()
-        return
-      }
-
-      const addresses = JSON.parse(window.localStorage.getItem("addresses"))
-
-      addresses.forEach(address => address.billingAddress = false)
-      addresses.push({
-        name,
-        street,
-        zip,
-        email,
-        shippingAddress: false,
-        billingAddress: true
-      })
-      window.localStorage.setItem("addresses", JSON.stringify(addresses))
-    })
+  backButtons.forEach(button => {
+    button.setAttribute("style", "cursor: pointer;")
+    button.addEventListener("click", () => window.history.back())
   })
 }
-_onChangeBillingAddressButtonClick()
+_onBackButtonClick()
 
-function _onChangePaymentButtonClick() {
-  const elements = document.querySelectorAll("div[class*='ndern2']")
+function _onAboutBorbusButtonClick() {
+  const aboutBorbusButtons = document.querySelectorAll("a[href*='ueberborbus']")
 
-  if (elements.length === 0) return
+  if (aboutBorbusButtons.length === 0) return
 
-  elements.forEach(element => {
-    element.setAttribute("style", "cursor: pointer;")
-    element.addEventListener("click", () => {
-      window.location.assign("/loginbereich")
-    })
-  })
+  aboutBorbusButtons.forEach(button => button.setAttribute("href", "/ueber-borbus"))
 }
-_onChangePaymentButtonClick()
+_onAboutBorbusButtonClick()
+
+function _onAgbButtonClick() {
+  const agbButtons = document.querySelectorAll("a[href*='allgemeinegeschaftsbedingungen']")
+  const agb2Buttons = document.querySelectorAll("a[href*='allgemeinegeschaeftsbedingungen']")
+
+  if (agbButtons.length === 0) return
+  if (agb2Buttons.length === 0) return
+
+  agbButtons.forEach(button => button.setAttribute("href", "/agbs"))
+  agb2Buttons.forEach(button => button.setAttribute("href", "/agbs"))
+}
+_onAgbButtonClick()
+
+function _onDsgvoButtonClick() {
+  const dsgvoButtons = document.querySelectorAll("a[href*='datenschutzerklaerung']")
+
+  if (dsgvoButtons.length === 0) return
+
+  dsgvoButtons.forEach(button => button.setAttribute("href", "/datenschutz"))
+}
+_onDsgvoButtonClick()

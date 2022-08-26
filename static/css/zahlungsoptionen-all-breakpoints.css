@@ -1,0 +1,3992 @@
+/* screen - zahlungsoptionen-1200 */
+
+.zahlungsoptionen-1200 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1392px;
+  min-width: 1200px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.zahlungsoptionen-1200 .gruppe-542-rZWhS0 {
+  background-color: transparent;
+  height: 491px;
+  left: calc(37.74% - 253px);
+  position: absolute;
+  top: calc(39.62% - 195px);
+  width: 670px;
+}
+
+.zahlungsoptionen-1200 .gruppe-166-CUa2yE {
+  background-color: transparent;
+  display: block;
+  height: 100%;
+  left: 1px;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.zahlungsoptionen-1200 .gruppe-166-CUa2yE.bp3-animate-enter257 {
+  animation: bp3-animate-enter257-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter257-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.zahlungsoptionen-1200 .bezahlen-sie-sicher-cb2fWB {
+  background-color: transparent;
+  height: 37px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: calc(30.36% - 101px);
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: 334px;
+}
+
+.zahlungsoptionen-1200 .sie-knnen-unter-folg-cb2fWB {
+  background-color: transparent;
+  height: 30px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: calc(46.53% - 14px);
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.zahlungsoptionen-1200 .linie-28-cb2fWB {
+  background-color: transparent;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(39.27% - 30px);
+  top: 91px;
+  width: 76px;
+}
+
+.zahlungsoptionen-1200 .kleidchenbezeichnung-cb2fWB {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(8.04% - 2px);
+  display: block;
+  height: 31px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 142px);
+}
+
+.zahlungsoptionen-1200 .kleidchenbezeichnung-cb2fWB.bp3-animate-enter255 {
+  animation: bp3-animate-enter255-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter255-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.zahlungsoptionen-1200 .pd-fanleitung-cb2fWB {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  bottom: 0.32%;
+  cursor: pointer;
+  display: block;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: calc(100.00% - 527px);
+}
+
+.zahlungsoptionen-1200 .pd-fanleitung-cb2fWB.bp3-animate-enter256 {
+  animation: bp3-animate-enter256-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter256-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.zahlungsoptionen-1200 .gruppe-557-CUa2yE {
+  background-color: transparent;
+  bottom: 152px;
+  height: 54px;
+  left: 0px;
+  position: absolute;
+  width: 97px;
+}
+
+.zahlungsoptionen-1200 .paypal-Uf2r8Z {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(44.52% - 8px);
+  cursor: pointer;
+  display: block;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  text-decoration: underline;
+  transition: all 0.4s ease;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.zahlungsoptionen-1200 .paypal-Uf2r8Z.bp3-animate-enter258 {
+  animation: bp3-animate-enter258-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter258-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.zahlungsoptionen-1200 .paypal-Uf2r8Z:hover {
+  transform: translate(0, -5px);
+}
+
+.zahlungsoptionen-1200 .x32_50-paypal-Uf2r8Z {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 45px;
+}
+
+.zahlungsoptionen-1200 .gruppe-700-Mz9FZi {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.zahlungsoptionen-1200 .pfad-288-Srb24L {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 5px);
+}
+
+.zahlungsoptionen-1200 .pfad-289-Srb24L {
+  background-color: transparent;
+  bottom: 1px;
+  height: 39px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 33px;
+}
+
+.zahlungsoptionen-1200 .rechteck-118-rZWhS0 {
+  background-color: var(--gallery);
+  box-shadow: 0px 2px 4px #00000029;
+  height: 34px;
+  left: 0px;
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.zahlungsoptionen-1200 .stoffqualitt-rZWhS0 {
+  background-color: transparent;
+  height: 16px;
+  left: calc(34.72% - 28px);
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.zahlungsoptionen-1200 .handarbeit-rZWhS0 {
+  background-color: transparent;
+  height: 15px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  right: calc(48.74% - 36px);
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 73px;
+}
+
+.zahlungsoptionen-1200 .sichere-bezahlung-rZWhS0 {
+  background-color: transparent;
+  height: 16px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  right: calc(29.77% - 35px);
+  text-align: left;
+  top: 13px;
+  white-space: nowrap;
+  width: 119px;
+}
+
+.zahlungsoptionen-1200 .gruppe-199-rZWhS0 {
+  background-color: transparent;
+  height: 17px;
+  position: absolute;
+  right: calc(37.47% - 5px);
+  top: 8px;
+  width: 12px;
+}
+
+.zahlungsoptionen-1200 .rechteck-155-gdiyNG {
+  background-color: var(--stratos);
+  border-radius: 2px;
+  height: calc(100.00% - 5px);
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 100%;
+}
+
+.zahlungsoptionen-1200 .pfad-284-gdiyNG {
+  background-color: transparent;
+  height: 14px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 4px);
+}
+
+.zahlungsoptionen-1200 .pfad-285-gdiyNG {
+  background-color: transparent;
+  bottom: calc(29.77% - 2px);
+  height: 5px;
+  left: calc(49.03% - 3px);
+  object-fit: cover;
+  position: absolute;
+  width: 7px;
+}
+
+.zahlungsoptionen-1200 .rechteck-157-rZWhS0 {
+  background-color: transparent;
+  border-radius: 1px;
+  height: 15px;
+  left: calc(47.29% - 11px);
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 23px;
+}
+
+.zahlungsoptionen-1200 .iconfinder_4265038_b-rZWhS0 {
+  background-color: transparent;
+  height: 17px;
+  left: calc(31.25% - 4px);
+  position: absolute;
+  top: 9px;
+  width: 13px;
+}
+
+.zahlungsoptionen-1200 .ellipse-41-KY0QEs {
+  background-color: var(--stratos);
+  border-radius: 2.75px;
+  height: 6px;
+  left: calc(49.99% - 3px);
+  position: absolute;
+  top: calc(33.49% - 2px);
+  width: 6px;
+}
+
+.zahlungsoptionen-1200 .pfad-286-KY0QEs {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.zahlungsoptionen-1200 .iconfinder_scissor_s-rZWhS0 {
+  background-color: transparent;
+  height: 14px;
+  left: calc(47.06% - 8px);
+  position: absolute;
+  top: 10px;
+  width: 16px;
+}
+
+.zahlungsoptionen-1200 .pfad-273-OJPE5Y {
+  background-color: transparent;
+  bottom: 2px;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: 1px;
+}
+
+.zahlungsoptionen-1200 .pfad-274-OJPE5Y {
+  background-color: transparent;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+
+.zahlungsoptionen-1200 .pfad-275-OJPE5Y {
+  background-color: transparent;
+  height: 23px;
+  object-fit: cover;
+  position: absolute;
+  right: -9px;
+  top: 4.11%;
+  width: 28px;
+}
+
+.zahlungsoptionen-1200 .pfad-276-OJPE5Y {
+  background-color: transparent;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.zahlungsoptionen-1200 .borbus-rZWhS0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.90% - 120px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
+}
+
+.zahlungsoptionen-1200 .gruppe-322-rZWhS0 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 331px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.zahlungsoptionen-1200 .gruppe-163-uqr4d0 {
+  background-color: transparent;
+  display: block;
+  height: 100%;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.zahlungsoptionen-1200 .gruppe-163-uqr4d0.bp3-animate-enter259 {
+  animation: bp3-animate-enter259-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter259-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.zahlungsoptionen-1200 .rechteck-90-Xips4m {
+  background-color: var(--stratos);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.zahlungsoptionen-1200 .exklusive-serviceleistungen-Xips4m {
+  background-color: transparent;
+  height: 63px;
+  left: 121px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 36px;
+  width: 214px;
+}
+
+.zahlungsoptionen-1200 .gruppe-137-Xips4m {
+  background-color: transparent;
+  height: 15px;
+  left: 121px;
+  position: absolute;
+  top: calc(43.06% - 7px);
+  width: 118px;
+}
+
+.zahlungsoptionen-1200 .versand-frei-SMGkSx {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 1px);
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.zahlungsoptionen-1200 .truck-SMGkSx {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 26px;
+}
+
+.zahlungsoptionen-1200 .gruppe-341-Xips4m {
+  background-color: transparent;
+  height: 155px;
+  left: calc(37.21% - 80px);
+  position: absolute;
+  top: 37px;
+  width: 214px;
+}
+
+.zahlungsoptionen-1200 .knnen-wir-helfen-IfJFQp {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  width: 216px;
+}
+
+.zahlungsoptionen-1200 .gruppe-339-IfJFQp {
+  background-color: transparent;
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  top: 99px;
+  width: 90px;
+}
+
+.zahlungsoptionen-1200 .gruppe-140-PZ16ia {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 53px;
+}
+
+.zahlungsoptionen-1200 .kontakt-bmrskB {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.zahlungsoptionen-1200 .contact-PZ16ia {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 25px;
+}
+
+.zahlungsoptionen-1200 .gruppe-340-IfJFQp {
+  background-color: transparent;
+  height: 20px;
+  left: calc(8.13% - 12px);
+  position: absolute;
+  top: 135px;
+  width: 154px;
+}
+
+.zahlungsoptionen-1200 .gruppe-141-d3JZsQ {
+  background-color: transparent;
+  bottom: 1px;
+  height: 15px;
+  position: absolute;
+  right: 0px;
+  width: 122px;
+}
+
+.zahlungsoptionen-1200 .zahlungsoptionen-P7i27p {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.zahlungsoptionen-1200 .money-d3JZsQ {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 20px;
+}
+
+.zahlungsoptionen-1200 .gruppe-345-Xips4m {
+  background-color: transparent;
+  height: 251px;
+  position: absolute;
+  right: calc(35.16% - 76px);
+  top: 37px;
+  width: 216px;
+}
+
+.zahlungsoptionen-1200 .das-unternehmen-sM8TSs {
+  background-color: transparent;
+  height: 63px;
+  left: calc(200.00% - 428px);
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  width: 214px;
+}
+
+.zahlungsoptionen-1200 .gruppe-344-sM8TSs {
+  background-color: transparent;
+  bottom: 0px;
+  height: 27px;
+  left: 0px;
+  position: absolute;
+  width: 110px;
+}
+
+.zahlungsoptionen-1200 .gruppe-158-2f4oMz {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 80px;
+}
+
+.zahlungsoptionen-1200 .impressum-7ysyGz {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.zahlungsoptionen-1200 .gruppe-154-2f4oMz {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+
+.zahlungsoptionen-1200 .gruppe-159-COoKCr {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.zahlungsoptionen-1200 .ellipse-25-zzLcrv {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.zahlungsoptionen-1200 .i-zzLcrv {
+  background-color: transparent;
+  height: 25px;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: calc(100.00% - 7px);
+}
+
+.zahlungsoptionen-1200 .gruppe-160-sM8TSs {
+  background-color: transparent;
+  bottom: 135px;
+  height: 20px;
+  left: calc(4.08% - 5px);
+  position: absolute;
+  width: 120px;
+}
+
+.zahlungsoptionen-1200 .gruppe-155-BZzukZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 4px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 94px;
+}
+
+.zahlungsoptionen-1200 .gruppe-138-0FxPtl {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.zahlungsoptionen-1200 .ber-borbus-EiofeX {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.zahlungsoptionen-1200 .b-BZzukZ {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 16px;
+}
+
+.zahlungsoptionen-1200 .gruppe-342-sM8TSs {
+  background-color: transparent;
+  bottom: 83px;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  width: 202px;
+}
+
+.zahlungsoptionen-1200 .gruppe-156-YfU86N {
+  background-color: transparent;
+  height: 100%;
+  left: 30px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 30px);
+}
+
+.zahlungsoptionen-1200 .geschfts-und-nutzungsbediengungen-OeLvzH {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.zahlungsoptionen-1200 .solid-YfU86N {
+  background-color: transparent;
+  bottom: 4px;
+  height: 20px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 21px;
+}
+
+.zahlungsoptionen-1200 .gruppe-343-sM8TSs {
+  background-color: transparent;
+  bottom: 44px;
+  height: 19px;
+  left: 0px;
+  position: absolute;
+  width: 201px;
+}
+
+.zahlungsoptionen-1200 .gruppe-157-fxRtCg {
+  background-color: transparent;
+  cursor: pointer;
+  height: 15px;
+  left: 30px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 30px);
+}
+
+.zahlungsoptionen-1200 .datenschutz-cookies-oDxv9X {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.zahlungsoptionen-1200 .cookie-fxRtCg {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 19px;
+}
+
+.zahlungsoptionen-1200 .gruppe-346-Xips4m {
+  background-color: transparent;
+  height: 120px;
+  position: absolute;
+  right: calc(7.29% - 15px);
+  top: 37px;
+  width: 212px;
+}
+
+.zahlungsoptionen-1200 .besuche-uns-IcofWA {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  width: 214px;
+}
+
+.zahlungsoptionen-1200 .gruppe-321-IcofWA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 23px;
+  left: calc(0.46% - 1px);
+  position: absolute;
+  top: 98px;
+  width: 131px;
+}
+
+.zahlungsoptionen-1200 .gruppe-162-4S8gGS {
+  background-color: transparent;
+  height: 100%;
+  left: 31px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 31px);
+}
+
+.zahlungsoptionen-1200 .instagram-5fH8pj {
+  background-color: transparent;
+  height: 25px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.zahlungsoptionen-1200 .icon-instagram-4S8gGS {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.zahlungsoptionen-1200 .ssl-uqr4d0 {
+  background-color: transparent;
+  bottom: 31px;
+  display: block;
+  height: 90px;
+  left: calc(9.91% - 9px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 90px;
+}
+
+.zahlungsoptionen-1200 .ssl-uqr4d0.bp3-animate-enter260 {
+  animation: bp3-animate-enter260-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter260-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.zahlungsoptionen-1200 .warenkorb-oben-rechts-rZWhS0 {
+  background-color: transparent;
+  height: 41px;
+  position: absolute;
+  right: 83px;
+  top: 54px;
+  width: 44px;
+}
+
+.zahlungsoptionen-1200 .iconfinder_basket_ecommerce_shop_4177565-f53iPf {
+  background-color: transparent;
+  height: 24px;
+  object-fit: cover;
+  position: absolute;
+  right: 16px;
+  top: 17px;
+  width: 28px;
+}
+
+.zahlungsoptionen-1200 .gruppe-579-f53iPf {
+  background-color: transparent;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.zahlungsoptionen-1200 .ellipse-47-9uOz64 {
+  background-color: var(--stratos);
+  border-radius: 11.5px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.zahlungsoptionen-1200 .anzahl-warenkorb-9uOz64 {
+  -webkit-text-stroke: 0.05000000074505806px var(--gallery);
+  background-color: transparent;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: 5px;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 11px;
+}
+/* screen - zahlungsoptionen-375 */
+
+.zahlungsoptionen-375 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1141px;
+  min-width: 375px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.zahlungsoptionen-375 .gruppe-544-lIRXnO {
+  background-color: transparent;
+  height: 355px;
+  position: absolute;
+  right: calc(49.96% - 156px);
+  top: calc(31.68% - 112px);
+  width: 313px;
+}
+
+.zahlungsoptionen-375 .gruppe-166-PADnV4 {
+  background-color: transparent;
+  display: block;
+  height: 162px;
+  left: 1px;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 265px;
+}
+
+.zahlungsoptionen-375 .gruppe-166-PADnV4.bp1-animate-enter239 {
+  animation: bp1-animate-enter239-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter239-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.zahlungsoptionen-375 .bezahlen-sie-sicher-1hvWJi {
+  background-color: transparent;
+  height: 25px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: -1px;
+  white-space: nowrap;
+  width: 220px;
+}
+
+.zahlungsoptionen-375 .unsere-zahlungsoptionen-1hvWJi {
+  background-color: transparent;
+  bottom: 6px;
+  height: 22px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 34px);
+}
+
+.zahlungsoptionen-375 .linie-28-1hvWJi {
+  background-color: transparent;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(38.21% - 29px);
+  top: 49.71%;
+  width: 76px;
+}
+
+.zahlungsoptionen-375 .kleidchenbezeichnung-PADnV4 {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 19px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 310px;
+  white-space: nowrap;
+  width: 315px;
+}
+
+.zahlungsoptionen-375 .kleidchenbezeichnung-PADnV4.bp1-animate-enter240 {
+  animation: bp1-animate-enter240-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter240-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.zahlungsoptionen-375 .pd-fanleitung-PADnV4 {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 12px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 339px;
+  white-space: nowrap;
+  width: 97px;
+}
+
+.zahlungsoptionen-375 .pd-fanleitung-PADnV4.bp1-animate-enter241 {
+  animation: bp1-animate-enter241-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter241-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.zahlungsoptionen-375 .gruppe-557-PADnV4 {
+  background-color: transparent;
+  bottom: 108px;
+  height: 54px;
+  left: 1px;
+  position: absolute;
+  width: 97px;
+}
+
+.zahlungsoptionen-375 .paypal-l3dQpI {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(44.52% - 8px);
+  cursor: pointer;
+  display: block;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  text-decoration: underline;
+  transition: all 0.4s ease;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.zahlungsoptionen-375 .paypal-l3dQpI.bp1-animate-enter242 {
+  animation: bp1-animate-enter242-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter242-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.zahlungsoptionen-375 .paypal-l3dQpI:hover {
+  transform: translate(0, -5px);
+}
+
+.zahlungsoptionen-375 .x32_50-paypal-l3dQpI {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 45px;
+}
+
+.zahlungsoptionen-375 .gruppe-700-MrT3jx {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.zahlungsoptionen-375 .pfad-288-tpwnGw {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 5px);
+}
+
+.zahlungsoptionen-375 .pfad-289-tpwnGw {
+  background-color: transparent;
+  bottom: 0px;
+  height: 39px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 33px;
+}
+
+.zahlungsoptionen-375 .rechteck-118-lIRXnO {
+  background-color: var(--gallery);
+  box-shadow: 0px 2px 4px #00000029;
+  height: 34px;
+  left: 0px;
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.zahlungsoptionen-375 .gruppe-546-lIRXnO {
+  background-color: transparent;
+  height: 17px;
+  position: absolute;
+  right: 21px;
+  top: 8px;
+  width: 107px;
+}
+
+.zahlungsoptionen-375 .sichere-bezahlung-MMRAm6 {
+  background-color: transparent;
+  bottom: -2px;
+  height: 13px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  opacity: 0.73;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 92px;
+}
+
+.zahlungsoptionen-375 .gruppe-199-MMRAm6 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 12px;
+}
+
+.zahlungsoptionen-375 .rechteck-155-6r40Qe {
+  background-color: var(--stratos);
+  border-radius: 2px;
+  height: calc(100.00% - 5px);
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 100%;
+}
+
+.zahlungsoptionen-375 .pfad-284-6r40Qe {
+  background-color: transparent;
+  height: 14px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 4px);
+}
+
+.zahlungsoptionen-375 .pfad-285-6r40Qe {
+  background-color: transparent;
+  bottom: calc(29.77% - 2px);
+  height: 5px;
+  left: calc(49.02% - 3px);
+  object-fit: cover;
+  position: absolute;
+  width: 7px;
+}
+
+.zahlungsoptionen-375 .gruppe-548-lIRXnO {
+  background-color: transparent;
+  height: 17px;
+  left: 30px;
+  position: absolute;
+  top: 9px;
+  width: 78px;
+}
+
+.zahlungsoptionen-375 .stoffqualitt-FARQhG {
+  background-color: transparent;
+  bottom: -1px;
+  height: 13px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  opacity: 0.73;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.zahlungsoptionen-375 .iconfinder_4265038_b-FARQhG {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+
+.zahlungsoptionen-375 .ellipse-41-vkffsC {
+  background-color: var(--stratos);
+  border-radius: 2.75px;
+  height: 6px;
+  left: calc(49.99% - 3px);
+  position: absolute;
+  top: calc(33.49% - 2px);
+  width: 6px;
+}
+
+.zahlungsoptionen-375 .pfad-286-vkffsC {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.zahlungsoptionen-375 .gruppe-547-lIRXnO {
+  background-color: transparent;
+  height: 14px;
+  left: calc(46.35% - 35px);
+  position: absolute;
+  top: 10px;
+  width: 75px;
+}
+
+.zahlungsoptionen-375 .handarbeit-2NVxWg {
+  background-color: transparent;
+  bottom: -2px;
+  height: 12px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  opacity: 0.73;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 56px;
+}
+
+.zahlungsoptionen-375 .iconfinder_scissor_s-2NVxWg {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 16px;
+}
+
+.zahlungsoptionen-375 .pfad-273-nfRVcx {
+  background-color: transparent;
+  bottom: 2px;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: 1px;
+}
+
+.zahlungsoptionen-375 .pfad-274-nfRVcx {
+  background-color: transparent;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+
+.zahlungsoptionen-375 .pfad-275-nfRVcx {
+  background-color: transparent;
+  height: 23px;
+  object-fit: cover;
+  position: absolute;
+  right: -9px;
+  top: 4.11%;
+  width: 28px;
+}
+
+.zahlungsoptionen-375 .pfad-276-nfRVcx {
+  background-color: transparent;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.zahlungsoptionen-375 .borbus-lIRXnO {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.26% - 118px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
+}
+
+.zahlungsoptionen-375 .gruppe-327-lIRXnO {
+  background-color: transparent;
+  bottom: 0px;
+  height: 331px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.zahlungsoptionen-375 .rechteck-90-WrfoDi {
+  background-color: var(--stratos);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.zahlungsoptionen-375 .gruppe-356-WrfoDi {
+  background-color: transparent;
+  height: 88px;
+  left: calc(5.99% - 5px);
+  position: absolute;
+  top: calc(10.30% - 9px);
+  width: 91px;
+}
+
+.zahlungsoptionen-375 .exklusive-serviceleistungen-AOdF6P {
+  -webkit-text-stroke: 0.30000001192092896px var(--swirl);
+  background-color: transparent;
+  height: 40px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  width: calc(100.00% + 2px);
+}
+
+.zahlungsoptionen-375 .gruppe-137-AOdF6P {
+  background-color: transparent;
+  bottom: 1px;
+  height: 11px;
+  left: 0px;
+  position: absolute;
+  width: calc(100.00% - 9px);
+}
+
+.zahlungsoptionen-375 .versand-frei-ixckEx {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 1px);
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.zahlungsoptionen-375 .truck-ixckEx {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 19px;
+}
+
+.zahlungsoptionen-375 .gruppe-359-WrfoDi {
+  background-color: transparent;
+  height: 120px;
+  left: calc(48.05% - 53px);
+  position: absolute;
+  top: 25px;
+  width: 111px;
+}
+
+.zahlungsoptionen-375 .knnen-wir-helfen-25tuVa {
+  -webkit-text-stroke: 0.30000001192092896px var(--swirl);
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  width: calc(100.00% - 12px);
+}
+
+.zahlungsoptionen-375 .gruppe-357-25tuVa {
+  background-color: transparent;
+  bottom: calc(29.92% - 3px);
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  width: 61px;
+}
+
+.zahlungsoptionen-375 .gruppe-140-NbpkCe {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 38px;
+}
+
+.zahlungsoptionen-375 .kontakt-l62KK4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.zahlungsoptionen-375 .contact-NbpkCe {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.zahlungsoptionen-375 .gruppe-358-25tuVa {
+  background-color: transparent;
+  bottom: 0px;
+  height: 16px;
+  left: 3px;
+  position: absolute;
+  width: calc(100.00% - 3px);
+}
+
+.zahlungsoptionen-375 .gruppe-141-BHVWIe {
+  background-color: transparent;
+  bottom: 0px;
+  height: 11px;
+  position: absolute;
+  right: 0px;
+  width: 87px;
+}
+
+.zahlungsoptionen-375 .zahlungsoptionen-xicV3m {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -7px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.zahlungsoptionen-375 .money-BHVWIe {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 15px;
+}
+
+.zahlungsoptionen-375 .gruppe-363-WrfoDi {
+  background-color: transparent;
+  height: 196px;
+  position: absolute;
+  right: calc(5.44% - 6px);
+  top: calc(18.48% - 36px);
+  width: 102px;
+}
+
+.zahlungsoptionen-375 .das-unternehmen-or9nFj {
+  -webkit-text-stroke: 0.30000001192092896px var(--swirl);
+  background-color: transparent;
+  height: 17px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: calc(100.00% - 5px);
+}
+
+.zahlungsoptionen-375 .gruppe-362-or9nFj {
+  background-color: transparent;
+  bottom: 0px;
+  height: 11px;
+  left: 1px;
+  position: absolute;
+  width: 68px;
+}
+
+.zahlungsoptionen-375 .gruppe-158-vHcqgx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 15px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 15px);
+}
+
+.zahlungsoptionen-375 .impressum-FmSMmN {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -7px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.zahlungsoptionen-375 .gruppe-154-vHcqgx {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 11px;
+}
+
+.zahlungsoptionen-375 .gruppe-159-O84etB {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.zahlungsoptionen-375 .ellipse-25-ZB7rvX {
+  background-color: var(--white);
+  border-radius: 5.47px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.zahlungsoptionen-375 .i-ZB7rvX {
+  background-color: transparent;
+  height: 10px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  overflow: hidden;
+  position: absolute;
+  right: calc(34.51% - 2px);
+  text-align: left;
+  top: -7px;
+  white-space: nowrap;
+  width: 4px;
+}
+
+.zahlungsoptionen-375 .gruppe-160-or9nFj {
+  background-color: transparent;
+  height: 15px;
+  left: 1px;
+  position: absolute;
+  top: calc(40.56% - 6px);
+  width: 78px;
+}
+
+.zahlungsoptionen-375 .gruppe-155-xciPIE {
+  background-color: transparent;
+  bottom: 2px;
+  height: 11px;
+  position: absolute;
+  right: 0px;
+  width: 63px;
+}
+
+.zahlungsoptionen-375 .gruppe-138-hF2L6C {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.zahlungsoptionen-375 .ber-borbus-3DyvQN {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -7px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.zahlungsoptionen-375 .b-xciPIE {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 13px;
+}
+
+.zahlungsoptionen-375 .gruppe-361-or9nFj {
+  background-color: transparent;
+  bottom: 28px;
+  height: 26px;
+  left: 1px;
+  position: absolute;
+  width: 100%;
+}
+
+.zahlungsoptionen-375 .gruppe-156-Judmyj {
+  background-color: transparent;
+  height: 100%;
+  left: 16px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 16px);
+}
+
+.zahlungsoptionen-375 .geschftsbedien-gungen-gUc7vC {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.zahlungsoptionen-375 .solid-Judmyj {
+  background-color: transparent;
+  height: 12px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(46.50% - 6px);
+  width: 13px;
+}
+
+.zahlungsoptionen-375 .gruppe-360-or9nFj {
+  background-color: transparent;
+  bottom: calc(41.77% - 5px);
+  height: 13px;
+  left: 0px;
+  position: absolute;
+  width: 81px;
+}
+
+.zahlungsoptionen-375 .gruppe-157-VHFatt {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 10px;
+  position: absolute;
+  right: 0px;
+  width: 65px;
+}
+
+.zahlungsoptionen-375 .datenschutz-mnvbVv {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.zahlungsoptionen-375 .cookie-VHFatt {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+
+.zahlungsoptionen-375 .gruppe-325-WrfoDi {
+  background-color: transparent;
+  bottom: 18px;
+  cursor: pointer;
+  height: 18px;
+  position: absolute;
+  right: 31px;
+  width: 147px;
+}
+
+.zahlungsoptionen-375 .gruppe-162-UPOekS {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 15px;
+  left: 0px;
+  position: absolute;
+  width: 122px;
+}
+
+.zahlungsoptionen-375 .folge-uns-auf-instagram-5vPcKx {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.zahlungsoptionen-375 .icon-instagram-UPOekS {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 18px;
+}
+
+.zahlungsoptionen-375 .ssl-WrfoDi {
+  background-color: transparent;
+  bottom: 55px;
+  display: block;
+  height: 90px;
+  left: calc(8.86% - 8px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 90px;
+}
+
+.zahlungsoptionen-375 .ssl-WrfoDi.bp1-animate-enter243 {
+  animation: bp1-animate-enter243-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter243-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.zahlungsoptionen-375 .warenkorb-oben-rechts-lIRXnO {
+  background-color: transparent;
+  height: 32px;
+  position: absolute;
+  right: 10px;
+  top: 44px;
+  width: 35px;
+}
+
+.zahlungsoptionen-375 .iconfinder_basket_ecommerce_shop_4177565-xBRORB {
+  background-color: transparent;
+  height: 21px;
+  object-fit: cover;
+  position: absolute;
+  right: 11px;
+  top: 11px;
+  width: 24px;
+}
+
+.zahlungsoptionen-375 .gruppe-579-xBRORB {
+  background-color: transparent;
+  height: 16px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 16px;
+}
+
+.zahlungsoptionen-375 .ellipse-47-WGQHdt {
+  background-color: var(--stratos);
+  border-radius: 8.16px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 16px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 16px;
+}
+
+.zahlungsoptionen-375 .anzahl-warenkorb-WGQHdt {
+  -webkit-text-stroke: 0.05000000074505806px var(--gallery);
+  background-color: transparent;
+  height: 11px;
+  letter-spacing: 0.00px;
+  line-height: 9px;
+  position: absolute;
+  right: 4px;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 7px;
+}
+/* screen - zahlungsoptionen-767 */
+
+.zahlungsoptionen-767 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1392px;
+  min-width: 767px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.zahlungsoptionen-767 .gruppe-543-aDxOOq {
+  background-color: transparent;
+  height: 477px;
+  left: calc(41.18% - 221px);
+  position: absolute;
+  top: calc(38.91% - 186px);
+  width: 536px;
+}
+
+.zahlungsoptionen-767 .gruppe-166-xeQNI5 {
+  background-color: transparent;
+  display: block;
+  height: 232px;
+  left: 1px;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.zahlungsoptionen-767 .gruppe-166-xeQNI5.bp2-animate-enter253 {
+  animation: bp2-animate-enter253-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter253-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.zahlungsoptionen-767 .bezahlen-sie-sicher-yHjMaM {
+  background-color: transparent;
+  height: 37px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: 71px;
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: 334px;
+}
+
+.zahlungsoptionen-767 .sie-knnen-unter-folg-yHjMaM {
+  background-color: transparent;
+  bottom: 4px;
+  height: 25px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.zahlungsoptionen-767 .linie-28-yHjMaM {
+  background-color: transparent;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(43.95% - 33px);
+  top: 39.43%;
+  width: 76px;
+}
+
+.zahlungsoptionen-767 .kleidchenbezeichnung-xeQNI5 {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: 37px;
+  display: block;
+  height: 31px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 6px);
+}
+
+.zahlungsoptionen-767 .kleidchenbezeichnung-xeQNI5.bp2-animate-enter254 {
+  animation: bp2-animate-enter254-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter254-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.zahlungsoptionen-767 .pd-fanleitung-xeQNI5 {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  bottom: 2px;
+  cursor: pointer;
+  display: block;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: calc(100.00% - 391px);
+}
+
+.zahlungsoptionen-767 .pd-fanleitung-xeQNI5.bp2-animate-enter255 {
+  animation: bp2-animate-enter255-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter255-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.zahlungsoptionen-767 .gruppe-557-xeQNI5 {
+  background-color: transparent;
+  bottom: 155px;
+  height: 54px;
+  left: 1px;
+  position: absolute;
+  width: 97px;
+}
+
+.zahlungsoptionen-767 .paypal-P8Pcl4 {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(44.52% - 8px);
+  cursor: pointer;
+  display: block;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  text-decoration: underline;
+  transition: all 0.4s ease;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.zahlungsoptionen-767 .paypal-P8Pcl4.bp2-animate-enter256 {
+  animation: bp2-animate-enter256-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter256-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.zahlungsoptionen-767 .paypal-P8Pcl4:hover {
+  transform: translate(0, -5px);
+}
+
+.zahlungsoptionen-767 .x32_50-paypal-P8Pcl4 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 45px;
+}
+
+.zahlungsoptionen-767 .gruppe-700-cwdMSD {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.zahlungsoptionen-767 .pfad-288-rrqCeH {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 5px);
+}
+
+.zahlungsoptionen-767 .pfad-289-rrqCeH {
+  background-color: transparent;
+  bottom: 0px;
+  height: 39px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 33px;
+}
+
+.zahlungsoptionen-767 .rechteck-118-aDxOOq {
+  background-color: var(--gallery);
+  box-shadow: 0px 2px 4px #00000029;
+  height: 34px;
+  left: 0px;
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.zahlungsoptionen-767 .stoffqualitt-aDxOOq {
+  background-color: transparent;
+  height: 16px;
+  left: calc(28.20% - 23px);
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.zahlungsoptionen-767 .handarbeit-aDxOOq {
+  background-color: transparent;
+  height: 15px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  right: calc(49.40% - 36px);
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 73px;
+}
+
+.zahlungsoptionen-767 .sichere-bezahlung-aDxOOq {
+  background-color: transparent;
+  height: 16px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  right: calc(23.18% - 28px);
+  text-align: left;
+  top: 13px;
+  white-space: nowrap;
+  width: 119px;
+}
+
+.zahlungsoptionen-767 .gruppe-199-aDxOOq {
+  background-color: transparent;
+  height: 17px;
+  position: absolute;
+  right: calc(36.40% - 4px);
+  top: 8px;
+  width: 12px;
+}
+
+.zahlungsoptionen-767 .rechteck-155-qfxySZ {
+  background-color: var(--stratos);
+  border-radius: 2px;
+  height: calc(100.00% - 5px);
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 100%;
+}
+
+.zahlungsoptionen-767 .pfad-284-qfxySZ {
+  background-color: transparent;
+  height: 14px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 4px);
+}
+
+.zahlungsoptionen-767 .pfad-285-qfxySZ {
+  background-color: transparent;
+  bottom: calc(29.77% - 2px);
+  height: 5px;
+  left: calc(49.03% - 3px);
+  object-fit: cover;
+  position: absolute;
+  width: 7px;
+}
+
+.zahlungsoptionen-767 .rechteck-157-aDxOOq {
+  background-color: transparent;
+  border-radius: 1px;
+  height: 15px;
+  left: calc(46.61% - 11px);
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 23px;
+}
+
+.zahlungsoptionen-767 .iconfinder_4265038_b-aDxOOq {
+  background-color: transparent;
+  height: 17px;
+  left: calc(23.29% - 3px);
+  position: absolute;
+  top: 9px;
+  width: 13px;
+}
+
+.zahlungsoptionen-767 .ellipse-41-nADzks {
+  background-color: var(--stratos);
+  border-radius: 2.75px;
+  height: 6px;
+  left: calc(49.99% - 3px);
+  position: absolute;
+  top: calc(33.49% - 2px);
+  width: 6px;
+}
+
+.zahlungsoptionen-767 .pfad-286-nADzks {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.zahlungsoptionen-767 .iconfinder_scissor_s-aDxOOq {
+  background-color: transparent;
+  height: 14px;
+  left: calc(44.02% - 7px);
+  position: absolute;
+  top: 10px;
+  width: 16px;
+}
+
+.zahlungsoptionen-767 .pfad-273-RQG7GZ {
+  background-color: transparent;
+  bottom: 2px;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: 1px;
+}
+
+.zahlungsoptionen-767 .pfad-274-RQG7GZ {
+  background-color: transparent;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+
+.zahlungsoptionen-767 .pfad-275-RQG7GZ {
+  background-color: transparent;
+  height: 23px;
+  object-fit: cover;
+  position: absolute;
+  right: -9px;
+  top: 4.11%;
+  width: 28px;
+}
+
+.zahlungsoptionen-767 .pfad-276-RQG7GZ {
+  background-color: transparent;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.zahlungsoptionen-767 .borbus-aDxOOq {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.81% - 120px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
+}
+
+.zahlungsoptionen-767 .gruppe-163-aDxOOq {
+  background-color: transparent;
+  bottom: 0px;
+  display: block;
+  height: 331px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.zahlungsoptionen-767 .gruppe-163-aDxOOq.bp2-animate-enter257 {
+  animation: bp2-animate-enter257-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter257-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.zahlungsoptionen-767 .rechteck-90-geNvs9 {
+  background-color: var(--stratos);
+  bottom: 0px;
+  height: 331px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.zahlungsoptionen-767 .gruppe-347-geNvs9 {
+  background-color: transparent;
+  height: 114px;
+  left: 51px;
+  position: absolute;
+  top: 37px;
+  width: 148px;
+}
+
+.zahlungsoptionen-767 .exklusive-serviceleistungen-lgtcX2 {
+  background-color: transparent;
+  height: 54px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  width: calc(100.00% + 2px);
+}
+
+.zahlungsoptionen-767 .gruppe-137-lgtcX2 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 15px;
+  left: 0px;
+  position: absolute;
+  width: 118px;
+}
+
+.zahlungsoptionen-767 .versand-frei-xPgxAM {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 1px);
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.zahlungsoptionen-767 .truck-xPgxAM {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 26px;
+}
+
+.zahlungsoptionen-767 .gruppe-350-geNvs9 {
+  background-color: transparent;
+  height: 155px;
+  left: calc(38.10% - 60px);
+  position: absolute;
+  top: 37px;
+  width: 158px;
+}
+
+.zahlungsoptionen-767 .knnen-wir-helfen-drVNEw {
+  background-color: transparent;
+  height: 28px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: 160px;
+}
+
+.zahlungsoptionen-767 .gruppe-348-drVNEw {
+  background-color: transparent;
+  bottom: calc(29.79% - 4px);
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  width: 86px;
+}
+
+.zahlungsoptionen-767 .gruppe-140-Q30Zxk {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 53px;
+}
+
+.zahlungsoptionen-767 .kontakt-3YMVse {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.zahlungsoptionen-767 .contact-Q30Zxk {
+  background-color: transparent;
+  height: 12px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 25px;
+}
+
+.zahlungsoptionen-767 .gruppe-349-drVNEw {
+  background-color: transparent;
+  bottom: 0px;
+  height: 20px;
+  left: calc(37.82% - 57px);
+  position: absolute;
+  width: 152px;
+}
+
+.zahlungsoptionen-767 .gruppe-141-AJFZrv {
+  background-color: transparent;
+  bottom: 1px;
+  height: 15px;
+  position: absolute;
+  right: 0px;
+  width: 122px;
+}
+
+.zahlungsoptionen-767 .zahlungsoptionen-DFUD5G {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.zahlungsoptionen-767 .money-AJFZrv {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 20px;
+}
+
+.zahlungsoptionen-767 .gruppe-354-geNvs9 {
+  background-color: transparent;
+  height: 251px;
+  position: absolute;
+  right: calc(23.89% - 49px);
+  top: 37px;
+  width: 205px;
+}
+
+.zahlungsoptionen-767 .das-unternehmen-IeyNPC {
+  background-color: transparent;
+  height: 28px;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% - 49px);
+}
+
+.zahlungsoptionen-767 .gruppe-353-IeyNPC {
+  background-color: transparent;
+  bottom: 0px;
+  height: 27px;
+  left: 1px;
+  position: absolute;
+  width: 113px;
+}
+
+.zahlungsoptionen-767 .gruppe-158-z8jxd8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  position: absolute;
+  right: 1px;
+  top: 2px;
+  width: 80px;
+}
+
+.zahlungsoptionen-767 .impressum-UlCoxV {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.zahlungsoptionen-767 .gruppe-154-z8jxd8 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+
+.zahlungsoptionen-767 .gruppe-159-pdlecY {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.zahlungsoptionen-767 .ellipse-25-Oqpdgu {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.zahlungsoptionen-767 .i-Oqpdgu {
+  background-color: transparent;
+  height: 25px;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: calc(100.00% - 7px);
+}
+
+.zahlungsoptionen-767 .gruppe-160-IeyNPC {
+  background-color: transparent;
+  height: 20px;
+  left: 7px;
+  position: absolute;
+  top: calc(41.56% - 8px);
+  width: 120px;
+}
+
+.zahlungsoptionen-767 .gruppe-155-iO2FDv {
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 94px;
+}
+
+.zahlungsoptionen-767 .gruppe-138-rRJNVn {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.zahlungsoptionen-767 .ber-borbus-Do48b4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.zahlungsoptionen-767 .b-iO2FDv {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 16px;
+}
+
+.zahlungsoptionen-767 .gruppe-351-IeyNPC {
+  background-color: transparent;
+  bottom: calc(37.16% - 12px);
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.zahlungsoptionen-767 .gruppe-156-F0a2cu {
+  background-color: transparent;
+  height: 100%;
+  left: 33px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 33px);
+}
+
+.zahlungsoptionen-767 .geschfts-und-nutzungsbediengungen-eJKm89 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.zahlungsoptionen-767 .solid-F0a2cu {
+  background-color: transparent;
+  bottom: calc(47.15% - 10px);
+  height: 20px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 21px;
+}
+
+.zahlungsoptionen-767 .gruppe-352-IeyNPC {
+  background-color: transparent;
+  bottom: calc(18.98% - 4px);
+  height: 19px;
+  left: 2px;
+  position: absolute;
+  width: calc(100.00% - 3px);
+}
+
+.zahlungsoptionen-767 .gruppe-157-a0TeHD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 15px;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 171px;
+}
+
+.zahlungsoptionen-767 .datenschutz-cookies-G0UwhJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.zahlungsoptionen-767 .cookie-a0TeHD {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 19px;
+}
+
+.zahlungsoptionen-767 .gruppe-355-geNvs9 {
+  background-color: transparent;
+  height: 122px;
+  position: absolute;
+  right: calc(4.87% - 5px);
+  top: 37px;
+  width: 110px;
+}
+
+.zahlungsoptionen-767 .besuche-uns-5p5d2q {
+  background-color: transparent;
+  height: 28px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.zahlungsoptionen-767 .gruppe-323-5p5d2q {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 26px;
+  left: 0px;
+  position: absolute;
+  width: calc(100.00% - 4px);
+}
+
+.zahlungsoptionen-767 .gruppe-162-L2Oofn {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  position: absolute;
+  right: 0px;
+  top: 3px;
+  width: 82px;
+}
+
+.zahlungsoptionen-767 .instagram-oozZ6B {
+  background-color: transparent;
+  height: 25px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.zahlungsoptionen-767 .icon-instagram-L2Oofn {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.zahlungsoptionen-767 .ssl-aDxOOq {
+  background-color: transparent;
+  bottom: 31px;
+  display: block;
+  height: 90px;
+  left: calc(9.91% - 9px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 90px;
+}
+
+.zahlungsoptionen-767 .ssl-aDxOOq.bp2-animate-enter258 {
+  animation: bp2-animate-enter258-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter258-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.zahlungsoptionen-767 .warenkorb-oben-rechts-aDxOOq {
+  background-color: transparent;
+  height: 41px;
+  position: absolute;
+  right: 49px;
+  top: 49px;
+  width: 44px;
+}
+
+.zahlungsoptionen-767 .iconfinder_basket_ecommerce_shop_4177565-pQCOdg {
+  background-color: transparent;
+  height: 24px;
+  object-fit: cover;
+  position: absolute;
+  right: 16px;
+  top: 17px;
+  width: 28px;
+}
+
+.zahlungsoptionen-767 .gruppe-579-pQCOdg {
+  background-color: transparent;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.zahlungsoptionen-767 .ellipse-47-epEUNA {
+  background-color: var(--stratos);
+  border-radius: 11.5px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.zahlungsoptionen-767 .anzahl-warenkorb-epEUNA {
+  -webkit-text-stroke: 0.05000000074505806px var(--gallery);
+  background-color: transparent;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: 5px;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 11px;
+}
+/* screen - zahlungsoptionen-all-breakpoints */
+
+.zahlungsoptionen-all-breakpoints {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1405px;
+  min-width: 1920px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.zahlungsoptionen-all-breakpoints .rechteck-118-t2lSPA {
+  background-color: var(--gallery);
+  box-shadow: 0px 2px 4px #00000029;
+  height: 34px;
+  left: 0px;
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.zahlungsoptionen-all-breakpoints .stoffqualitt-t2lSPA {
+  background-color: transparent;
+  height: 16px;
+  left: calc(33.45% - 27px);
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.zahlungsoptionen-all-breakpoints .handarbeit-t2lSPA {
+  background-color: transparent;
+  height: 15px;
+  left: calc(49.82% - 36px);
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 73px;
+}
+
+.zahlungsoptionen-all-breakpoints .sichere-bezahlung-t2lSPA {
+  background-color: transparent;
+  height: 16px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  right: calc(32.70% - 39px);
+  text-align: left;
+  top: 13px;
+  white-space: nowrap;
+  width: 119px;
+}
+
+.zahlungsoptionen-all-breakpoints .gruppe-199-t2lSPA {
+  background-color: transparent;
+  height: 17px;
+  position: absolute;
+  right: calc(37.47% - 5px);
+  top: 8px;
+  width: 12px;
+}
+
+.zahlungsoptionen-all-breakpoints .rechteck-155-kD9j4N {
+  background-color: var(--stratos);
+  border-radius: 2px;
+  height: calc(100.00% - 5px);
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 100%;
+}
+
+.zahlungsoptionen-all-breakpoints .pfad-284-kD9j4N {
+  background-color: transparent;
+  height: 14px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 4px);
+}
+
+.zahlungsoptionen-all-breakpoints .pfad-285-kD9j4N {
+  background-color: transparent;
+  bottom: calc(29.77% - 2px);
+  height: 5px;
+  left: calc(49.02% - 3px);
+  object-fit: cover;
+  position: absolute;
+  width: 7px;
+}
+
+.zahlungsoptionen-all-breakpoints .rechteck-157-t2lSPA {
+  background-color: transparent;
+  border-radius: 1px;
+  height: 15px;
+  left: calc(47.29% - 11px);
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 23px;
+}
+
+.zahlungsoptionen-all-breakpoints .iconfinder_scissor_s-t2lSPA {
+  background-color: transparent;
+  height: 14px;
+  left: calc(47.06% - 8px);
+  position: absolute;
+  top: 10px;
+  width: 16px;
+}
+
+.zahlungsoptionen-all-breakpoints .pfad-273-PARY0C {
+  background-color: transparent;
+  bottom: 1px;
+  height: 2px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 2px;
+}
+
+.zahlungsoptionen-all-breakpoints .pfad-274-PARY0C {
+  background-color: transparent;
+  height: calc(100.00% + 19px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 19px);
+}
+
+.zahlungsoptionen-all-breakpoints .pfad-275-PARY0C {
+  background-color: transparent;
+  height: 24px;
+  object-fit: cover;
+  position: absolute;
+  right: -9px;
+  top: 1.54%;
+  width: 29px;
+}
+
+.zahlungsoptionen-all-breakpoints .pfad-276-PARY0C {
+  background-color: transparent;
+  height: 2px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 2px;
+}
+
+.zahlungsoptionen-all-breakpoints .iconfinder_4265038_b-t2lSPA {
+  background-color: transparent;
+  height: 17px;
+  left: calc(31.25% - 4px);
+  position: absolute;
+  top: 9px;
+  width: 13px;
+}
+
+.zahlungsoptionen-all-breakpoints .ellipse-41-kr44hj {
+  background-color: var(--stratos);
+  border-radius: 2.75px;
+  height: 6px;
+  left: calc(49.99% - 3px);
+  position: absolute;
+  top: calc(33.49% - 2px);
+  width: 6px;
+}
+
+.zahlungsoptionen-all-breakpoints .pfad-286-kr44hj {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.zahlungsoptionen-all-breakpoints .gruppe-163-t2lSPA {
+  background-color: transparent;
+  bottom: -1px;
+  display: block;
+  height: 331px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.zahlungsoptionen-all-breakpoints .gruppe-163-t2lSPA.bp4-animate-enter255 {
+  animation: bp4-animate-enter255-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter255-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.zahlungsoptionen-all-breakpoints .rechteck-90-sZM1Z5 {
+  background-color: var(--stratos);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.zahlungsoptionen-all-breakpoints .gruppe-364-sZM1Z5 {
+  background-color: transparent;
+  height: 114px;
+  left: calc(13.51% - 32px);
+  position: absolute;
+  top: calc(17.06% - 19px);
+  width: 240px;
+}
+
+.zahlungsoptionen-all-breakpoints .exklusive-serviceleistungen-SNpaBr {
+  background-color: transparent;
+  height: 63px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% - 26px);
+}
+
+.zahlungsoptionen-all-breakpoints .gruppe-137-SNpaBr {
+  background-color: transparent;
+  bottom: 0px;
+  height: 15px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.zahlungsoptionen-all-breakpoints .versand-rckversand-frei-xwzNu3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 34px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% - 32px);
+}
+
+.zahlungsoptionen-all-breakpoints .truck-xwzNu3 {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 26px;
+}
+
+.zahlungsoptionen-all-breakpoints .gruppe-367-sZM1Z5 {
+  background-color: transparent;
+  height: 155px;
+  left: calc(40.73% - 134px);
+  position: absolute;
+  top: 37px;
+  width: 329px;
+}
+
+.zahlungsoptionen-all-breakpoints .knnen-wir-helfen-N1nuT9 {
+  background-color: transparent;
+  height: 63px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% + 1px);
+}
+
+.zahlungsoptionen-all-breakpoints .gruppe-365-N1nuT9 {
+  background-color: transparent;
+  bottom: calc(29.29% - 4px);
+  height: 15px;
+  left: 0px;
+  position: absolute;
+  width: 92px;
+}
+
+.zahlungsoptionen-all-breakpoints .gruppe-140-MzhFjm {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 57px;
+}
+
+.zahlungsoptionen-all-breakpoints .kontakt-UbH5oZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.zahlungsoptionen-all-breakpoints .contact-MzhFjm {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 25px;
+}
+
+.zahlungsoptionen-all-breakpoints .gruppe-366-N1nuT9 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 20px;
+  left: 5px;
+  position: absolute;
+  width: 160px;
+}
+
+.zahlungsoptionen-all-breakpoints .gruppe-141-wUdZz2 {
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 130px;
+}
+
+.zahlungsoptionen-all-breakpoints .zahlungsoptionen-cOz9By {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.zahlungsoptionen-all-breakpoints .money-wUdZz2 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 20px;
+}
+
+.zahlungsoptionen-all-breakpoints .gruppe-372-sZM1Z5 {
+  background-color: transparent;
+  height: 117px;
+  position: absolute;
+  right: calc(12.59% - 27px);
+  top: 37px;
+  width: 212px;
+}
+
+.zahlungsoptionen-all-breakpoints .besuche-uns-AiFt7Z {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+
+.zahlungsoptionen-all-breakpoints .gruppe-320-AiFt7Z {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 18px;
+  left: 0px;
+  position: absolute;
+  width: 102px;
+}
+
+.zahlungsoptionen-all-breakpoints .gruppe-162-PQeZzG {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 73px;
+}
+
+.zahlungsoptionen-all-breakpoints .instagram-ggPxtS {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.zahlungsoptionen-all-breakpoints .icon-instagram-PQeZzG {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.zahlungsoptionen-all-breakpoints .ssl-t2lSPA {
+  background-color: transparent;
+  bottom: 59px;
+  display: block;
+  height: 90px;
+  left: calc(12.35% - 11px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 90px;
+}
+
+.zahlungsoptionen-all-breakpoints .ssl-t2lSPA.bp4-animate-enter256 {
+  animation: bp4-animate-enter256-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter256-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.zahlungsoptionen-all-breakpoints .gruppe-554-t2lSPA {
+  background-color: transparent;
+  bottom: 42px;
+  height: 251px;
+  position: absolute;
+  right: calc(36.66% - 84px);
+  width: 229px;
+}
+
+.zahlungsoptionen-all-breakpoints .gruppe-371-nZ8wbx {
+  background-color: transparent;
+  height: 251px;
+  left: calc(50.00% - 114px);
+  position: absolute;
+  top: 0px;
+  width: 229px;
+}
+
+.zahlungsoptionen-all-breakpoints .das-unternehmen-iBthhP {
+  background-color: transparent;
+  height: 63px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% - 15px);
+}
+
+.zahlungsoptionen-all-breakpoints .gruppe-370-iBthhP {
+  background-color: transparent;
+  bottom: 0px;
+  height: 27px;
+  left: 8px;
+  position: absolute;
+  width: 30px;
+}
+
+.zahlungsoptionen-all-breakpoints .gruppe-154-aLcIEM {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.zahlungsoptionen-all-breakpoints .gruppe-159-E9jWGe {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.zahlungsoptionen-all-breakpoints .ellipse-25-JOClxj {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.zahlungsoptionen-all-breakpoints .i-JOClxj {
+  background-color: transparent;
+  height: 25px;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: calc(100.00% - 7px);
+}
+
+.zahlungsoptionen-all-breakpoints .gruppe-160-iBthhP {
+  background-color: transparent;
+  height: 20px;
+  left: 8px;
+  position: absolute;
+  top: calc(41.56% - 8px);
+  width: 118px;
+}
+
+.zahlungsoptionen-all-breakpoints .gruppe-155-bCqj3z {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 4px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 94px;
+}
+
+.zahlungsoptionen-all-breakpoints .gruppe-138-o3oMAi {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.zahlungsoptionen-all-breakpoints .ber-borbus-XpbSVV {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.zahlungsoptionen-all-breakpoints .b-bCqj3z {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 16px;
+}
+
+.zahlungsoptionen-all-breakpoints .gruppe-368-iBthhP {
+  background-color: transparent;
+  bottom: calc(37.73% - 12px);
+  height: 31px;
+  left: 6px;
+  position: absolute;
+  width: calc(100.00% - 6px);
+}
+
+.zahlungsoptionen-all-breakpoints .gruppe-156-7YiXpc {
+  background-color: transparent;
+  height: 100%;
+  left: 29px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 29px);
+}
+
+.zahlungsoptionen-all-breakpoints .geschfts-und-nutzungs-bediengungen-XVJjcm {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.zahlungsoptionen-all-breakpoints .solid-7YiXpc {
+  background-color: transparent;
+  bottom: 4px;
+  height: 20px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 21px;
+}
+
+.zahlungsoptionen-all-breakpoints .gruppe-369-iBthhP {
+  background-color: transparent;
+  bottom: calc(18.98% - 4px);
+  height: 19px;
+  left: 7px;
+  position: absolute;
+  width: calc(100.00% - 30px);
+}
+
+.zahlungsoptionen-all-breakpoints .gruppe-157-Wh7aK4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 15px;
+  left: 28px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 28px);
+}
+
+.zahlungsoptionen-all-breakpoints .datenschutz-cookies-8Yoypq {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.zahlungsoptionen-all-breakpoints .cookie-Wh7aK4 {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 19px;
+}
+
+.zahlungsoptionen-all-breakpoints .impressum-nZ8wbx {
+  background-color: transparent;
+  bottom: 8px;
+  cursor: pointer;
+  height: 17px;
+  left: calc(23.53% - 18px);
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 76px;
+}
+
+.zahlungsoptionen-all-breakpoints .gruppe-558-t2lSPA {
+  background-color: transparent;
+  height: 529px;
+  left: calc(31.96% - 320px);
+  position: absolute;
+  top: calc(40.75% - 216px);
+  width: 1000px;
+}
+
+.zahlungsoptionen-all-breakpoints .gruppe-541-78bxvd {
+  background-color: transparent;
+  height: 289px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 1000px;
+}
+
+.zahlungsoptionen-all-breakpoints .gruppe-166-8ZDUxH {
+  background-color: transparent;
+  display: block;
+  height: 100%;
+  left: 0px;
+  opacity: 0;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.zahlungsoptionen-all-breakpoints .gruppe-166-8ZDUxH.bp4-animate-enter257 {
+  animation: bp4-animate-enter257-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter257-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.zahlungsoptionen-all-breakpoints .bezahlen-sie-sicher-HaenLT {
+  background-color: transparent;
+  height: 37px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: calc(24.92% - 83px);
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: 334px;
+}
+
+.zahlungsoptionen-all-breakpoints .sie-knnen-unter-folg-HaenLT {
+  background-color: transparent;
+  bottom: 3px;
+  height: 73px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  width: calc(100.00% + 2px);
+}
+
+.zahlungsoptionen-all-breakpoints .linie-28-HaenLT {
+  background-color: transparent;
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(32.19% - 24px);
+  top: 31.64%;
+  width: 76px;
+}
+
+.zahlungsoptionen-all-breakpoints .kleidchenbezeichnung-78bxvd {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: 37px;
+  display: block;
+  height: 31px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 470px);
+}
+
+.zahlungsoptionen-all-breakpoints .kleidchenbezeichnung-78bxvd.bp4-animate-enter258 {
+  animation: bp4-animate-enter258-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter258-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.zahlungsoptionen-all-breakpoints .pd-fanleitung-78bxvd {
+  -webkit-text-stroke: 0.05000000074505806px var(--navy-blue);
+  background-color: transparent;
+  bottom: 2px;
+  cursor: pointer;
+  display: block;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: calc(100.00% - 855px);
+}
+
+.zahlungsoptionen-all-breakpoints .pd-fanleitung-78bxvd.bp4-animate-enter259 {
+  animation: bp4-animate-enter259-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter259-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.zahlungsoptionen-all-breakpoints .gruppe-557-78bxvd {
+  background-color: transparent;
+  bottom: 186px;
+  height: 54px;
+  left: 1px;
+  position: absolute;
+  width: 97px;
+}
+
+.zahlungsoptionen-all-breakpoints .paypal-yIpgxZ {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(44.52% - 8px);
+  cursor: pointer;
+  display: block;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  text-decoration: underline;
+  transition: all 0.4s ease;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.zahlungsoptionen-all-breakpoints .paypal-yIpgxZ.bp4-animate-enter260 {
+  animation: bp4-animate-enter260-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter260-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.zahlungsoptionen-all-breakpoints .paypal-yIpgxZ:hover {
+  transform: translate(0, -5px);
+}
+
+.zahlungsoptionen-all-breakpoints .x32_50-paypal-yIpgxZ {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 45px;
+}
+
+.zahlungsoptionen-all-breakpoints .gruppe-700-xKxksM {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.zahlungsoptionen-all-breakpoints .pfad-288-Phz1oy {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 5px);
+}
+
+.zahlungsoptionen-all-breakpoints .pfad-289-Phz1oy {
+  background-color: transparent;
+  bottom: 0px;
+  height: 39px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 33px;
+}
+
+.zahlungsoptionen-all-breakpoints .borbus-t2lSPA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.94% - 120px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
+}
+
+.zahlungsoptionen-all-breakpoints .warenkorb-oben-rechts-t2lSPA {
+  background-color: transparent;
+  height: 41px;
+  position: absolute;
+  right: 80px;
+  top: 57px;
+  width: 44px;
+}
+
+.zahlungsoptionen-all-breakpoints .iconfinder_basket_ecommerce_shop_4177565-bPIU9D {
+  background-color: transparent;
+  height: 24px;
+  object-fit: cover;
+  position: absolute;
+  right: 16px;
+  top: 17px;
+  width: 28px;
+}
+
+.zahlungsoptionen-all-breakpoints .gruppe-579-bPIU9D {
+  background-color: transparent;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.zahlungsoptionen-all-breakpoints .ellipse-47-dCclSu {
+  background-color: var(--stratos);
+  border-radius: 11.5px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.zahlungsoptionen-all-breakpoints .anzahl-warenkorb-dCclSu {
+  -webkit-text-stroke: 0.05000000074505806px var(--gallery);
+  background-color: transparent;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: 5px;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 11px;
+}
+@media screen and (max-width: 766px) {
+  .screen.zahlungsoptionen-all-breakpoints { 
+    display: none;
+   }
+  .screen.zahlungsoptionen-1200 { 
+    display: none;
+   }
+  .screen.zahlungsoptionen-767 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 767px) and (max-width: 1199px) {
+  .screen.zahlungsoptionen-all-breakpoints { 
+    display: none;
+   }
+  .screen.zahlungsoptionen-1200 { 
+    display: none;
+   }
+  .screen.zahlungsoptionen-375 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1200px) and (max-width: 1919px) {
+  .screen.zahlungsoptionen-all-breakpoints { 
+    display: none;
+   }
+  .screen.zahlungsoptionen-767 { 
+    display: none;
+   }
+  .screen.zahlungsoptionen-375 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1920px) {
+  .screen.zahlungsoptionen-1200 { 
+    display: none;
+   }
+  .screen.zahlungsoptionen-767 { 
+    display: none;
+   }
+  .screen.zahlungsoptionen-375 { 
+    display: none;
+   }
+}

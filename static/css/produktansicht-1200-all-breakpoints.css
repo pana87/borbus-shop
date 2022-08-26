@@ -1,0 +1,8639 @@
+/* screen - produktansicht */
+
+.produktansicht {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 2192px;
+  min-width: 1920px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.produktansicht .rckseitebild-EOXKB0 {
+  background-color: var(--white);
+  height: 503px;
+  position: absolute;
+  right: 114px;
+  top: calc(24.39% - 123px);
+  width: 578px;
+}
+
+.produktansicht .vorderseitebild-EOXKB0 {
+  background-color: var(--white);
+  height: 503px;
+  left: 93px;
+  position: absolute;
+  top: calc(24.39% - 123px);
+  width: 578px;
+}
+
+.produktansicht .ellipse-33-EOXKB0 {
+  background-color: transparent;
+  border-radius: 11.5px;
+  display: block;
+  height: 23px;
+  opacity: 0;
+  position: absolute;
+  right: 213px;
+  top: calc(38.22% - 9px);
+  width: 23px;
+}
+
+.produktansicht .ellipse-33-EOXKB0.bp4-animate-enter183 {
+  animation: bp4-animate-enter183-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter183-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht .linie-37-EOXKB0 {
+  background-color: transparent;
+  display: block;
+  height: 13px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  right: 224px;
+  top: calc(38.30% - 5px);
+  width: 1px;
+}
+
+.produktansicht .linie-37-EOXKB0.bp4-animate-enter184 {
+  animation: bp4-animate-enter184-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter184-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht .linie-36-EOXKB0 {
+  background-color: transparent;
+  display: block;
+  height: 1px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  right: 218px;
+  top: 38.36%;
+  width: 13px;
+}
+
+.produktansicht .linie-36-EOXKB0.bp4-animate-enter185 {
+  animation: bp4-animate-enter185-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter185-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht .gruppe-475-EOXKB0 {
+  background-color: transparent;
+  height: 525px;
+  left: calc(48.48% - 595px);
+  position: absolute;
+  top: calc(27.53% - 145px);
+  width: 1227px;
+}
+
+.produktansicht .ellipse-32-6LkQjv {
+  background-color: transparent;
+  border-radius: 11.5px;
+  bottom: calc(26.29% - 6px);
+  display: block;
+  height: 23px;
+  left: 132px;
+  opacity: 0;
+  position: absolute;
+  width: 23px;
+}
+
+.produktansicht .ellipse-32-6LkQjv.bp4-animate-enter186 {
+  animation: bp4-animate-enter186-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter186-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht .linie-32-6LkQjv {
+  background-color: transparent;
+  bottom: calc(26.66% - 3px);
+  display: block;
+  height: 13px;
+  left: 143px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 1px;
+}
+
+.produktansicht .linie-32-6LkQjv.bp4-animate-enter187 {
+  animation: bp4-animate-enter187-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter187-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht .linie-33-6LkQjv {
+  background-color: transparent;
+  bottom: 27.21%;
+  display: block;
+  height: 1px;
+  left: 137px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 13px;
+}
+
+.produktansicht .linie-33-6LkQjv.bp4-animate-enter188 {
+  animation: bp4-animate-enter188-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter188-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht .gruppe-474-6LkQjv {
+  background-color: transparent;
+  height: 382px;
+  position: absolute;
+  right: calc(48.75% - 189px);
+  top: 0px;
+  width: 387px;
+}
+
+.produktansicht .kleidchenbezeichnung-vTIerX {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.42% - 64px);
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 129px;
+}
+
+.produktansicht .kleidchenbezeichnung-vTIerX.bp4-animate-enter189 {
+  animation: bp4-animate-enter189-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter189-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht .x6-monate-3-jahre-vTIerX {
+  background-color: transparent;
+  bottom: calc(42.54% - 9px);
+  display: block;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.33% - 80px);
+  text-align: left;
+  white-space: nowrap;
+  width: 163px;
+}
+
+.produktansicht .x6-monate-3-jahre-vTIerX.bp4-animate-enter190 {
+  animation: bp4-animate-enter190-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter190-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht .stckpreis-vTIerX {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.52% - 35px);
+  text-align: left;
+  top: calc(23.55% - 5px);
+  white-space: nowrap;
+  width: 71px;
+}
+
+.produktansicht .stckpreis-vTIerX.bp4-animate-enter191 {
+  animation: bp4-animate-enter191-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter191-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht .linie-31-vTIerX {
+  background-color: transparent;
+  display: block;
+  height: 1px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 53px;
+  width: 100%;
+}
+
+.produktansicht .linie-31-vTIerX.bp4-animate-enter192 {
+  animation: bp4-animate-enter192-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter192-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht .warenkorb-button-mitte-vTIerX {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  display: block;
+  height: 47px;
+  left: 1px;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  transition: all 0.5s ease-out;
+  width: calc(100.00% - 1px);
+}
+
+.produktansicht .warenkorb-button-mitte-vTIerX.bp4-animate-enter193 {
+  animation: bp4-animate-enter193-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter193-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht .warenkorb-button-mitte-vTIerX:hover {
+  transform: scale(1.1);
+}
+
+.produktansicht .rechteck-114-wQOrE5 {
+  background-color: var(--stratos);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  opacity: 0.8;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.produktansicht .in-den-warenkorb-wQOrE5 {
+  background-color: transparent;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  right: calc(47.11% - 69px);
+  text-align: left;
+  top: calc(48.80% - 11px);
+  white-space: nowrap;
+  width: 147px;
+}
+
+.produktansicht .vorderseitewort-6LkQjv {
+  background-color: transparent;
+  bottom: 2px;
+  display: block;
+  height: 18px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.produktansicht .vorderseitewort-6LkQjv.bp4-animate-enter194 {
+  animation: bp4-animate-enter194-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter194-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht .rckseitewort-6LkQjv {
+  background-color: transparent;
+  bottom: 2px;
+  display: block;
+  height: 18px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 0;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 74px;
+}
+
+.produktansicht .rckseitewort-6LkQjv.bp4-animate-enter195 {
+  animation: bp4-animate-enter195-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter195-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht .gruppe-203-EOXKB0 {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 31px;
+  left: calc(49.77% - 73px);
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  top: calc(32.72% - 10px);
+  transition: all 0.5s ease;
+  width: 146px;
+}
+
+.produktansicht .gruppe-203-EOXKB0.bp4-animate-enter196 {
+  animation: bp4-animate-enter196-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter196-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht .gruppe-203-EOXKB0:hover {
+  transform: translate(0, -5px);
+}
+
+.produktansicht .rechteck-114-WafZec {
+  background-color: transparent;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  opacity: 0.8;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.produktansicht .grenberatung-WafZec {
+  background-color: transparent;
+  height: 16px;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: calc(20.00% - 3px);
+  white-space: nowrap;
+  width: 106px;
+}
+
+.produktansicht .gruppe-484-EOXKB0 {
+  background-color: transparent;
+  bottom: calc(25.15% - 170px);
+  height: 677px;
+  left: 135px;
+  position: absolute;
+  width: calc(100.00% - 282px);
+}
+
+.produktansicht .gruppe-476-81bIoF {
+  background-color: transparent;
+  height: 677px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 560px;
+}
+
+.produktansicht .rechteck-137-ZFbhr1 {
+  background-color: var(--white);
+  display: block;
+  height: 100%;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.produktansicht .rechteck-137-ZFbhr1.bp4-animate-enter197 {
+  animation: bp4-animate-enter197-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter197-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht .gruppe-189-ZFbhr1 {
+  background-color: transparent;
+  display: block;
+  height: 42px;
+  left: calc(50.00% - 21px);
+  opacity: 0;
+  position: absolute;
+  top: 23px;
+  width: 42px;
+}
+
+.produktansicht .gruppe-189-ZFbhr1.bp4-animate-enter198 {
+  animation: bp4-animate-enter198-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter198-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht .rechteck-117-cAOilR {
+  background-color: var(--stratos);
+  box-shadow: 0px 3px 6px #00000029;
+  height: calc(100.00% - 12px);
+  left: 6px;
+  position: absolute;
+  top: 6px;
+  transform: rotate(45.00deg);
+  width: calc(100.00% - 12px);
+}
+
+.produktansicht .b-cAOilR {
+  background-color: transparent;
+  bottom: calc(26.95% - 7px);
+  height: 26px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  right: calc(43.60% - 8px);
+  text-align: left;
+  white-space: nowrap;
+  width: 19px;
+}
+
+.produktansicht .b-W6hzoS {
+  background-color: transparent;
+  bottom: calc(39.12% - 10px);
+  height: 26px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  right: calc(43.60% - 8px);
+  text-align: left;
+  white-space: nowrap;
+  width: 19px;
+}
+
+.produktansicht .produktinformationen-ZFbhr1 {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.57% - 104px);
+  text-align: left;
+  top: 83px;
+  white-space: nowrap;
+  width: 209px;
+}
+
+.produktansicht .produktinformationen-ZFbhr1.bp4-animate-enter199 {
+  animation: bp4-animate-enter199-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter199-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht .infotext-ZFbhr1 {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 152px;
+  left: 64px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(31.05% - 47px);
+  white-space: nowrap;
+  width: calc(100.00% - 159px);
+}
+
+.produktansicht .infotext-ZFbhr1.bp4-animate-enter200 {
+  animation: bp4-animate-enter200-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter200-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht .vertrglichkeitwort-ZFbhr1 {
+  -webkit-text-stroke: 0.10000000149011612px var(--black);
+  background-color: transparent;
+  bottom: calc(38.06% - 11px);
+  display: block;
+  height: 28px;
+  left: calc(23.80% - 29px);
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  opacity: 0;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  width: 123px;
+}
+
+.produktansicht .vertrglichkeitwort-ZFbhr1.bp4-animate-enter201 {
+  animation: bp4-animate-enter201-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter201-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht .grewort-ZFbhr1 {
+  -webkit-text-stroke: 0.10000000149011612px var(--black);
+  background-color: transparent;
+  bottom: calc(32.51% - 9px);
+  display: block;
+  height: 28px;
+  left: calc(21.44% - 16px);
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  width: 75px;
+}
+
+.produktansicht .grewort-ZFbhr1.bp4-animate-enter202 {
+  animation: bp4-animate-enter202-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter202-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht .stoffwort-ZFbhr1 {
+  -webkit-text-stroke: 0.10000000149011612px var(--black);
+  background-color: transparent;
+  bottom: calc(26.96% - 8px);
+  display: block;
+  height: 28px;
+  left: calc(20.76% - 12px);
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  width: 59px;
+}
+
+.produktansicht .stoffwort-ZFbhr1.bp4-animate-enter203 {
+  animation: bp4-animate-enter203-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter203-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht .musterwort-ZFbhr1 {
+  -webkit-text-stroke: 0.10000000149011612px var(--black);
+  background-color: transparent;
+  bottom: calc(21.42% - 6px);
+  display: block;
+  height: 28px;
+  left: calc(22.71% - 23px);
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  width: 102px;
+}
+
+.produktansicht .musterwort-ZFbhr1.bp4-animate-enter204 {
+  animation: bp4-animate-enter204-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter204-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht .vertraeglichkeit1-ZFbhr1 {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(38.06% - 11px);
+  display: block;
+  height: 28px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  opacity: 0;
+  position: absolute;
+  right: 34px;
+  text-align: left;
+  width: 268px;
+}
+
+.produktansicht .vertraeglichkeit1-ZFbhr1.bp4-animate-enter205 {
+  animation: bp4-animate-enter205-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter205-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht .groesse1-ZFbhr1 {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(32.51% - 9px);
+  display: block;
+  height: 28px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  opacity: 0;
+  position: absolute;
+  right: calc(42.79% - 47px);
+  text-align: left;
+  width: 109px;
+}
+
+.produktansicht .groesse1-ZFbhr1.bp4-animate-enter206 {
+  animation: bp4-animate-enter206-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter206-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht .stoff1-ZFbhr1 {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(26.96% - 8px);
+  display: block;
+  height: 28px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  opacity: 0;
+  position: absolute;
+  right: calc(44.16% - 43px);
+  text-align: left;
+  width: 98px;
+}
+
+.produktansicht .stoff1-ZFbhr1.bp4-animate-enter207 {
+  animation: bp4-animate-enter207-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter207-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht .muster1-ZFbhr1 {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(21.42% - 6px);
+  display: block;
+  height: 28px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  opacity: 0;
+  position: absolute;
+  right: calc(42.79% - 47px);
+  text-align: left;
+  width: 109px;
+}
+
+.produktansicht .muster1-ZFbhr1.bp4-animate-enter208 {
+  animation: bp4-animate-enter208-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter208-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht .ellipse-34-ZFbhr1 {
+  background-color: var(--black);
+  border-radius: 3.5px;
+  bottom: calc(39.25% - 3px);
+  display: block;
+  height: 7px;
+  left: 64px;
+  opacity: 0;
+  position: absolute;
+  width: 7px;
+}
+
+.produktansicht .ellipse-34-ZFbhr1.bp4-animate-enter209 {
+  animation: bp4-animate-enter209-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter209-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht .ellipse-35-ZFbhr1 {
+  background-color: var(--black);
+  border-radius: 3.5px;
+  bottom: calc(33.88% - 2px);
+  display: block;
+  height: 7px;
+  left: 64px;
+  opacity: 0;
+  position: absolute;
+  width: 7px;
+}
+
+.produktansicht .ellipse-35-ZFbhr1.bp4-animate-enter210 {
+  animation: bp4-animate-enter210-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter210-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht .ellipse-36-ZFbhr1 {
+  background-color: var(--black);
+  border-radius: 3.5px;
+  bottom: calc(28.51% - 2px);
+  display: block;
+  height: 7px;
+  left: 64px;
+  opacity: 0;
+  position: absolute;
+  width: 7px;
+}
+
+.produktansicht .ellipse-36-ZFbhr1.bp4-animate-enter211 {
+  animation: bp4-animate-enter211-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter211-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht .ellipse-37-ZFbhr1 {
+  background-color: var(--black);
+  border-radius: 3.5px;
+  bottom: calc(23.13% - 2px);
+  display: block;
+  height: 7px;
+  left: 64px;
+  opacity: 0;
+  position: absolute;
+  width: 7px;
+}
+
+.produktansicht .ellipse-37-ZFbhr1.bp4-animate-enter212 {
+  animation: bp4-animate-enter212-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter212-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht .gruppe-477-81bIoF {
+  background-color: transparent;
+  height: 541px;
+  position: absolute;
+  right: 0px;
+  top: 44px;
+  width: 993px;
+}
+
+.produktansicht .versand-und-rckgabeinformation-T4hrAx {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 24px;
+  left: 32px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 82px;
+  white-space: nowrap;
+  width: 330px;
+}
+
+.produktansicht .versand-und-rckgabeinformation-T4hrAx.bp4-animate-enter213 {
+  animation: bp4-animate-enter213-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter213-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht .zahlungsoptionen-T4hrAx {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(37.14% - 9px);
+  display: block;
+  height: 24px;
+  left: 32px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 171px;
+}
+
+.produktansicht .zahlungsoptionen-T4hrAx.bp4-animate-enter214 {
+  animation: bp4-animate-enter214-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter214-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht .linie-38-T4hrAx {
+  background-color: transparent;
+  display: block;
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 47.77%;
+  width: 100%;
+}
+
+.produktansicht .linie-38-T4hrAx.bp4-animate-enter215 {
+  animation: bp4-animate-enter215-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter215-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht .linie-40-T4hrAx {
+  background-color: transparent;
+  bottom: 0px;
+  display: block;
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.produktansicht .linie-40-T4hrAx.bp4-animate-enter216 {
+  animation: bp4-animate-enter216-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter216-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht .linie-39-T4hrAx {
+  background-color: transparent;
+  display: block;
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.produktansicht .linie-39-T4hrAx.bp4-animate-enter217 {
+  animation: bp4-animate-enter217-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter217-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht .bei-jeder-bestellung-T4hrAx {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 91px;
+  left: 32px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(30.74% - 28px);
+  width: calc(100.00% - 252px);
+}
+
+.produktansicht .bei-jeder-bestellung-T4hrAx.bp4-animate-enter218 {
+  animation: bp4-animate-enter218-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter218-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht .borbus-akzeptiert-fo-T4hrAx {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(24.79% - 6px);
+  display: block;
+  height: 24px;
+  left: 32px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  width: calc(100.00% - 252px);
+}
+
+.produktansicht .borbus-akzeptiert-fo-T4hrAx.bp4-animate-enter219 {
+  animation: bp4-animate-enter219-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter219-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht .gruppe-557-T4hrAx {
+  background-color: transparent;
+  bottom: 61px;
+  height: 54px;
+  left: 32px;
+  position: absolute;
+  width: 97px;
+}
+
+.produktansicht .paypal-1uxOGG {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(44.52% - 8px);
+  cursor: pointer;
+  display: block;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  text-decoration: underline;
+  transition: all 0.4s ease;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.produktansicht .paypal-1uxOGG.bp4-animate-enter220 {
+  animation: bp4-animate-enter220-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter220-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht .paypal-1uxOGG:hover {
+  transform: translate(0, -5px);
+}
+
+.produktansicht .x32_50-paypal-1uxOGG {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 45px;
+}
+
+.produktansicht .gruppe-700-Dz8GpS {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.produktansicht .pfad-288-6ovbNM {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 5px);
+}
+
+.produktansicht .pfad-289-6ovbNM {
+  background-color: transparent;
+  bottom: 0px;
+  height: 39px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 33px;
+}
+
+.produktansicht .linie-29-EOXKB0 {
+  background-color: transparent;
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 281px;
+  width: 100%;
+}
+
+.produktansicht .rechteck-118-EOXKB0 {
+  background-color: var(--gallery);
+  box-shadow: 0px 2px 4px #00000029;
+  height: 34px;
+  left: 0px;
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.produktansicht .stoffqualitt-EOXKB0 {
+  background-color: transparent;
+  height: 16px;
+  left: calc(33.45% - 27px);
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.produktansicht .handarbeit-EOXKB0 {
+  background-color: transparent;
+  height: 15px;
+  left: calc(49.82% - 36px);
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 73px;
+}
+
+.produktansicht .sichere-bezahlung-EOXKB0 {
+  background-color: transparent;
+  height: 16px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  right: calc(32.70% - 39px);
+  text-align: left;
+  top: 13px;
+  white-space: nowrap;
+  width: 119px;
+}
+
+.produktansicht .gruppe-199-EOXKB0 {
+  background-color: transparent;
+  height: 17px;
+  position: absolute;
+  right: calc(37.47% - 5px);
+  top: 8px;
+  width: 12px;
+}
+
+.produktansicht .rechteck-155-dsgZUi {
+  background-color: var(--stratos);
+  border-radius: 2px;
+  height: calc(100.00% - 5px);
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 100%;
+}
+
+.produktansicht .pfad-284-dsgZUi {
+  background-color: transparent;
+  height: 14px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 4px);
+}
+
+.produktansicht .pfad-285-dsgZUi {
+  background-color: transparent;
+  bottom: calc(29.77% - 2px);
+  height: 5px;
+  left: calc(49.02% - 3px);
+  object-fit: cover;
+  position: absolute;
+  width: 7px;
+}
+
+.produktansicht .rechteck-157-EOXKB0 {
+  background-color: transparent;
+  border-radius: 1px;
+  height: 15px;
+  left: calc(47.29% - 11px);
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 23px;
+}
+
+.produktansicht .iconfinder_scissor_s-EOXKB0 {
+  background-color: transparent;
+  height: 14px;
+  left: calc(47.06% - 8px);
+  position: absolute;
+  top: 10px;
+  width: 16px;
+}
+
+.produktansicht .pfad-273-pl4hie {
+  background-color: transparent;
+  bottom: 1px;
+  height: 2px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 2px;
+}
+
+.produktansicht .pfad-274-pl4hie {
+  background-color: transparent;
+  height: calc(100.00% + 19px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 19px);
+}
+
+.produktansicht .pfad-275-pl4hie {
+  background-color: transparent;
+  height: 24px;
+  object-fit: cover;
+  position: absolute;
+  right: -9px;
+  top: 1.54%;
+  width: 29px;
+}
+
+.produktansicht .pfad-276-pl4hie {
+  background-color: transparent;
+  height: 2px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 2px;
+}
+
+.produktansicht .iconfinder_4265038_b-EOXKB0 {
+  background-color: transparent;
+  height: 17px;
+  left: calc(31.25% - 4px);
+  position: absolute;
+  top: 9px;
+  width: 13px;
+}
+
+.produktansicht .ellipse-41-aMAqRq {
+  background-color: var(--stratos);
+  border-radius: 2.75px;
+  height: 6px;
+  left: calc(49.99% - 3px);
+  position: absolute;
+  top: calc(33.49% - 2px);
+  width: 6px;
+}
+
+.produktansicht .pfad-286-aMAqRq {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.produktansicht .icon-play-EOXKB0 {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 71px;
+  object-fit: cover;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  right: 33px;
+  top: calc(32.10% - 23px);
+  transition: all 0.2s ease;
+  width: 36px;
+}
+
+.produktansicht .icon-play-EOXKB0.bp4-animate-enter221 {
+  animation: bp4-animate-enter221-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter221-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht .icon-play-EOXKB0:hover {
+  transform: translate(5px, 0);
+}
+
+.produktansicht .home-EOXKB0 {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 20px;
+  left: calc(37.76% - 20px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 222px;
+  white-space: nowrap;
+  width: 53px;
+}
+
+.produktansicht .home-EOXKB0.bp4-animate-enter222 {
+  animation: bp4-animate-enter222-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter222-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht .shop-EOXKB0 {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.92% - 23px);
+  text-align: left;
+  top: 223px;
+  white-space: nowrap;
+  width: 47px;
+}
+
+.produktansicht .shop-EOXKB0.bp4-animate-enter223 {
+  animation: bp4-animate-enter223-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter223-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht .gruppe-188-EOXKB0 {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 19px;
+  opacity: 0;
+  position: absolute;
+  right: calc(35.53% - 40px);
+  top: 220px;
+  width: 113px;
+}
+
+.produktansicht .gruppe-188-EOXKB0.bp4-animate-enter224 {
+  animation: bp4-animate-enter224-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter224-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht .ber-borbus-kWmkQJ {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.produktansicht .borbus-EOXKB0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.94% - 120px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
+}
+
+.produktansicht .gruppe-163-EOXKB0 {
+  background-color: transparent;
+  bottom: 0px;
+  display: block;
+  height: 331px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.produktansicht .gruppe-163-EOXKB0.bp4-animate-enter225 {
+  animation: bp4-animate-enter225-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter225-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht .rechteck-90-0o8mFP {
+  background-color: var(--stratos);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.produktansicht .gruppe-364-0o8mFP {
+  background-color: transparent;
+  height: 114px;
+  left: calc(13.51% - 32px);
+  position: absolute;
+  top: calc(17.06% - 19px);
+  width: 240px;
+}
+
+.produktansicht .exklusive-serviceleistungen-E5kOcF {
+  background-color: transparent;
+  height: 63px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% - 26px);
+}
+
+.produktansicht .gruppe-137-E5kOcF {
+  background-color: transparent;
+  bottom: 0px;
+  height: 15px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.produktansicht .versand-rckversand-frei-cxwLH1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 34px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% - 32px);
+}
+
+.produktansicht .truck-cxwLH1 {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 26px;
+}
+
+.produktansicht .gruppe-367-0o8mFP {
+  background-color: transparent;
+  height: 155px;
+  left: calc(40.73% - 134px);
+  position: absolute;
+  top: 37px;
+  width: 329px;
+}
+
+.produktansicht .knnen-wir-helfen-MVXUJT {
+  background-color: transparent;
+  height: 63px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% + 1px);
+}
+
+.produktansicht .gruppe-365-MVXUJT {
+  background-color: transparent;
+  bottom: calc(29.29% - 4px);
+  height: 15px;
+  left: 0px;
+  position: absolute;
+  width: 92px;
+}
+
+.produktansicht .gruppe-140-86rHc1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 57px;
+}
+
+.produktansicht .kontakt-AjRy3k {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.produktansicht .contact-86rHc1 {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 25px;
+}
+
+.produktansicht .gruppe-366-MVXUJT {
+  background-color: transparent;
+  bottom: 0px;
+  height: 20px;
+  left: 5px;
+  position: absolute;
+  width: 160px;
+}
+
+.produktansicht .gruppe-141-JK8Vyl {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 4px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 130px;
+}
+
+.produktansicht .zahlungsoptionen-0SEfIu {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.produktansicht .money-JK8Vyl {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 20px;
+}
+
+.produktansicht .gruppe-372-0o8mFP {
+  background-color: transparent;
+  height: 117px;
+  position: absolute;
+  right: calc(12.59% - 27px);
+  top: 37px;
+  width: 212px;
+}
+
+.produktansicht .besuche-uns-9iH07n {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+
+.produktansicht .gruppe-320-9iH07n {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 18px;
+  left: 0px;
+  position: absolute;
+  width: 102px;
+}
+
+.produktansicht .gruppe-162-QjAMlF {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 73px;
+}
+
+.produktansicht .instagram-rMBUZz {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.produktansicht .icon-instagram-QjAMlF {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.produktansicht .ssl-EOXKB0 {
+  background-color: transparent;
+  bottom: 60px;
+  display: block;
+  height: 90px;
+  left: calc(12.35% - 11px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 90px;
+}
+
+.produktansicht .ssl-EOXKB0.bp4-animate-enter226 {
+  animation: bp4-animate-enter226-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp4-animate-enter226-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht .gruppe-554-EOXKB0 {
+  background-color: transparent;
+  bottom: 43px;
+  height: 251px;
+  position: absolute;
+  right: calc(36.66% - 84px);
+  width: 229px;
+}
+
+.produktansicht .gruppe-371-g3F4St {
+  background-color: transparent;
+  height: 251px;
+  left: calc(50.00% - 114px);
+  position: absolute;
+  top: 0px;
+  width: 229px;
+}
+
+.produktansicht .das-unternehmen-gErNqV {
+  background-color: transparent;
+  height: 63px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% - 15px);
+}
+
+.produktansicht .gruppe-370-gErNqV {
+  background-color: transparent;
+  bottom: 0px;
+  height: 27px;
+  left: 8px;
+  position: absolute;
+  width: 30px;
+}
+
+.produktansicht .gruppe-154-HRijxL {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.produktansicht .gruppe-159-P6uk4V {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.produktansicht .ellipse-25-ySBREx {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.produktansicht .i-ySBREx {
+  background-color: transparent;
+  height: 25px;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: calc(100.00% - 7px);
+}
+
+.produktansicht .gruppe-160-gErNqV {
+  background-color: transparent;
+  height: 20px;
+  left: 8px;
+  position: absolute;
+  top: calc(41.56% - 8px);
+  width: 118px;
+}
+
+.produktansicht .gruppe-155-BFVKdj {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 4px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 94px;
+}
+
+.produktansicht .gruppe-138-DupgUt {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.produktansicht .ber-borbus-Bwp4bL {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.produktansicht .b-BFVKdj {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 16px;
+}
+
+.produktansicht .gruppe-368-gErNqV {
+  background-color: transparent;
+  bottom: calc(37.73% - 12px);
+  height: 31px;
+  left: 6px;
+  position: absolute;
+  width: calc(100.00% - 6px);
+}
+
+.produktansicht .gruppe-156-XHjv6f {
+  background-color: transparent;
+  height: 100%;
+  left: 29px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 29px);
+}
+
+.produktansicht .geschfts-und-nutzungs-bediengungen-nJ9xMS {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.produktansicht .solid-XHjv6f {
+  background-color: transparent;
+  bottom: 4px;
+  height: 20px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 21px;
+}
+
+.produktansicht .gruppe-369-gErNqV {
+  background-color: transparent;
+  bottom: calc(18.98% - 4px);
+  height: 19px;
+  left: 7px;
+  position: absolute;
+  width: calc(100.00% - 30px);
+}
+
+.produktansicht .gruppe-157-Bb2eta {
+  background-color: transparent;
+  cursor: pointer;
+  height: 15px;
+  left: 28px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 28px);
+}
+
+.produktansicht .datenschutz-cookies-xrIoZw {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.produktansicht .cookie-Bb2eta {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 19px;
+}
+
+.produktansicht .impressum-g3F4St {
+  background-color: transparent;
+  bottom: 8px;
+  cursor: pointer;
+  height: 17px;
+  left: calc(23.53% - 18px);
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 76px;
+}
+
+.produktansicht .warenkorb-oben-rechts-EOXKB0 {
+  background-color: transparent;
+  height: 41px;
+  position: absolute;
+  right: 80px;
+  top: 57px;
+  width: 44px;
+}
+
+.produktansicht .iconfinder_basket_ecommerce_shop_4177565-1mqQJq {
+  background-color: transparent;
+  height: 24px;
+  object-fit: cover;
+  position: absolute;
+  right: 16px;
+  top: 17px;
+  width: 28px;
+}
+
+.produktansicht .gruppe-579-1mqQJq {
+  background-color: transparent;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.produktansicht .ellipse-47-7mY6mI {
+  background-color: var(--stratos);
+  border-radius: 11.5px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.produktansicht .anzahl-warenkorb-7mY6mI {
+  -webkit-text-stroke: 0.05000000074505806px var(--gallery);
+  background-color: transparent;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: 5px;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 11px;
+}
+/* screen - produktansicht-1200-all-breakpoints */
+
+.produktansicht-1200-all-breakpoints {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 2072px;
+  min-width: 1200px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.produktansicht-1200-all-breakpoints .rechteck-136-hEsLAZ {
+  background-color: var(--gallery);
+  bottom: calc(25.54% - 199px);
+  box-shadow: 0px 2px 4px #00000029;
+  display: block;
+  height: 780px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.produktansicht-1200-all-breakpoints .rechteck-136-hEsLAZ.bp3-animate-enter183 {
+  animation: bp3-animate-enter183-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter183-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-1200-all-breakpoints .ellipse-32-hEsLAZ {
+  background-color: transparent;
+  border-radius: 11.5px;
+  display: block;
+  height: 23px;
+  left: calc(24.67% - 6px);
+  opacity: 0;
+  position: absolute;
+  top: calc(42.95% - 10px);
+  width: 23px;
+}
+
+.produktansicht-1200-all-breakpoints .ellipse-32-hEsLAZ.bp3-animate-enter184 {
+  animation: bp3-animate-enter184-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter184-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-1200-all-breakpoints .ellipse-33-hEsLAZ {
+  background-color: transparent;
+  border-radius: 11.5px;
+  display: block;
+  height: 23px;
+  opacity: 0;
+  position: absolute;
+  right: 213px;
+  top: calc(42.95% - 10px);
+  width: 23px;
+}
+
+.produktansicht-1200-all-breakpoints .ellipse-33-hEsLAZ.bp3-animate-enter185 {
+  animation: bp3-animate-enter185-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter185-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-1200-all-breakpoints .linie-32-hEsLAZ {
+  background-color: transparent;
+  display: block;
+  height: 13px;
+  left: 24.96%;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: calc(43.01% - 6px);
+  width: 1px;
+}
+
+.produktansicht-1200-all-breakpoints .linie-32-hEsLAZ.bp3-animate-enter186 {
+  animation: bp3-animate-enter186-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter186-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-1200-all-breakpoints .linie-37-hEsLAZ {
+  background-color: transparent;
+  display: block;
+  height: 13px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  right: 224px;
+  top: calc(43.01% - 6px);
+  width: 1px;
+}
+
+.produktansicht-1200-all-breakpoints .linie-37-hEsLAZ.bp3-animate-enter187 {
+  animation: bp3-animate-enter187-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter187-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-1200-all-breakpoints .linie-33-hEsLAZ {
+  background-color: transparent;
+  display: block;
+  height: 1px;
+  left: calc(24.80% - 3px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 43.05%;
+  width: 13px;
+}
+
+.produktansicht-1200-all-breakpoints .linie-33-hEsLAZ.bp3-animate-enter188 {
+  animation: bp3-animate-enter188-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter188-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-1200-all-breakpoints .linie-36-hEsLAZ {
+  background-color: transparent;
+  display: block;
+  height: 1px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  right: 218px;
+  top: 43.05%;
+  width: 13px;
+}
+
+.produktansicht-1200-all-breakpoints .linie-36-hEsLAZ.bp3-animate-enter189 {
+  animation: bp3-animate-enter189-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter189-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-1200-all-breakpoints .gruppe-482-hEsLAZ {
+  background-color: transparent;
+  bottom: calc(28.18% - 192px);
+  height: 681px;
+  left: calc(10.89% - 56px);
+  position: absolute;
+  width: 511px;
+}
+
+.produktansicht-1200-all-breakpoints .rechteck-137-sZnxML {
+  background-color: var(--white);
+  display: block;
+  height: calc(100.00% - 15px);
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  top: 15px;
+  width: 100%;
+}
+
+.produktansicht-1200-all-breakpoints .rechteck-137-sZnxML.bp3-animate-enter190 {
+  animation: bp3-animate-enter190-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter190-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-1200-all-breakpoints .gruppe-189-sZnxML {
+  background-color: transparent;
+  display: block;
+  height: 42px;
+  opacity: 0;
+  position: absolute;
+  right: calc(50.00% - 21px);
+  top: 0px;
+  width: 42px;
+}
+
+.produktansicht-1200-all-breakpoints .gruppe-189-sZnxML.bp3-animate-enter191 {
+  animation: bp3-animate-enter191-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter191-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-1200-all-breakpoints .rechteck-117-xHD5nw {
+  background-color: var(--stratos);
+  box-shadow: 0px 3px 6px #00000029;
+  height: calc(100.00% - 12px);
+  left: 6px;
+  position: absolute;
+  top: 6px;
+  transform: rotate(45.00deg);
+  width: calc(100.00% - 12px);
+}
+
+.produktansicht-1200-all-breakpoints .b-xHD5nw {
+  background-color: transparent;
+  bottom: calc(26.95% - 7px);
+  height: 26px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  right: calc(43.60% - 8px);
+  text-align: left;
+  white-space: nowrap;
+  width: 19px;
+}
+
+.produktansicht-1200-all-breakpoints .b-sOm72X {
+  background-color: transparent;
+  bottom: calc(39.12% - 10px);
+  height: 26px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  right: calc(43.60% - 8px);
+  text-align: left;
+  white-space: nowrap;
+  width: 19px;
+}
+
+.produktansicht-1200-all-breakpoints .produktinformationen-sZnxML {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.67% - 104px);
+  text-align: left;
+  top: 87px;
+  white-space: nowrap;
+  width: 209px;
+}
+
+.produktansicht-1200-all-breakpoints .produktinformationen-sZnxML.bp3-animate-enter192 {
+  animation: bp3-animate-enter192-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter192-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-1200-all-breakpoints .infotext-sZnxML {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 172px;
+  left: 64px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(34.97% - 60px);
+  width: calc(100.00% - 110px);
+}
+
+.produktansicht-1200-all-breakpoints .infotext-sZnxML.bp3-animate-enter193 {
+  animation: bp3-animate-enter193-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter193-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-1200-all-breakpoints .vertrglichkeitwort-sZnxML {
+  -webkit-text-stroke: 0.10000000149011612px var(--black);
+  background-color: transparent;
+  bottom: calc(41.81% - 12px);
+  display: block;
+  height: 28px;
+  left: calc(23.12% - 28px);
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  opacity: 0;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  width: 123px;
+}
+
+.produktansicht-1200-all-breakpoints .vertrglichkeitwort-sZnxML.bp3-animate-enter194 {
+  animation: bp3-animate-enter194-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter194-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-1200-all-breakpoints .grewort-sZnxML {
+  -webkit-text-stroke: 0.10000000149011612px var(--black);
+  background-color: transparent;
+  bottom: calc(36.29% - 10px);
+  display: block;
+  height: 28px;
+  left: calc(22.93% - 27px);
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  width: 118px;
+}
+
+.produktansicht-1200-all-breakpoints .grewort-sZnxML.bp3-animate-enter195 {
+  animation: bp3-animate-enter195-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter195-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-1200-all-breakpoints .stoffwort-sZnxML {
+  -webkit-text-stroke: 0.10000000149011612px var(--black);
+  background-color: transparent;
+  bottom: calc(30.78% - 9px);
+  display: block;
+  height: 28px;
+  left: calc(22.39% - 24px);
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  width: 109px;
+}
+
+.produktansicht-1200-all-breakpoints .stoffwort-sZnxML.bp3-animate-enter196 {
+  animation: bp3-animate-enter196-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter196-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-1200-all-breakpoints .musterwort-sZnxML {
+  -webkit-text-stroke: 0.10000000149011612px var(--black);
+  background-color: transparent;
+  bottom: calc(25.27% - 7px);
+  display: block;
+  height: 28px;
+  left: calc(22.11% - 23px);
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  width: 104px;
+}
+
+.produktansicht-1200-all-breakpoints .musterwort-sZnxML.bp3-animate-enter197 {
+  animation: bp3-animate-enter197-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter197-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-1200-all-breakpoints .vertraeglichkeit1-sZnxML {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(41.65% - 12px);
+  display: block;
+  height: 28px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  opacity: 0;
+  position: absolute;
+  right: 19px;
+  text-align: left;
+  width: 268px;
+}
+
+.produktansicht-1200-all-breakpoints .vertraeglichkeit1-sZnxML.bp3-animate-enter198 {
+  animation: bp3-animate-enter198-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter198-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-1200-all-breakpoints .groesse1-sZnxML {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(36.29% - 10px);
+  display: block;
+  height: 28px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  opacity: 0;
+  position: absolute;
+  right: calc(44.13% - 48px);
+  text-align: left;
+  width: 109px;
+}
+
+.produktansicht-1200-all-breakpoints .groesse1-sZnxML.bp3-animate-enter199 {
+  animation: bp3-animate-enter199-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter199-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-1200-all-breakpoints .stoff1-sZnxML {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(30.78% - 9px);
+  display: block;
+  height: 28px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  opacity: 0;
+  position: absolute;
+  right: calc(44.14% - 49px);
+  text-align: left;
+  width: 110px;
+}
+
+.produktansicht-1200-all-breakpoints .stoff1-sZnxML.bp3-animate-enter200 {
+  animation: bp3-animate-enter200-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter200-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-1200-all-breakpoints .muster1-sZnxML {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(25.27% - 7px);
+  display: block;
+  height: 28px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  opacity: 0;
+  position: absolute;
+  right: calc(42.56% - 52px);
+  text-align: left;
+  width: 121px;
+}
+
+.produktansicht-1200-all-breakpoints .muster1-sZnxML.bp3-animate-enter201 {
+  animation: bp3-animate-enter201-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter201-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-1200-all-breakpoints .ellipse-34-sZnxML {
+  background-color: var(--black);
+  border-radius: 3.5px;
+  bottom: calc(42.88% - 3px);
+  display: block;
+  height: 7px;
+  left: 65px;
+  opacity: 0;
+  position: absolute;
+  width: 7px;
+}
+
+.produktansicht-1200-all-breakpoints .ellipse-34-sZnxML.bp3-animate-enter202 {
+  animation: bp3-animate-enter202-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter202-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-1200-all-breakpoints .ellipse-35-sZnxML {
+  background-color: var(--black);
+  border-radius: 3.5px;
+  bottom: calc(37.54% - 3px);
+  display: block;
+  height: 7px;
+  left: 65px;
+  opacity: 0;
+  position: absolute;
+  width: 7px;
+}
+
+.produktansicht-1200-all-breakpoints .ellipse-35-sZnxML.bp3-animate-enter203 {
+  animation: bp3-animate-enter203-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter203-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-1200-all-breakpoints .ellipse-36-sZnxML {
+  background-color: var(--black);
+  border-radius: 3.5px;
+  bottom: calc(32.20% - 2px);
+  display: block;
+  height: 7px;
+  left: 65px;
+  opacity: 0;
+  position: absolute;
+  width: 7px;
+}
+
+.produktansicht-1200-all-breakpoints .ellipse-36-sZnxML.bp3-animate-enter204 {
+  animation: bp3-animate-enter204-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter204-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-1200-all-breakpoints .ellipse-37-sZnxML {
+  background-color: var(--black);
+  border-radius: 3.5px;
+  bottom: calc(26.85% - 2px);
+  display: block;
+  height: 7px;
+  left: 65px;
+  opacity: 0;
+  position: absolute;
+  width: 7px;
+}
+
+.produktansicht-1200-all-breakpoints .ellipse-37-sZnxML.bp3-animate-enter205 {
+  animation: bp3-animate-enter205-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter205-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-1200-all-breakpoints .gruppe-481-hEsLAZ {
+  background-color: transparent;
+  height: 358px;
+  left: calc(49.51% - 191px);
+  position: absolute;
+  top: calc(29.75% - 107px);
+  width: 386px;
+}
+
+.produktansicht-1200-all-breakpoints .gruppe-480-vllL0U {
+  background-color: transparent;
+  height: 358px;
+  left: calc(50.00% - 193px);
+  position: relative;
+  top: calc(50.00% - 179px);
+  width: 386px;
+}
+
+.produktansicht-1200-all-breakpoints .kleidchenbezeichnung-UVxB2M {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.61% - 64px);
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 129px;
+}
+
+.produktansicht-1200-all-breakpoints .kleidchenbezeichnung-UVxB2M.bp3-animate-enter206 {
+  animation: bp3-animate-enter206-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter206-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-1200-all-breakpoints .x6-monate-3-jahre-UVxB2M {
+  background-color: transparent;
+  bottom: calc(38.46% - 8px);
+  display: block;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.55% - 81px);
+  text-align: left;
+  white-space: nowrap;
+  width: 163px;
+}
+
+.produktansicht-1200-all-breakpoints .x6-monate-3-jahre-UVxB2M.bp3-animate-enter207 {
+  animation: bp3-animate-enter207-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter207-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-1200-all-breakpoints .stckpreis-UVxB2M {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.59% - 35px);
+  text-align: left;
+  top: calc(25.22% - 5px);
+  white-space: nowrap;
+  width: 71px;
+}
+
+.produktansicht-1200-all-breakpoints .stckpreis-UVxB2M.bp3-animate-enter208 {
+  animation: bp3-animate-enter208-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter208-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-1200-all-breakpoints .linie-31-UVxB2M {
+  background-color: transparent;
+  display: block;
+  height: 1px;
+  left: 61px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 53px;
+  width: calc(100.00% - 122px);
+}
+
+.produktansicht-1200-all-breakpoints .linie-31-UVxB2M.bp3-animate-enter209 {
+  animation: bp3-animate-enter209-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter209-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-1200-all-breakpoints .warenkorb-button-mitte-UVxB2M {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  display: block;
+  height: 47px;
+  left: 0px;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  transition: all 0.5s ease-out;
+  width: 100%;
+}
+
+.produktansicht-1200-all-breakpoints .warenkorb-button-mitte-UVxB2M.bp3-animate-enter210 {
+  animation: bp3-animate-enter210-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter210-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-1200-all-breakpoints .warenkorb-button-mitte-UVxB2M:hover {
+  transform: scale(1.1);
+}
+
+.produktansicht-1200-all-breakpoints .rechteck-114-XLURMq {
+  background-color: var(--stratos);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  opacity: 0.8;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.produktansicht-1200-all-breakpoints .in-den-warenkorb-XLURMq {
+  background-color: transparent;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  right: calc(47.11% - 69px);
+  text-align: left;
+  top: calc(48.80% - 11px);
+  white-space: nowrap;
+  width: 147px;
+}
+
+.produktansicht-1200-all-breakpoints .gruppe-203-hEsLAZ {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 31px;
+  left: calc(49.40% - 72px);
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  top: calc(37.14% - 12px);
+  transition: all 0.5s ease;
+  width: 146px;
+}
+
+.produktansicht-1200-all-breakpoints .gruppe-203-hEsLAZ.bp3-animate-enter211 {
+  animation: bp3-animate-enter211-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter211-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-1200-all-breakpoints .gruppe-203-hEsLAZ:hover {
+  transform: translate(0, -5px);
+}
+
+.produktansicht-1200-all-breakpoints .rechteck-114-Pyx8zd {
+  background-color: transparent;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  opacity: 0.8;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.produktansicht-1200-all-breakpoints .grenberatung-Pyx8zd {
+  background-color: transparent;
+  height: 16px;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: calc(20.00% - 3px);
+  white-space: nowrap;
+  width: 106px;
+}
+
+.produktansicht-1200-all-breakpoints .gruppe-483-hEsLAZ {
+  background-color: transparent;
+  bottom: calc(31.63% - 144px);
+  height: 454px;
+  position: absolute;
+  right: calc(7.46% - 38px);
+  width: 510px;
+}
+
+.produktansicht-1200-all-breakpoints .versand-und-rckgabeinformation-7yNnTr {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 24px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 26px;
+  white-space: nowrap;
+  width: 330px;
+}
+
+.produktansicht-1200-all-breakpoints .versand-und-rckgabeinformation-7yNnTr.bp3-animate-enter212 {
+  animation: bp3-animate-enter212-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter212-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-1200-all-breakpoints .zahlungsoptionen-7yNnTr {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(30.19% - 7px);
+  display: block;
+  height: 24px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 171px;
+}
+
+.produktansicht-1200-all-breakpoints .zahlungsoptionen-7yNnTr.bp3-animate-enter213 {
+  animation: bp3-animate-enter213-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter213-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-1200-all-breakpoints .bei-jeder-bestellung-7yNnTr {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 142px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(23.03% - 33px);
+  width: calc(100.00% - 34px);
+}
+
+.produktansicht-1200-all-breakpoints .bei-jeder-bestellung-7yNnTr.bp3-animate-enter214 {
+  animation: bp3-animate-enter214-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter214-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-1200-all-breakpoints .borbus-akzeptiert-fo-7yNnTr {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(17.88% - 4px);
+  display: block;
+  height: 24px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  width: calc(100.00% - 171px);
+}
+
+.produktansicht-1200-all-breakpoints .borbus-akzeptiert-fo-7yNnTr.bp3-animate-enter215 {
+  animation: bp3-animate-enter215-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter215-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-1200-all-breakpoints .linie-39-7yNnTr {
+  background-color: transparent;
+  display: block;
+  height: 1px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.produktansicht-1200-all-breakpoints .linie-39-7yNnTr.bp3-animate-enter216 {
+  animation: bp3-animate-enter216-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter216-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-1200-all-breakpoints .linie-47-7yNnTr {
+  background-color: transparent;
+  bottom: 39.69%;
+  display: block;
+  height: 1px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.produktansicht-1200-all-breakpoints .linie-47-7yNnTr.bp3-animate-enter217 {
+  animation: bp3-animate-enter217-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter217-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-1200-all-breakpoints .gruppe-557-7yNnTr {
+  background-color: transparent;
+  bottom: 0px;
+  height: 54px;
+  left: 4px;
+  position: absolute;
+  width: 97px;
+}
+
+.produktansicht-1200-all-breakpoints .paypal-cijbpU {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(44.52% - 8px);
+  cursor: pointer;
+  display: block;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  text-decoration: underline;
+  transition: all 0.4s ease;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.produktansicht-1200-all-breakpoints .paypal-cijbpU.bp3-animate-enter218 {
+  animation: bp3-animate-enter218-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter218-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-1200-all-breakpoints .paypal-cijbpU:hover {
+  transform: translate(0, -5px);
+}
+
+.produktansicht-1200-all-breakpoints .x32_50-paypal-cijbpU {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 45px;
+}
+
+.produktansicht-1200-all-breakpoints .gruppe-700-Xk0PUy {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.produktansicht-1200-all-breakpoints .pfad-288-dzLtrD {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 5px);
+}
+
+.produktansicht-1200-all-breakpoints .pfad-289-dzLtrD {
+  background-color: transparent;
+  bottom: 1px;
+  height: 39px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 33px;
+}
+
+.produktansicht-1200-all-breakpoints .linie-29-hEsLAZ {
+  background-color: transparent;
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 281px;
+  width: 100%;
+}
+
+.produktansicht-1200-all-breakpoints .rechteck-118-hEsLAZ {
+  background-color: var(--gallery);
+  box-shadow: 0px 2px 4px #00000029;
+  height: 34px;
+  left: 0px;
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.produktansicht-1200-all-breakpoints .stoffqualitt-hEsLAZ {
+  background-color: transparent;
+  height: 16px;
+  left: calc(34.72% - 28px);
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.produktansicht-1200-all-breakpoints .handarbeit-hEsLAZ {
+  background-color: transparent;
+  height: 15px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  right: calc(48.74% - 36px);
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 73px;
+}
+
+.produktansicht-1200-all-breakpoints .sichere-bezahlung-hEsLAZ {
+  background-color: transparent;
+  height: 16px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  right: calc(29.77% - 35px);
+  text-align: left;
+  top: 13px;
+  white-space: nowrap;
+  width: 119px;
+}
+
+.produktansicht-1200-all-breakpoints .gruppe-199-hEsLAZ {
+  background-color: transparent;
+  height: 17px;
+  position: absolute;
+  right: calc(37.47% - 5px);
+  top: 8px;
+  width: 12px;
+}
+
+.produktansicht-1200-all-breakpoints .rechteck-155-bcwYFr {
+  background-color: var(--stratos);
+  border-radius: 2px;
+  height: calc(100.00% - 5px);
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 100%;
+}
+
+.produktansicht-1200-all-breakpoints .pfad-284-bcwYFr {
+  background-color: transparent;
+  height: 14px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 4px);
+}
+
+.produktansicht-1200-all-breakpoints .pfad-285-bcwYFr {
+  background-color: transparent;
+  bottom: calc(29.77% - 2px);
+  height: 5px;
+  left: calc(49.03% - 3px);
+  object-fit: cover;
+  position: absolute;
+  width: 7px;
+}
+
+.produktansicht-1200-all-breakpoints .rechteck-157-hEsLAZ {
+  background-color: transparent;
+  border-radius: 1px;
+  height: 15px;
+  left: calc(47.29% - 11px);
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 23px;
+}
+
+.produktansicht-1200-all-breakpoints .iconfinder_4265038_b-hEsLAZ {
+  background-color: transparent;
+  height: 17px;
+  left: calc(31.25% - 4px);
+  position: absolute;
+  top: 9px;
+  width: 13px;
+}
+
+.produktansicht-1200-all-breakpoints .ellipse-41-OxCoUI {
+  background-color: var(--stratos);
+  border-radius: 2.75px;
+  height: 6px;
+  left: calc(49.99% - 3px);
+  position: absolute;
+  top: calc(33.49% - 2px);
+  width: 6px;
+}
+
+.produktansicht-1200-all-breakpoints .pfad-286-OxCoUI {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.produktansicht-1200-all-breakpoints .iconfinder_scissor_s-hEsLAZ {
+  background-color: transparent;
+  height: 14px;
+  left: calc(47.06% - 8px);
+  position: absolute;
+  top: 10px;
+  width: 16px;
+}
+
+.produktansicht-1200-all-breakpoints .pfad-273-kyNEF4 {
+  background-color: transparent;
+  bottom: 2px;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: 1px;
+}
+
+.produktansicht-1200-all-breakpoints .pfad-274-kyNEF4 {
+  background-color: transparent;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+
+.produktansicht-1200-all-breakpoints .pfad-275-kyNEF4 {
+  background-color: transparent;
+  height: 23px;
+  object-fit: cover;
+  position: absolute;
+  right: -9px;
+  top: 4.11%;
+  width: 28px;
+}
+
+.produktansicht-1200-all-breakpoints .pfad-276-kyNEF4 {
+  background-color: transparent;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.produktansicht-1200-all-breakpoints .home-hEsLAZ {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 20px;
+  left: calc(37.79% - 20px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 222px;
+  white-space: nowrap;
+  width: 53px;
+}
+
+.produktansicht-1200-all-breakpoints .home-hEsLAZ.bp3-animate-enter219 {
+  animation: bp3-animate-enter219-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter219-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-1200-all-breakpoints .shop-hEsLAZ {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.89% - 23px);
+  text-align: left;
+  top: 223px;
+  white-space: nowrap;
+  width: 47px;
+}
+
+.produktansicht-1200-all-breakpoints .shop-hEsLAZ.bp3-animate-enter220 {
+  animation: bp3-animate-enter220-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter220-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-1200-all-breakpoints .gruppe-188-hEsLAZ {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 19px;
+  opacity: 0;
+  position: absolute;
+  right: calc(35.53% - 40px);
+  top: 220px;
+  width: 113px;
+}
+
+.produktansicht-1200-all-breakpoints .gruppe-188-hEsLAZ.bp3-animate-enter221 {
+  animation: bp3-animate-enter221-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter221-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-1200-all-breakpoints .ber-borbus-mPxKEs {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.produktansicht-1200-all-breakpoints .borbus-hEsLAZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.90% - 120px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
+}
+
+.produktansicht-1200-all-breakpoints .gruppe-561-hEsLAZ {
+  background-color: transparent;
+  height: 402px;
+  position: absolute;
+  right: 56px;
+  top: 427px;
+  width: 425px;
+}
+
+.produktansicht-1200-all-breakpoints .rckseitewort-ztQBWO {
+  background-color: transparent;
+  bottom: 2px;
+  display: block;
+  height: 18px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 0;
+  position: absolute;
+  right: calc(46.72% - 35px);
+  text-align: left;
+  white-space: nowrap;
+  width: 74px;
+}
+
+.produktansicht-1200-all-breakpoints .rckseitewort-ztQBWO.bp3-animate-enter222 {
+  animation: bp3-animate-enter222-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter222-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-1200-all-breakpoints .rckseitebild-ztQBWO {
+  background-color: var(--white);
+  height: 366px;
+  left: calc(50.00% - 212px);
+  position: absolute;
+  top: 0px;
+  width: 425px;
+}
+
+.produktansicht-1200-all-breakpoints .gruppe-562-hEsLAZ {
+  background-color: transparent;
+  height: 370px;
+  left: 56px;
+  position: absolute;
+  top: 451px;
+  width: 431px;
+}
+
+.produktansicht-1200-all-breakpoints .vorderseitewort-x2zxzy {
+  background-color: transparent;
+  bottom: 2px;
+  display: block;
+  height: 18px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.78% - 44px);
+  text-align: left;
+  white-space: nowrap;
+  width: 88px;
+}
+
+.produktansicht-1200-all-breakpoints .vorderseitewort-x2zxzy.bp3-animate-enter223 {
+  animation: bp3-animate-enter223-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter223-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-1200-all-breakpoints .vorderseitebild-x2zxzy {
+  background-color: var(--white);
+  height: 338px;
+  left: calc(50.00% - 216px);
+  position: absolute;
+  top: 0px;
+  width: 431px;
+}
+
+.produktansicht-1200-all-breakpoints .icon-play-hEsLAZ {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 71px;
+  object-fit: cover;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  right: 33px;
+  top: calc(27.93% - 20px);
+  transition: all 0.2s ease;
+  width: 36px;
+}
+
+.produktansicht-1200-all-breakpoints .icon-play-hEsLAZ.bp3-animate-enter224 {
+  animation: bp3-animate-enter224-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter224-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-1200-all-breakpoints .icon-play-hEsLAZ:hover {
+  transform: translate(5px, 0);
+}
+
+.produktansicht-1200-all-breakpoints .gruppe-322-hEsLAZ {
+  background-color: transparent;
+  bottom: 0px;
+  height: 331px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.produktansicht-1200-all-breakpoints .gruppe-163-Au5Qnf {
+  background-color: transparent;
+  display: block;
+  height: 100%;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.produktansicht-1200-all-breakpoints .gruppe-163-Au5Qnf.bp3-animate-enter225 {
+  animation: bp3-animate-enter225-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter225-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-1200-all-breakpoints .rechteck-90-sVX6ug {
+  background-color: var(--stratos);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.produktansicht-1200-all-breakpoints .exklusive-serviceleistungen-sVX6ug {
+  background-color: transparent;
+  height: 63px;
+  left: 121px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 36px;
+  width: 214px;
+}
+
+.produktansicht-1200-all-breakpoints .gruppe-137-sVX6ug {
+  background-color: transparent;
+  height: 15px;
+  left: 121px;
+  position: absolute;
+  top: calc(43.06% - 7px);
+  width: 118px;
+}
+
+.produktansicht-1200-all-breakpoints .versand-frei-4PLxFW {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 1px);
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.produktansicht-1200-all-breakpoints .truck-4PLxFW {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 26px;
+}
+
+.produktansicht-1200-all-breakpoints .gruppe-341-sVX6ug {
+  background-color: transparent;
+  height: 155px;
+  left: calc(37.21% - 80px);
+  position: absolute;
+  top: 37px;
+  width: 214px;
+}
+
+.produktansicht-1200-all-breakpoints .knnen-wir-helfen-KTykmu {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  width: 216px;
+}
+
+.produktansicht-1200-all-breakpoints .gruppe-339-KTykmu {
+  background-color: transparent;
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  top: 99px;
+  width: 90px;
+}
+
+.produktansicht-1200-all-breakpoints .gruppe-140-xixNbR {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 53px;
+}
+
+.produktansicht-1200-all-breakpoints .kontakt-WtAhir {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.produktansicht-1200-all-breakpoints .contact-xixNbR {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 25px;
+}
+
+.produktansicht-1200-all-breakpoints .gruppe-340-KTykmu {
+  background-color: transparent;
+  height: 20px;
+  left: calc(8.13% - 12px);
+  position: absolute;
+  top: 135px;
+  width: 154px;
+}
+
+.produktansicht-1200-all-breakpoints .gruppe-141-ijQpj7 {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 15px;
+  position: absolute;
+  right: 0px;
+  width: 122px;
+}
+
+.produktansicht-1200-all-breakpoints .zahlungsoptionen-cm9m4d {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.produktansicht-1200-all-breakpoints .money-ijQpj7 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 20px;
+}
+
+.produktansicht-1200-all-breakpoints .gruppe-345-sVX6ug {
+  background-color: transparent;
+  height: 251px;
+  position: absolute;
+  right: calc(35.16% - 76px);
+  top: 37px;
+  width: 216px;
+}
+
+.produktansicht-1200-all-breakpoints .das-unternehmen-T4VdDr {
+  background-color: transparent;
+  height: 63px;
+  left: calc(200.00% - 428px);
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  width: 214px;
+}
+
+.produktansicht-1200-all-breakpoints .gruppe-344-T4VdDr {
+  background-color: transparent;
+  bottom: 0px;
+  height: 27px;
+  left: 0px;
+  position: absolute;
+  width: 110px;
+}
+
+.produktansicht-1200-all-breakpoints .gruppe-158-rHuIqd {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 80px;
+}
+
+.produktansicht-1200-all-breakpoints .impressum-hpfPjV {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.produktansicht-1200-all-breakpoints .gruppe-154-rHuIqd {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+
+.produktansicht-1200-all-breakpoints .gruppe-159-D4xT7x {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.produktansicht-1200-all-breakpoints .ellipse-25-rCxxVm {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.produktansicht-1200-all-breakpoints .i-rCxxVm {
+  background-color: transparent;
+  height: 25px;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: calc(100.00% - 7px);
+}
+
+.produktansicht-1200-all-breakpoints .gruppe-160-T4VdDr {
+  background-color: transparent;
+  bottom: 135px;
+  height: 20px;
+  left: calc(4.08% - 5px);
+  position: absolute;
+  width: 120px;
+}
+
+.produktansicht-1200-all-breakpoints .gruppe-155-NJkfya {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 4px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 94px;
+}
+
+.produktansicht-1200-all-breakpoints .gruppe-138-xjbDL2 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.produktansicht-1200-all-breakpoints .ber-borbus-1Uo4HY {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.produktansicht-1200-all-breakpoints .b-NJkfya {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 16px;
+}
+
+.produktansicht-1200-all-breakpoints .gruppe-342-T4VdDr {
+  background-color: transparent;
+  bottom: 83px;
+  height: 31px;
+  left: 0px;
+  position: absolute;
+  width: 202px;
+}
+
+.produktansicht-1200-all-breakpoints .gruppe-156-l9vh6p {
+  background-color: transparent;
+  height: 100%;
+  left: 30px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 30px);
+}
+
+.produktansicht-1200-all-breakpoints .geschfts-und-nutzungsbediengungen-s3RNy0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.produktansicht-1200-all-breakpoints .solid-l9vh6p {
+  background-color: transparent;
+  bottom: 4px;
+  height: 20px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 21px;
+}
+
+.produktansicht-1200-all-breakpoints .gruppe-343-T4VdDr {
+  background-color: transparent;
+  bottom: 44px;
+  height: 19px;
+  left: 0px;
+  position: absolute;
+  width: 201px;
+}
+
+.produktansicht-1200-all-breakpoints .gruppe-157-xkbYZA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 15px;
+  left: 30px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 30px);
+}
+
+.produktansicht-1200-all-breakpoints .datenschutz-cookies-piDSLX {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.produktansicht-1200-all-breakpoints .cookie-xkbYZA {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 19px;
+}
+
+.produktansicht-1200-all-breakpoints .gruppe-346-sVX6ug {
+  background-color: transparent;
+  height: 120px;
+  position: absolute;
+  right: calc(7.29% - 15px);
+  top: 37px;
+  width: 212px;
+}
+
+.produktansicht-1200-all-breakpoints .besuche-uns-phxRXZ {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  width: 214px;
+}
+
+.produktansicht-1200-all-breakpoints .gruppe-321-phxRXZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 23px;
+  left: calc(0.46% - 1px);
+  position: absolute;
+  top: 98px;
+  width: 131px;
+}
+
+.produktansicht-1200-all-breakpoints .gruppe-162-R5xxAz {
+  background-color: transparent;
+  height: 100%;
+  left: 31px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 31px);
+}
+
+.produktansicht-1200-all-breakpoints .instagram-IyNZxt {
+  background-color: transparent;
+  height: 25px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.produktansicht-1200-all-breakpoints .icon-instagram-R5xxAz {
+  background-color: transparent;
+  height: 18px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.produktansicht-1200-all-breakpoints .ssl-Au5Qnf {
+  background-color: transparent;
+  bottom: 31px;
+  display: block;
+  height: 90px;
+  left: calc(9.91% - 9px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 90px;
+}
+
+.produktansicht-1200-all-breakpoints .ssl-Au5Qnf.bp3-animate-enter226 {
+  animation: bp3-animate-enter226-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter226-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-1200-all-breakpoints .warenkorb-oben-rechts-hEsLAZ {
+  background-color: transparent;
+  height: 41px;
+  position: absolute;
+  right: 83px;
+  top: 54px;
+  width: 44px;
+}
+
+.produktansicht-1200-all-breakpoints .iconfinder_basket_ecommerce_shop_4177565-jPbh4R {
+  background-color: transparent;
+  height: 24px;
+  object-fit: cover;
+  position: absolute;
+  right: 16px;
+  top: 17px;
+  width: 28px;
+}
+
+.produktansicht-1200-all-breakpoints .gruppe-579-jPbh4R {
+  background-color: transparent;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.produktansicht-1200-all-breakpoints .ellipse-47-lOxIxi {
+  background-color: var(--stratos);
+  border-radius: 11.5px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.produktansicht-1200-all-breakpoints .anzahl-warenkorb-lOxIxi {
+  -webkit-text-stroke: 0.05000000074505806px var(--gallery);
+  background-color: transparent;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: 5px;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 11px;
+}
+/* screen - produktansicht-375 */
+
+.produktansicht-375 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 3139px;
+  min-width: 375px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.produktansicht-375 .rechteck-136-hymGLb {
+  background-color: var(--gallery);
+  bottom: 331px;
+  box-shadow: 0px 2px 4px #00000029;
+  display: block;
+  height: 1328px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.produktansicht-375 .rechteck-136-hymGLb.bp1-animate-enter172 {
+  animation: bp1-animate-enter172-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter172-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-375 .gruppe-495-hymGLb {
+  background-color: transparent;
+  bottom: calc(39.22% - 267px);
+  height: 681px;
+  position: absolute;
+  right: calc(48.72% - 164px);
+  width: 336px;
+}
+
+.produktansicht-375 .ellipse-32-Oh0P0E {
+  background-color: transparent;
+  border-radius: 11.5px;
+  display: block;
+  height: 23px;
+  left: calc(21.35% - 5px);
+  opacity: 0;
+  position: absolute;
+  top: calc(47.42% - 11px);
+  width: 23px;
+}
+
+.produktansicht-375 .ellipse-32-Oh0P0E.bp1-animate-enter173 {
+  animation: bp1-animate-enter173-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter173-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-375 .ellipse-33-Oh0P0E {
+  background-color: transparent;
+  border-radius: 11.5px;
+  display: block;
+  height: 23px;
+  opacity: 0;
+  position: absolute;
+  right: calc(26.13% - 6px);
+  top: calc(47.42% - 11px);
+  width: 23px;
+}
+
+.produktansicht-375 .ellipse-33-Oh0P0E.bp1-animate-enter174 {
+  animation: bp1-animate-enter174-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter174-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-375 .linie-32-Oh0P0E {
+  background-color: transparent;
+  display: block;
+  height: 13px;
+  left: 21.87%;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: calc(47.53% - 6px);
+  width: 1px;
+}
+
+.produktansicht-375 .linie-32-Oh0P0E.bp1-animate-enter175 {
+  animation: bp1-animate-enter175-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter175-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-375 .linie-37-Oh0P0E {
+  background-color: transparent;
+  display: block;
+  height: 13px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  right: 26.97%;
+  top: calc(47.53% - 6px);
+  width: 1px;
+}
+
+.produktansicht-375 .linie-37-Oh0P0E.bp1-animate-enter176 {
+  animation: bp1-animate-enter176-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter176-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-375 .linie-33-Oh0P0E {
+  background-color: transparent;
+  display: block;
+  height: 1px;
+  left: calc(21.61% - 3px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 47.57%;
+  width: 13px;
+}
+
+.produktansicht-375 .linie-33-Oh0P0E.bp1-animate-enter177 {
+  animation: bp1-animate-enter177-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter177-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-375 .linie-36-Oh0P0E {
+  background-color: transparent;
+  display: block;
+  height: 1px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  right: calc(26.52% - 3px);
+  top: 47.57%;
+  width: 13px;
+}
+
+.produktansicht-375 .linie-36-Oh0P0E.bp1-animate-enter178 {
+  animation: bp1-animate-enter178-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter178-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-375 .rechteck-137-Oh0P0E {
+  background-color: var(--white);
+  display: block;
+  height: calc(100.00% - 15px);
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  top: 15px;
+  width: 100%;
+}
+
+.produktansicht-375 .rechteck-137-Oh0P0E.bp1-animate-enter179 {
+  animation: bp1-animate-enter179-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter179-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-375 .gruppe-189-Oh0P0E {
+  background-color: transparent;
+  display: block;
+  height: 42px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.96% - 21px);
+  top: 0px;
+  width: 42px;
+}
+
+.produktansicht-375 .gruppe-189-Oh0P0E.bp1-animate-enter180 {
+  animation: bp1-animate-enter180-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter180-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-375 .rechteck-117-cqkRFv {
+  background-color: var(--stratos);
+  box-shadow: 0px 3px 6px #00000029;
+  height: calc(100.00% - 12px);
+  left: 6px;
+  position: absolute;
+  top: 6px;
+  transform: rotate(45.00deg);
+  width: calc(100.00% - 12px);
+}
+
+.produktansicht-375 .b-cqkRFv {
+  background-color: transparent;
+  bottom: calc(26.95% - 7px);
+  height: 26px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  right: calc(43.60% - 8px);
+  text-align: left;
+  white-space: nowrap;
+  width: 19px;
+}
+
+.produktansicht-375 .b-J9NK0B {
+  background-color: transparent;
+  bottom: calc(39.12% - 10px);
+  height: 26px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  right: calc(43.60% - 8px);
+  text-align: left;
+  white-space: nowrap;
+  width: 19px;
+}
+
+.produktansicht-375 .produktinformationen-Oh0P0E {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.61% - 104px);
+  text-align: left;
+  top: 63px;
+  white-space: nowrap;
+  width: 209px;
+}
+
+.produktansicht-375 .produktinformationen-Oh0P0E.bp1-animate-enter181 {
+  animation: bp1-animate-enter181-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter181-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-375 .infotext-Oh0P0E {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 188px;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(32.86% - 62px);
+  width: calc(100.00% - 44px);
+}
+
+.produktansicht-375 .infotext-Oh0P0E.bp1-animate-enter182 {
+  animation: bp1-animate-enter182-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter182-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-375 .vertrglichkeitwort-Oh0P0E {
+  -webkit-text-stroke: 0.10000000149011612px var(--black);
+  background-color: transparent;
+  bottom: calc(38.49% - 13px);
+  display: block;
+  height: 34px;
+  left: 46px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 92px;
+}
+
+.produktansicht-375 .vertrglichkeitwort-Oh0P0E.bp1-animate-enter183 {
+  animation: bp1-animate-enter183-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter183-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-375 .grewort-Oh0P0E {
+  -webkit-text-stroke: 0.10000000149011612px var(--black);
+  background-color: transparent;
+  bottom: calc(35.53% - 5px);
+  display: block;
+  height: 14px;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 40px;
+}
+
+.produktansicht-375 .grewort-Oh0P0E.bp1-animate-enter184 {
+  animation: bp1-animate-enter184-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter184-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-375 .stoffwort-Oh0P0E {
+  -webkit-text-stroke: 0.10000000149011612px var(--black);
+  background-color: transparent;
+  bottom: calc(30.13% - 4px);
+  display: block;
+  height: 14px;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 31px;
+}
+
+.produktansicht-375 .stoffwort-Oh0P0E.bp1-animate-enter185 {
+  animation: bp1-animate-enter185-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter185-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-375 .musterwort-Oh0P0E {
+  -webkit-text-stroke: 0.10000000149011612px var(--black);
+  background-color: transparent;
+  bottom: calc(24.74% - 3px);
+  display: block;
+  height: 14px;
+  left: 47px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 49px;
+}
+
+.produktansicht-375 .musterwort-Oh0P0E.bp1-animate-enter186 {
+  animation: bp1-animate-enter186-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter186-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-375 .vertraeglichkeit1-Oh0P0E {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(40.93% - 6px);
+  display: block;
+  height: 14px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  opacity: 0;
+  position: absolute;
+  right: calc(34.94% - 30px);
+  text-align: left;
+  white-space: nowrap;
+  width: 87px;
+}
+
+.produktansicht-375 .vertraeglichkeit1-Oh0P0E.bp1-animate-enter187 {
+  animation: bp1-animate-enter187-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter187-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-375 .groesse1-Oh0P0E {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(35.53% - 5px);
+  display: block;
+  height: 14px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.38% - 8px);
+  text-align: left;
+  white-space: nowrap;
+  width: 16px;
+}
+
+.produktansicht-375 .groesse1-Oh0P0E.bp1-animate-enter188 {
+  animation: bp1-animate-enter188-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter188-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-375 .stoff1-Oh0P0E {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(30.13% - 4px);
+  display: block;
+  height: 14px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  opacity: 0;
+  position: absolute;
+  right: calc(40.44% - 26px);
+  text-align: left;
+  white-space: nowrap;
+  width: 64px;
+}
+
+.produktansicht-375 .stoff1-Oh0P0E.bp1-animate-enter189 {
+  animation: bp1-animate-enter189-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter189-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-375 .muster1-Oh0P0E {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(24.55% - 4px);
+  display: block;
+  height: 15px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  opacity: 0;
+  position: absolute;
+  right: calc(43.94% - 21px);
+  text-align: left;
+  white-space: nowrap;
+  width: 47px;
+}
+
+.produktansicht-375 .muster1-Oh0P0E.bp1-animate-enter190 {
+  animation: bp1-animate-enter190-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter190-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-375 .ellipse-34-Oh0P0E {
+  background-color: var(--black);
+  border-radius: 3.5px;
+  bottom: calc(41.10% - 3px);
+  display: block;
+  height: 7px;
+  left: 23px;
+  opacity: 0;
+  position: absolute;
+  width: 7px;
+}
+
+.produktansicht-375 .ellipse-34-Oh0P0E.bp1-animate-enter191 {
+  animation: bp1-animate-enter191-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter191-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-375 .ellipse-35-Oh0P0E {
+  background-color: var(--black);
+  border-radius: 3.5px;
+  bottom: calc(35.76% - 3px);
+  display: block;
+  height: 7px;
+  left: 23px;
+  opacity: 0;
+  position: absolute;
+  width: 7px;
+}
+
+.produktansicht-375 .ellipse-35-Oh0P0E.bp1-animate-enter192 {
+  animation: bp1-animate-enter192-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter192-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-375 .ellipse-36-Oh0P0E {
+  background-color: var(--black);
+  border-radius: 3.5px;
+  bottom: calc(30.42% - 2px);
+  display: block;
+  height: 7px;
+  left: 23px;
+  opacity: 0;
+  position: absolute;
+  width: 7px;
+}
+
+.produktansicht-375 .ellipse-36-Oh0P0E.bp1-animate-enter193 {
+  animation: bp1-animate-enter193-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter193-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-375 .ellipse-37-Oh0P0E {
+  background-color: var(--black);
+  border-radius: 3.5px;
+  bottom: calc(25.07% - 2px);
+  display: block;
+  height: 7px;
+  left: 23px;
+  opacity: 0;
+  position: absolute;
+  width: 7px;
+}
+
+.produktansicht-375 .ellipse-37-Oh0P0E.bp1-animate-enter194 {
+  animation: bp1-animate-enter194-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter194-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-375 .gruppe-498-hymGLb {
+  background-color: transparent;
+  bottom: calc(15.40% - 81px);
+  height: 524px;
+  position: absolute;
+  right: calc(48.72% - 164px);
+  width: 336px;
+}
+
+.produktansicht-375 .borbus-akzeptiert-fo-xugemg {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(19.93% - 10px);
+  display: block;
+  height: 48px;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 196px;
+}
+
+.produktansicht-375 .borbus-akzeptiert-fo-xugemg.bp1-animate-enter195 {
+  animation: bp1-animate-enter195-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter195-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-375 .gruppe-497-xugemg {
+  background-color: transparent;
+  height: 524px;
+  left: calc(50.00% - 168px);
+  position: absolute;
+  top: calc(50.00% - 262px);
+  width: 336px;
+}
+
+.produktansicht-375 .gruppe-496-qogfyg {
+  background-color: transparent;
+  bottom: 0px;
+  height: 524px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.produktansicht-375 .versand-und-rckgabeinformation-6mpNgx {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 20px;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 29px;
+  white-space: nowrap;
+  width: calc(100.00% - 56px);
+}
+
+.produktansicht-375 .versand-und-rckgabeinformation-6mpNgx.bp1-animate-enter196 {
+  animation: bp1-animate-enter196-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter196-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-375 .zahlungsoptionen-6mpNgx {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(33.00% - 7px);
+  display: block;
+  height: 20px;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 146px;
+}
+
+.produktansicht-375 .zahlungsoptionen-6mpNgx.bp1-animate-enter197 {
+  animation: bp1-animate-enter197-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter197-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-375 .bei-jeder-bestellung-6mpNgx {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 191px;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(21.58% - 41px);
+  width: calc(100.00% - 42px);
+}
+
+.produktansicht-375 .bei-jeder-bestellung-6mpNgx.bp1-animate-enter198 {
+  animation: bp1-animate-enter198-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter198-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-375 .linie-39-6mpNgx {
+  background-color: transparent;
+  display: block;
+  height: 1px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.produktansicht-375 .linie-39-6mpNgx.bp1-animate-enter199 {
+  animation: bp1-animate-enter199-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter199-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-375 .linie-48-6mpNgx {
+  background-color: transparent;
+  bottom: 41.07%;
+  display: block;
+  height: 1px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.produktansicht-375 .linie-48-6mpNgx.bp1-animate-enter200 {
+  animation: bp1-animate-enter200-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter200-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-375 .gruppe-557-6mpNgx {
+  background-color: transparent;
+  bottom: 0px;
+  height: 54px;
+  left: 21px;
+  position: absolute;
+  width: 97px;
+}
+
+.produktansicht-375 .paypal-bxPOVO {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(44.52% - 8px);
+  cursor: pointer;
+  display: block;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  text-decoration: underline;
+  transition: all 0.4s ease;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.produktansicht-375 .paypal-bxPOVO.bp1-animate-enter201 {
+  animation: bp1-animate-enter201-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter201-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-375 .paypal-bxPOVO:hover {
+  transform: translate(0, -5px);
+}
+
+.produktansicht-375 .x32_50-paypal-bxPOVO {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 45px;
+}
+
+.produktansicht-375 .gruppe-700-QQrcAW {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.produktansicht-375 .pfad-288-qDKQTX {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 5px);
+}
+
+.produktansicht-375 .pfad-289-qDKQTX {
+  background-color: transparent;
+  bottom: 0px;
+  height: 39px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 33px;
+}
+
+.produktansicht-375 .gruppe-293-hymGLb {
+  background-color: transparent;
+  height: 0px;
+  left: 1px;
+  position: absolute;
+  top: 291px;
+  width: 100%;
+}
+
+.produktansicht-375 .linie-29-xfYIpE {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.produktansicht-375 .gruppe-293-KKdcpu {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  left: calc(10.12% - 5px);
+  position: absolute;
+  top: 224px;
+  width: 46px;
+}
+
+.produktansicht-375 .home-CDVoKk {
+  background-color: transparent;
+  display: block;
+  height: 18px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 48px;
+}
+
+.produktansicht-375 .home-CDVoKk.bp1-animate-enter202 {
+  animation: bp1-animate-enter202-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter202-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-375 .shop-hymGLb {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 20px;
+  left: calc(42.19% - 18px);
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 225px;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.produktansicht-375 .shop-hymGLb.bp1-animate-enter203 {
+  animation: bp1-animate-enter203-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter203-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-375 .gruppe-188-hymGLb {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 17px;
+  opacity: 0;
+  position: absolute;
+  right: 33px;
+  top: 222px;
+  width: 100px;
+}
+
+.produktansicht-375 .gruppe-188-hymGLb.bp1-animate-enter204 {
+  animation: bp1-animate-enter204-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter204-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-375 .ber-borbus-GuvyGc {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.produktansicht-375 .gruppe-203-hymGLb {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 31px;
+  left: calc(49.77% - 73px);
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  top: 552px;
+  transition: all 0.5s ease;
+  width: 146px;
+}
+
+.produktansicht-375 .gruppe-203-hymGLb.bp1-animate-enter205 {
+  animation: bp1-animate-enter205-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter205-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-375 .gruppe-203-hymGLb:hover {
+  transform: translate(0, -5px);
+}
+
+.produktansicht-375 .rechteck-114-PoSTKd {
+  background-color: transparent;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  opacity: 0.8;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.produktansicht-375 .grenberatung-PoSTKd {
+  background-color: transparent;
+  height: 16px;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: calc(20.00% - 3px);
+  white-space: nowrap;
+  width: 106px;
+}
+
+.produktansicht-375 .rechteck-118-hymGLb {
+  background-color: var(--gallery);
+  box-shadow: 0px 2px 4px #00000029;
+  height: 34px;
+  left: 0px;
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.produktansicht-375 .gruppe-546-hymGLb {
+  background-color: transparent;
+  height: 17px;
+  position: absolute;
+  right: 21px;
+  top: 8px;
+  width: 107px;
+}
+
+.produktansicht-375 .sichere-bezahlung-K2x68a {
+  background-color: transparent;
+  bottom: -2px;
+  height: 13px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  opacity: 0.73;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 92px;
+}
+
+.produktansicht-375 .gruppe-199-K2x68a {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 12px;
+}
+
+.produktansicht-375 .rechteck-155-CX4bmP {
+  background-color: var(--stratos);
+  border-radius: 2px;
+  height: calc(100.00% - 5px);
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 100%;
+}
+
+.produktansicht-375 .pfad-284-CX4bmP {
+  background-color: transparent;
+  height: 14px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 4px);
+}
+
+.produktansicht-375 .pfad-285-CX4bmP {
+  background-color: transparent;
+  bottom: calc(29.77% - 2px);
+  height: 5px;
+  left: calc(49.03% - 3px);
+  object-fit: cover;
+  position: absolute;
+  width: 7px;
+}
+
+.produktansicht-375 .gruppe-548-hymGLb {
+  background-color: transparent;
+  height: 17px;
+  left: 30px;
+  position: absolute;
+  top: 9px;
+  width: 78px;
+}
+
+.produktansicht-375 .stoffqualitt-g2nxPh {
+  background-color: transparent;
+  bottom: -1px;
+  height: 13px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  opacity: 0.73;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.produktansicht-375 .iconfinder_4265038_b-g2nxPh {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+
+.produktansicht-375 .ellipse-41-s8h8hz {
+  background-color: var(--stratos);
+  border-radius: 2.75px;
+  height: 6px;
+  left: calc(49.99% - 3px);
+  position: absolute;
+  top: calc(33.49% - 2px);
+  width: 6px;
+}
+
+.produktansicht-375 .pfad-286-s8h8hz {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.produktansicht-375 .gruppe-547-hymGLb {
+  background-color: transparent;
+  height: 14px;
+  left: calc(46.35% - 35px);
+  position: absolute;
+  top: 10px;
+  width: 75px;
+}
+
+.produktansicht-375 .handarbeit-u4SLXD {
+  background-color: transparent;
+  bottom: -2px;
+  height: 12px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  opacity: 0.73;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 56px;
+}
+
+.produktansicht-375 .iconfinder_scissor_s-u4SLXD {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 16px;
+}
+
+.produktansicht-375 .pfad-273-SWLUBS {
+  background-color: transparent;
+  bottom: 2px;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: 1px;
+}
+
+.produktansicht-375 .pfad-274-SWLUBS {
+  background-color: transparent;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+
+.produktansicht-375 .pfad-275-SWLUBS {
+  background-color: transparent;
+  height: 23px;
+  object-fit: cover;
+  position: absolute;
+  right: -9px;
+  top: 4.11%;
+  width: 28px;
+}
+
+.produktansicht-375 .pfad-276-SWLUBS {
+  background-color: transparent;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.produktansicht-375 .gruppe-565-hymGLb {
+  background-color: transparent;
+  height: 1033px;
+  left: calc(50.00% - 154px);
+  position: absolute;
+  top: 362px;
+  width: 307px;
+}
+
+.produktansicht-375 .gruppe-494-tZr381 {
+  background-color: transparent;
+  height: 1033px;
+  left: calc(50.00% - 145px);
+  position: absolute;
+  top: calc(50.00% - 516px);
+  width: 290px;
+}
+
+.produktansicht-375 .vorderseitewort-wVQQUR {
+  background-color: transparent;
+  bottom: calc(47.63% - 7px);
+  display: block;
+  height: 14px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.55% - 33px);
+  text-align: left;
+  white-space: nowrap;
+  width: 66px;
+}
+
+.produktansicht-375 .vorderseitewort-wVQQUR.bp1-animate-enter206 {
+  animation: bp1-animate-enter206-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter206-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-375 .gruppe-491-wVQQUR {
+  background-color: transparent;
+  height: 168px;
+  left: calc(50.00% - 77px);
+  position: absolute;
+  top: 0px;
+  width: 155px;
+}
+
+.produktansicht-375 .kleidchenbezeichnung-F5bfcM {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 22px;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: calc(100.00% - 26px);
+}
+
+.produktansicht-375 .kleidchenbezeichnung-F5bfcM.bp1-animate-enter207 {
+  animation: bp1-animate-enter207-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter207-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-375 .x6-monate-3-jahre-F5bfcM {
+  background-color: transparent;
+  bottom: -2px;
+  display: block;
+  height: 15px;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 36px);
+}
+
+.produktansicht-375 .x6-monate-3-jahre-F5bfcM.bp1-animate-enter208 {
+  animation: bp1-animate-enter208-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter208-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-375 .stckpreis-F5bfcM {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(42.18% - 9px);
+  display: block;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  opacity: 0;
+  position: absolute;
+  right: calc(48.71% - 35px);
+  text-align: left;
+  white-space: nowrap;
+  width: 71px;
+}
+
+.produktansicht-375 .stckpreis-F5bfcM.bp1-animate-enter209 {
+  animation: bp1-animate-enter209-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter209-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-375 .linie-31-F5bfcM {
+  background-color: transparent;
+  display: block;
+  height: 1px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 31.82%;
+  width: 100%;
+}
+
+.produktansicht-375 .linie-31-F5bfcM.bp1-animate-enter210 {
+  animation: bp1-animate-enter210-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter210-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-375 .warenkorb-button-mitte-wVQQUR {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 47px;
+  left: calc(50.00% - 145px);
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  top: 986px;
+  transition: all 0.5s ease-out;
+  width: 290px;
+}
+
+.produktansicht-375 .warenkorb-button-mitte-wVQQUR.bp1-animate-enter211 {
+  animation: bp1-animate-enter211-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter211-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-375 .warenkorb-button-mitte-wVQQUR:hover {
+  transform: scale(1.1);
+}
+
+.produktansicht-375 .rechteck-114-xtSNn1 {
+  background-color: var(--stratos);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  opacity: 0.8;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.produktansicht-375 .in-den-warenkorb-xtSNn1 {
+  background-color: transparent;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  right: calc(45.18% - 66px);
+  text-align: left;
+  top: calc(48.80% - 11px);
+  white-space: nowrap;
+  width: 147px;
+}
+
+.produktansicht-375 .rckseitewort-wVQQUR {
+  background-color: transparent;
+  bottom: 136px;
+  display: block;
+  height: 14px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.57% - 28px);
+  text-align: left;
+  white-space: nowrap;
+  width: 56px;
+}
+
+.produktansicht-375 .rckseitewort-wVQQUR.bp1-animate-enter212 {
+  animation: bp1-animate-enter212-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter212-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-375 .vorderseitebild-tZr381 {
+  background-color: var(--white);
+  height: 241px;
+  left: calc(50.00% - 154px);
+  position: absolute;
+  top: 282px;
+  width: 307px;
+}
+
+.produktansicht-375 .rckseitebild-tZr381 {
+  background-color: var(--white);
+  height: 264px;
+  left: calc(50.00% - 154px);
+  position: absolute;
+  top: 613px;
+  width: 307px;
+}
+
+.produktansicht-375 .borbus-hymGLb {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.26% - 118px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
+}
+
+.produktansicht-375 .gruppe-327-hymGLb {
+  background-color: transparent;
+  bottom: 0px;
+  height: 331px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.produktansicht-375 .rechteck-90-DHcYff {
+  background-color: var(--stratos);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.produktansicht-375 .gruppe-356-DHcYff {
+  background-color: transparent;
+  height: 88px;
+  left: calc(5.99% - 5px);
+  position: absolute;
+  top: calc(10.30% - 9px);
+  width: 91px;
+}
+
+.produktansicht-375 .exklusive-serviceleistungen-nvqdoF {
+  -webkit-text-stroke: 0.30000001192092896px var(--swirl);
+  background-color: transparent;
+  height: 40px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  width: calc(100.00% + 2px);
+}
+
+.produktansicht-375 .gruppe-137-nvqdoF {
+  background-color: transparent;
+  bottom: 1px;
+  height: 11px;
+  left: 0px;
+  position: absolute;
+  width: calc(100.00% - 9px);
+}
+
+.produktansicht-375 .versand-frei-irfIZ6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 1px);
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.produktansicht-375 .truck-irfIZ6 {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 19px;
+}
+
+.produktansicht-375 .gruppe-359-DHcYff {
+  background-color: transparent;
+  height: 120px;
+  left: calc(48.05% - 53px);
+  position: absolute;
+  top: 25px;
+  width: 111px;
+}
+
+.produktansicht-375 .knnen-wir-helfen-OCs9ZH {
+  -webkit-text-stroke: 0.30000001192092896px var(--swirl);
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  width: calc(100.00% - 12px);
+}
+
+.produktansicht-375 .gruppe-357-OCs9ZH {
+  background-color: transparent;
+  bottom: calc(29.92% - 3px);
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  width: 61px;
+}
+
+.produktansicht-375 .gruppe-140-Kz3moV {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 38px;
+}
+
+.produktansicht-375 .kontakt-sh2hN0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.produktansicht-375 .contact-Kz3moV {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.produktansicht-375 .gruppe-358-OCs9ZH {
+  background-color: transparent;
+  bottom: 0px;
+  height: 16px;
+  left: 3px;
+  position: absolute;
+  width: calc(100.00% - 3px);
+}
+
+.produktansicht-375 .gruppe-141-ZA1wuG {
+  background-color: transparent;
+  bottom: 0px;
+  height: 11px;
+  position: absolute;
+  right: 0px;
+  width: 87px;
+}
+
+.produktansicht-375 .zahlungsoptionen-Znxy60 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -7px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.produktansicht-375 .money-ZA1wuG {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 15px;
+}
+
+.produktansicht-375 .gruppe-363-DHcYff {
+  background-color: transparent;
+  height: 196px;
+  position: absolute;
+  right: calc(5.44% - 6px);
+  top: calc(18.48% - 36px);
+  width: 102px;
+}
+
+.produktansicht-375 .das-unternehmen-02xfd7 {
+  -webkit-text-stroke: 0.30000001192092896px var(--swirl);
+  background-color: transparent;
+  height: 17px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: calc(100.00% - 5px);
+}
+
+.produktansicht-375 .gruppe-362-02xfd7 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 11px;
+  left: 1px;
+  position: absolute;
+  width: 68px;
+}
+
+.produktansicht-375 .gruppe-158-dC8cgJ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 15px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 15px);
+}
+
+.produktansicht-375 .impressum-lGW4j7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -7px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.produktansicht-375 .gruppe-154-dC8cgJ {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 11px;
+}
+
+.produktansicht-375 .gruppe-159-gWNAeM {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.produktansicht-375 .ellipse-25-2N2TQV {
+  background-color: var(--white);
+  border-radius: 5.47px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.produktansicht-375 .i-2N2TQV {
+  background-color: transparent;
+  height: 10px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  overflow: hidden;
+  position: absolute;
+  right: calc(34.51% - 2px);
+  text-align: left;
+  top: -7px;
+  white-space: nowrap;
+  width: 4px;
+}
+
+.produktansicht-375 .gruppe-160-02xfd7 {
+  background-color: transparent;
+  height: 15px;
+  left: 1px;
+  position: absolute;
+  top: calc(40.56% - 6px);
+  width: 78px;
+}
+
+.produktansicht-375 .gruppe-155-YefvZp {
+  background-color: transparent;
+  bottom: 2px;
+  height: 11px;
+  position: absolute;
+  right: 0px;
+  width: 63px;
+}
+
+.produktansicht-375 .gruppe-138-vi197C {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.produktansicht-375 .ber-borbus-4MprHz {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -7px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.produktansicht-375 .b-YefvZp {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 13px;
+}
+
+.produktansicht-375 .gruppe-361-02xfd7 {
+  background-color: transparent;
+  bottom: 28px;
+  height: 26px;
+  left: 1px;
+  position: absolute;
+  width: 100%;
+}
+
+.produktansicht-375 .gruppe-156-KtOcXR {
+  background-color: transparent;
+  height: 100%;
+  left: 16px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 16px);
+}
+
+.produktansicht-375 .geschftsbedien-gungen-03xCZQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.produktansicht-375 .solid-KtOcXR {
+  background-color: transparent;
+  height: 12px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(46.50% - 6px);
+  width: 13px;
+}
+
+.produktansicht-375 .gruppe-360-02xfd7 {
+  background-color: transparent;
+  bottom: calc(41.77% - 5px);
+  height: 13px;
+  left: 0px;
+  position: absolute;
+  width: 81px;
+}
+
+.produktansicht-375 .gruppe-157-C9lKe7 {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 10px;
+  position: absolute;
+  right: 0px;
+  width: 65px;
+}
+
+.produktansicht-375 .datenschutz-xmpM1o {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.produktansicht-375 .cookie-C9lKe7 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+
+.produktansicht-375 .gruppe-325-DHcYff {
+  background-color: transparent;
+  bottom: 18px;
+  cursor: pointer;
+  height: 18px;
+  position: absolute;
+  right: 31px;
+  width: 147px;
+}
+
+.produktansicht-375 .gruppe-162-Kcj9go {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 15px;
+  left: 0px;
+  position: absolute;
+  width: 122px;
+}
+
+.produktansicht-375 .folge-uns-auf-instagram-2AoObl {
+  background-color: transparent;
+  height: 17px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -8px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.produktansicht-375 .icon-instagram-Kcj9go {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 18px;
+}
+
+.produktansicht-375 .ssl-DHcYff {
+  background-color: transparent;
+  bottom: 55px;
+  display: block;
+  height: 90px;
+  left: calc(8.86% - 8px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 90px;
+}
+
+.produktansicht-375 .ssl-DHcYff.bp1-animate-enter213 {
+  animation: bp1-animate-enter213-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter213-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-375 .warenkorb-oben-rechts-hymGLb {
+  background-color: transparent;
+  height: 32px;
+  position: absolute;
+  right: 10px;
+  top: 44px;
+  width: 35px;
+}
+
+.produktansicht-375 .iconfinder_basket_ecommerce_shop_4177565-8QBP4U {
+  background-color: transparent;
+  height: 21px;
+  object-fit: cover;
+  position: absolute;
+  right: 11px;
+  top: 11px;
+  width: 24px;
+}
+
+.produktansicht-375 .gruppe-579-8QBP4U {
+  background-color: transparent;
+  height: 16px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 16px;
+}
+
+.produktansicht-375 .ellipse-47-9D98nO {
+  background-color: var(--stratos);
+  border-radius: 8.16px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 16px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 16px;
+}
+
+.produktansicht-375 .anzahl-warenkorb-9D98nO {
+  -webkit-text-stroke: 0.05000000074505806px var(--gallery);
+  background-color: transparent;
+  height: 11px;
+  letter-spacing: 0.00px;
+  line-height: 9px;
+  position: absolute;
+  right: 4px;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 7px;
+}
+/* screen - produktansicht-767 */
+
+.produktansicht-767 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 2625px;
+  min-width: 767px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.produktansicht-767 .rechteck-136-EHMNUx {
+  background-color: var(--gallery);
+  bottom: 331px;
+  box-shadow: 0px 2px 4px #00000029;
+  display: block;
+  height: 1360px;
+  left: -329px;
+  opacity: 0;
+  position: absolute;
+  width: calc(100.00% + 659px);
+}
+
+.produktansicht-767 .rechteck-136-EHMNUx.bp2-animate-enter181 {
+  animation: bp2-animate-enter181-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter181-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-767 .ellipse-32-EHMNUx {
+  background-color: transparent;
+  border-radius: 11.5px;
+  display: block;
+  height: 23px;
+  left: calc(24.67% - 6px);
+  opacity: 0;
+  position: absolute;
+  top: calc(33.82% - 8px);
+  width: 23px;
+}
+
+.produktansicht-767 .ellipse-32-EHMNUx.bp2-animate-enter182 {
+  animation: bp2-animate-enter182-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter182-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-767 .ellipse-33-EHMNUx {
+  background-color: transparent;
+  border-radius: 11.5px;
+  display: block;
+  height: 23px;
+  opacity: 0;
+  position: absolute;
+  right: calc(28.63% - 7px);
+  top: calc(33.82% - 8px);
+  width: 23px;
+}
+
+.produktansicht-767 .ellipse-33-EHMNUx.bp2-animate-enter183 {
+  animation: bp2-animate-enter183-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter183-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-767 .linie-32-EHMNUx {
+  background-color: transparent;
+  display: block;
+  height: 13px;
+  left: 24.95%;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: calc(33.90% - 4px);
+  width: 1px;
+}
+
+.produktansicht-767 .linie-32-EHMNUx.bp2-animate-enter184 {
+  animation: bp2-animate-enter184-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter184-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-767 .linie-37-EHMNUx {
+  background-color: transparent;
+  display: block;
+  height: 13px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  right: 29.25%;
+  top: calc(33.90% - 4px);
+  width: 1px;
+}
+
+.produktansicht-767 .linie-37-EHMNUx.bp2-animate-enter185 {
+  animation: bp2-animate-enter185-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter185-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-767 .linie-33-EHMNUx {
+  background-color: transparent;
+  display: block;
+  height: 1px;
+  left: calc(24.80% - 3px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 33.98%;
+  width: 13px;
+}
+
+.produktansicht-767 .linie-33-EHMNUx.bp2-animate-enter186 {
+  animation: bp2-animate-enter186-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter186-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-767 .linie-36-EHMNUx {
+  background-color: transparent;
+  display: block;
+  height: 1px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  right: calc(28.91% - 4px);
+  top: 33.98%;
+  width: 13px;
+}
+
+.produktansicht-767 .linie-36-EHMNUx.bp2-animate-enter187 {
+  animation: bp2-animate-enter187-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter187-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-767 .gruppe-489-EHMNUx {
+  background-color: transparent;
+  bottom: calc(48.61% - 331px);
+  height: 681px;
+  left: calc(50.00% - 308px);
+  position: absolute;
+  width: 617px;
+}
+
+.produktansicht-767 .rechteck-137-APMeAU {
+  background-color: var(--white);
+  display: block;
+  height: calc(100.00% - 15px);
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  top: 15px;
+  width: 100%;
+}
+
+.produktansicht-767 .rechteck-137-APMeAU.bp2-animate-enter188 {
+  animation: bp2-animate-enter188-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter188-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-767 .gruppe-189-APMeAU {
+  background-color: transparent;
+  display: block;
+  height: 42px;
+  left: calc(50.00% - 21px);
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 42px;
+}
+
+.produktansicht-767 .gruppe-189-APMeAU.bp2-animate-enter189 {
+  animation: bp2-animate-enter189-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter189-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-767 .rechteck-117-Kx3e8S {
+  background-color: var(--stratos);
+  box-shadow: 0px 3px 6px #00000029;
+  height: calc(100.00% - 12px);
+  left: 6px;
+  position: absolute;
+  top: 6px;
+  transform: rotate(45.00deg);
+  width: calc(100.00% - 12px);
+}
+
+.produktansicht-767 .b-Kx3e8S {
+  background-color: transparent;
+  bottom: calc(26.95% - 7px);
+  height: 26px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  right: calc(43.60% - 8px);
+  text-align: left;
+  white-space: nowrap;
+  width: 19px;
+}
+
+.produktansicht-767 .b-2DdLwH {
+  background-color: transparent;
+  bottom: calc(39.12% - 10px);
+  height: 26px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  right: calc(43.60% - 8px);
+  text-align: left;
+  white-space: nowrap;
+  width: 19px;
+}
+
+.produktansicht-767 .produktinformationen-APMeAU {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.75% - 104px);
+  text-align: left;
+  top: 87px;
+  white-space: nowrap;
+  width: 209px;
+}
+
+.produktansicht-767 .produktinformationen-APMeAU.bp2-animate-enter190 {
+  animation: bp2-animate-enter190-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter190-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-767 .infotext-APMeAU {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 172px;
+  left: 64px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(34.97% - 60px);
+  width: 401px;
+}
+
+.produktansicht-767 .infotext-APMeAU.bp2-animate-enter191 {
+  animation: bp2-animate-enter191-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter191-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-767 .vertrglichkeitwort-APMeAU {
+  -webkit-text-stroke: 0.10000000149011612px var(--black);
+  background-color: transparent;
+  bottom: calc(41.81% - 12px);
+  display: block;
+  height: 28px;
+  left: 90px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  opacity: 0;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  width: 123px;
+}
+
+.produktansicht-767 .vertrglichkeitwort-APMeAU.bp2-animate-enter192 {
+  animation: bp2-animate-enter192-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter192-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-767 .grewort-APMeAU {
+  -webkit-text-stroke: 0.10000000149011612px var(--black);
+  background-color: transparent;
+  bottom: calc(36.29% - 10px);
+  display: block;
+  height: 28px;
+  left: 90px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  width: 118px;
+}
+
+.produktansicht-767 .grewort-APMeAU.bp2-animate-enter193 {
+  animation: bp2-animate-enter193-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter193-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-767 .stoffwort-APMeAU {
+  -webkit-text-stroke: 0.10000000149011612px var(--black);
+  background-color: transparent;
+  bottom: calc(30.78% - 9px);
+  display: block;
+  height: 28px;
+  left: 90px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  width: 104px;
+}
+
+.produktansicht-767 .stoffwort-APMeAU.bp2-animate-enter194 {
+  animation: bp2-animate-enter194-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter194-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-767 .musterwort-APMeAU {
+  -webkit-text-stroke: 0.10000000149011612px var(--black);
+  background-color: transparent;
+  bottom: calc(25.27% - 7px);
+  display: block;
+  height: 28px;
+  left: 90px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  width: 104px;
+}
+
+.produktansicht-767 .musterwort-APMeAU.bp2-animate-enter195 {
+  animation: bp2-animate-enter195-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter195-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-767 .vertraeglichkeit1-APMeAU {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(41.65% - 12px);
+  display: block;
+  height: 28px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  opacity: 0;
+  position: absolute;
+  right: calc(34.44% - 92px);
+  text-align: left;
+  width: 268px;
+}
+
+.produktansicht-767 .vertraeglichkeit1-APMeAU.bp2-animate-enter196 {
+  animation: bp2-animate-enter196-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter196-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-767 .groesse1-APMeAU {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(36.29% - 10px);
+  display: block;
+  height: 28px;
+  left: calc(45.04% - 49px);
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  width: 109px;
+}
+
+.produktansicht-767 .groesse1-APMeAU.bp2-animate-enter197 {
+  animation: bp2-animate-enter197-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter197-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-767 .stoff1-APMeAU {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(30.78% - 9px);
+  display: block;
+  height: 28px;
+  left: calc(47.47% - 64px);
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  width: 135px;
+}
+
+.produktansicht-767 .stoff1-APMeAU.bp2-animate-enter198 {
+  animation: bp2-animate-enter198-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter198-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-767 .muster1-APMeAU {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(25.27% - 7px);
+  display: block;
+  height: 28px;
+  left: calc(46.34% - 57px);
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  width: 123px;
+}
+
+.produktansicht-767 .muster1-APMeAU.bp2-animate-enter199 {
+  animation: bp2-animate-enter199-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter199-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-767 .ellipse-34-APMeAU {
+  background-color: var(--black);
+  border-radius: 3.5px;
+  bottom: calc(42.88% - 3px);
+  display: block;
+  height: 7px;
+  left: 65px;
+  opacity: 0;
+  position: absolute;
+  width: 7px;
+}
+
+.produktansicht-767 .ellipse-34-APMeAU.bp2-animate-enter200 {
+  animation: bp2-animate-enter200-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter200-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-767 .ellipse-35-APMeAU {
+  background-color: var(--black);
+  border-radius: 3.5px;
+  bottom: calc(37.54% - 3px);
+  display: block;
+  height: 7px;
+  left: 65px;
+  opacity: 0;
+  position: absolute;
+  width: 7px;
+}
+
+.produktansicht-767 .ellipse-35-APMeAU.bp2-animate-enter201 {
+  animation: bp2-animate-enter201-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter201-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-767 .ellipse-36-APMeAU {
+  background-color: var(--black);
+  border-radius: 3.5px;
+  bottom: calc(32.20% - 2px);
+  display: block;
+  height: 7px;
+  left: 65px;
+  opacity: 0;
+  position: absolute;
+  width: 7px;
+}
+
+.produktansicht-767 .ellipse-36-APMeAU.bp2-animate-enter202 {
+  animation: bp2-animate-enter202-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter202-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-767 .ellipse-37-APMeAU {
+  background-color: var(--black);
+  border-radius: 3.5px;
+  bottom: calc(26.85% - 2px);
+  display: block;
+  height: 7px;
+  left: 65px;
+  opacity: 0;
+  position: absolute;
+  width: 7px;
+}
+
+.produktansicht-767 .ellipse-37-APMeAU.bp2-animate-enter203 {
+  animation: bp2-animate-enter203-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter203-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-767 .gruppe-490-EHMNUx {
+  background-color: transparent;
+  height: 430px;
+  left: calc(50.00% - 309px);
+  position: absolute;
+  top: 1754px;
+  width: 618px;
+}
+
+.produktansicht-767 .versand-und-rckgabeinformation-bbn0o1 {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 24px;
+  left: 64px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 26px;
+  white-space: nowrap;
+  width: 330px;
+}
+
+.produktansicht-767 .versand-und-rckgabeinformation-bbn0o1.bp2-animate-enter204 {
+  animation: bp2-animate-enter204-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter204-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-767 .zahlungsoptionen-bbn0o1 {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(32.96% - 8px);
+  display: block;
+  height: 24px;
+  left: 65px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 171px;
+}
+
+.produktansicht-767 .zahlungsoptionen-bbn0o1.bp2-animate-enter205 {
+  animation: bp2-animate-enter205-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter205-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-767 .bei-jeder-bestellung-bbn0o1 {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 142px;
+  left: 64px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: calc(24.94% - 35px);
+  width: calc(100.00% - 142px);
+}
+
+.produktansicht-767 .bei-jeder-bestellung-bbn0o1.bp2-animate-enter206 {
+  animation: bp2-animate-enter206-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter206-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-767 .borbus-akzeptiert-fo-bbn0o1 {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(19.92% - 5px);
+  display: block;
+  height: 24px;
+  left: 65px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  width: 346px;
+}
+
+.produktansicht-767 .borbus-akzeptiert-fo-bbn0o1.bp2-animate-enter207 {
+  animation: bp2-animate-enter207-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter207-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-767 .linie-39-bbn0o1 {
+  background-color: transparent;
+  display: block;
+  height: 1px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.produktansicht-767 .linie-39-bbn0o1.bp2-animate-enter208 {
+  animation: bp2-animate-enter208-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter208-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-767 .linie-47-bbn0o1 {
+  background-color: transparent;
+  bottom: 42.04%;
+  display: block;
+  height: 1px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.produktansicht-767 .linie-47-bbn0o1.bp2-animate-enter209 {
+  animation: bp2-animate-enter209-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter209-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-767 .gruppe-557-bbn0o1 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 54px;
+  left: 65px;
+  position: absolute;
+  width: 97px;
+}
+
+.produktansicht-767 .paypal-gYzMxF {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  bottom: calc(44.52% - 8px);
+  cursor: pointer;
+  display: block;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  text-decoration: underline;
+  transition: all 0.4s ease;
+  white-space: nowrap;
+  width: 46px;
+}
+
+.produktansicht-767 .paypal-gYzMxF.bp2-animate-enter210 {
+  animation: bp2-animate-enter210-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter210-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-767 .paypal-gYzMxF:hover {
+  transform: translate(0, -5px);
+}
+
+.produktansicht-767 .x32_50-paypal-gYzMxF {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 45px;
+}
+
+.produktansicht-767 .gruppe-700-x4uA9V {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.produktansicht-767 .pfad-288-j3Cvid {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 5px);
+}
+
+.produktansicht-767 .pfad-289-j3Cvid {
+  background-color: transparent;
+  bottom: 0px;
+  height: 39px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 33px;
+}
+
+.produktansicht-767 .linie-29-EHMNUx {
+  background-color: transparent;
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 281px;
+  width: 100%;
+}
+
+.produktansicht-767 .rechteck-118-EHMNUx {
+  background-color: var(--gallery);
+  box-shadow: 0px 2px 4px #00000029;
+  height: 34px;
+  left: 0px;
+  opacity: 0.5;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.produktansicht-767 .stoffqualitt-EHMNUx {
+  background-color: transparent;
+  height: 16px;
+  left: calc(28.20% - 23px);
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.produktansicht-767 .handarbeit-EHMNUx {
+  background-color: transparent;
+  height: 15px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  right: calc(49.40% - 36px);
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 73px;
+}
+
+.produktansicht-767 .sichere-bezahlung-EHMNUx {
+  background-color: transparent;
+  height: 16px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  opacity: 0.73;
+  position: absolute;
+  right: calc(23.18% - 28px);
+  text-align: left;
+  top: 13px;
+  white-space: nowrap;
+  width: 119px;
+}
+
+.produktansicht-767 .gruppe-199-EHMNUx {
+  background-color: transparent;
+  height: 17px;
+  position: absolute;
+  right: calc(36.40% - 4px);
+  top: 8px;
+  width: 12px;
+}
+
+.produktansicht-767 .rechteck-155-nDRtIt {
+  background-color: var(--stratos);
+  border-radius: 2px;
+  height: calc(100.00% - 5px);
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 100%;
+}
+
+.produktansicht-767 .pfad-284-nDRtIt {
+  background-color: transparent;
+  height: 14px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 4px);
+}
+
+.produktansicht-767 .pfad-285-nDRtIt {
+  background-color: transparent;
+  bottom: calc(29.77% - 2px);
+  height: 5px;
+  left: calc(49.03% - 3px);
+  object-fit: cover;
+  position: absolute;
+  width: 7px;
+}
+
+.produktansicht-767 .rechteck-157-EHMNUx {
+  background-color: transparent;
+  border-radius: 1px;
+  height: 15px;
+  left: calc(46.61% - 11px);
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 23px;
+}
+
+.produktansicht-767 .iconfinder_4265038_b-EHMNUx {
+  background-color: transparent;
+  height: 17px;
+  left: calc(23.29% - 3px);
+  position: absolute;
+  top: 9px;
+  width: 13px;
+}
+
+.produktansicht-767 .ellipse-41-UxtxV3 {
+  background-color: var(--stratos);
+  border-radius: 2.75px;
+  height: 6px;
+  left: calc(49.99% - 3px);
+  position: absolute;
+  top: calc(33.49% - 2px);
+  width: 6px;
+}
+
+.produktansicht-767 .pfad-286-UxtxV3 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.produktansicht-767 .iconfinder_scissor_s-EHMNUx {
+  background-color: transparent;
+  height: 14px;
+  left: calc(44.02% - 7px);
+  position: absolute;
+  top: 10px;
+  width: 16px;
+}
+
+.produktansicht-767 .pfad-273-7obq83 {
+  background-color: transparent;
+  bottom: 2px;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  width: 1px;
+}
+
+.produktansicht-767 .pfad-274-7obq83 {
+  background-color: transparent;
+  height: calc(100.00% + 18px);
+  left: -9px;
+  object-fit: cover;
+  position: absolute;
+  top: -6px;
+  width: calc(100.00% + 18px);
+}
+
+.produktansicht-767 .pfad-275-7obq83 {
+  background-color: transparent;
+  height: 23px;
+  object-fit: cover;
+  position: absolute;
+  right: -9px;
+  top: 4.11%;
+  width: 28px;
+}
+
+.produktansicht-767 .pfad-276-7obq83 {
+  background-color: transparent;
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.produktansicht-767 .gruppe-564-EHMNUx {
+  background-color: transparent;
+  height: 287px;
+  position: absolute;
+  right: calc(4.54% - 14px);
+  top: 432px;
+  width: 304px;
+}
+
+.produktansicht-767 .rckseitebild-TA9Cqk {
+  background-color: var(--white);
+  height: 265px;
+  left: calc(50.00% - 152px);
+  position: absolute;
+  top: 0px;
+  width: 304px;
+}
+
+.produktansicht-767 .rckseitewort-TA9Cqk {
+  background-color: transparent;
+  bottom: 4px;
+  display: block;
+  height: 14px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 0;
+  position: absolute;
+  right: calc(47.80% - 27px);
+  text-align: left;
+  white-space: nowrap;
+  width: 56px;
+}
+
+.produktansicht-767 .rckseitewort-TA9Cqk.bp2-animate-enter211 {
+  animation: bp2-animate-enter211-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter211-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-767 .gruppe-563-EHMNUx {
+  background-color: transparent;
+  height: 263px;
+  left: calc(6.09% - 19px);
+  position: absolute;
+  top: 456px;
+  width: 307px;
+}
+
+.produktansicht-767 .vorderseitebild-m5zj7t {
+  background-color: var(--white);
+  height: 241px;
+  left: calc(50.00% - 154px);
+  position: absolute;
+  top: 0px;
+  width: 307px;
+}
+
+.produktansicht-767 .vorderseitewort-m5zj7t {
+  background-color: transparent;
+  bottom: 4px;
+  display: block;
+  height: 14px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.67% - 33px);
+  text-align: left;
+  white-space: nowrap;
+  width: 66px;
+}
+
+.produktansicht-767 .vorderseitewort-m5zj7t.bp2-animate-enter212 {
+  animation: bp2-animate-enter212-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter212-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-767 .gruppe-488-EHMNUx {
+  background-color: transparent;
+  height: 387px;
+  left: calc(49.94% - 193px);
+  position: absolute;
+  top: calc(21.48% - 83px);
+  width: 386px;
+}
+
+.produktansicht-767 .gruppe-487-yOFSwn {
+  background-color: transparent;
+  height: 387px;
+  left: calc(50.00% - 193px);
+  position: relative;
+  top: calc(50.00% - 194px);
+  width: 386px;
+}
+
+.produktansicht-767 .x6-monate-3-jahre-2KPmRh {
+  background-color: transparent;
+  bottom: calc(43.40% - 9px);
+  display: block;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.45% - 81px);
+  text-align: left;
+  white-space: nowrap;
+  width: 163px;
+}
+
+.produktansicht-767 .x6-monate-3-jahre-2KPmRh.bp2-animate-enter213 {
+  animation: bp2-animate-enter213-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter213-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-767 .stckpreis-2KPmRh {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.62% - 35px);
+  text-align: left;
+  top: calc(23.19% - 5px);
+  white-space: nowrap;
+  width: 71px;
+}
+
+.produktansicht-767 .stckpreis-2KPmRh.bp2-animate-enter214 {
+  animation: bp2-animate-enter214-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter214-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-767 .warenkorb-button-mitte-2KPmRh {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  display: block;
+  height: 47px;
+  left: 0px;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  transition: all 0.5s ease-out;
+  width: 100%;
+}
+
+.produktansicht-767 .warenkorb-button-mitte-2KPmRh.bp2-animate-enter215 {
+  animation: bp2-animate-enter215-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter215-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-767 .warenkorb-button-mitte-2KPmRh:hover {
+  transform: scale(1.1);
+}
+
+.produktansicht-767 .rechteck-114-N0ssWN {
+  background-color: var(--stratos);
+  box-shadow: 0px 3px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  opacity: 0.8;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.produktansicht-767 .in-den-warenkorb-N0ssWN {
+  background-color: transparent;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  right: calc(47.11% - 69px);
+  text-align: left;
+  top: calc(48.80% - 11px);
+  white-space: nowrap;
+  width: 147px;
+}
+
+.produktansicht-767 .kleidchenbezeichnung-2KPmRh {
+  -webkit-text-stroke: 0.05000000074505806px var(--black);
+  background-color: transparent;
+  display: block;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  opacity: 0;
+  position: absolute;
+  right: calc(49.52% - 64px);
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 129px;
+}
+
+.produktansicht-767 .kleidchenbezeichnung-2KPmRh.bp2-animate-enter216 {
+  animation: bp2-animate-enter216-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter216-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-767 .linie-31-2KPmRh {
+  background-color: transparent;
+  display: block;
+  height: 1px;
+  left: calc(50.00% - 77px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 53px;
+  width: 155px;
+}
+
+.produktansicht-767 .linie-31-2KPmRh.bp2-animate-enter217 {
+  animation: bp2-animate-enter217-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter217-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-767 .icon-play-EHMNUx {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 71px;
+  object-fit: cover;
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  right: 14px;
+  top: calc(19.19% - 14px);
+  transition: all 0.2s ease;
+  width: 36px;
+}
+
+.produktansicht-767 .icon-play-EHMNUx.bp2-animate-enter218 {
+  animation: bp2-animate-enter218-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter218-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-767 .icon-play-EHMNUx:hover {
+  transform: translate(5px, 0);
+}
+
+.produktansicht-767 .home-EHMNUx {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 20px;
+  left: calc(23.17% - 12px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 222px;
+  white-space: nowrap;
+  width: 53px;
+}
+
+.produktansicht-767 .home-EHMNUx.bp2-animate-enter219 {
+  animation: bp2-animate-enter219-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter219-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-767 .shop-EHMNUx {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 22px;
+  left: calc(49.21% - 23px);
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 223px;
+  white-space: nowrap;
+  width: 47px;
+}
+
+.produktansicht-767 .shop-EHMNUx.bp2-animate-enter220 {
+  animation: bp2-animate-enter220-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter220-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-767 .gruppe-188-EHMNUx {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 19px;
+  opacity: 0;
+  position: absolute;
+  right: calc(17.86% - 20px);
+  top: 220px;
+  width: 113px;
+}
+
+.produktansicht-767 .gruppe-188-EHMNUx.bp2-animate-enter221 {
+  animation: bp2-animate-enter221-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter221-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-767 .ber-borbus-7RktkF {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.produktansicht-767 .gruppe-203-EHMNUx {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 31px;
+  left: calc(49.74% - 73px);
+  opacity: 0;
+  pointer-events: auto;
+  position: absolute;
+  top: calc(28.08% - 9px);
+  transition: all 0.5s ease;
+  width: 146px;
+}
+
+.produktansicht-767 .gruppe-203-EHMNUx.bp2-animate-enter222 {
+  animation: bp2-animate-enter222-frames 0.20s ease 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter222-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-767 .gruppe-203-EHMNUx:hover {
+  transform: translate(0, -5px);
+}
+
+.produktansicht-767 .rechteck-114-8i5sXD {
+  background-color: transparent;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 100%;
+  left: 0px;
+  opacity: 0.8;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.produktansicht-767 .grenberatung-8i5sXD {
+  background-color: transparent;
+  height: 16px;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: calc(20.00% - 3px);
+  white-space: nowrap;
+  width: 106px;
+}
+
+.produktansicht-767 .borbus-EHMNUx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 57px;
+  letter-spacing: 0.00px;
+  line-height: 55px;
+  position: absolute;
+  right: calc(49.81% - 120px);
+  text-align: left;
+  top: 90px;
+  white-space: nowrap;
+  width: 240px;
+}
+
+.produktansicht-767 .gruppe-163-EHMNUx {
+  background-color: transparent;
+  bottom: 0px;
+  display: block;
+  height: 331px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.produktansicht-767 .gruppe-163-EHMNUx.bp2-animate-enter223 {
+  animation: bp2-animate-enter223-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter223-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-767 .rechteck-90-Jb0eNO {
+  background-color: var(--stratos);
+  bottom: 0px;
+  height: 331px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.produktansicht-767 .gruppe-347-Jb0eNO {
+  background-color: transparent;
+  height: 114px;
+  left: 51px;
+  position: absolute;
+  top: 37px;
+  width: 148px;
+}
+
+.produktansicht-767 .exklusive-serviceleistungen-znoo41 {
+  background-color: transparent;
+  height: 54px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  width: calc(100.00% + 2px);
+}
+
+.produktansicht-767 .gruppe-137-znoo41 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 15px;
+  left: 0px;
+  position: absolute;
+  width: 118px;
+}
+
+.produktansicht-767 .versand-frei-3xoAMg {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 1px);
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.produktansicht-767 .truck-3xoAMg {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 26px;
+}
+
+.produktansicht-767 .gruppe-350-Jb0eNO {
+  background-color: transparent;
+  height: 155px;
+  left: calc(38.10% - 60px);
+  position: absolute;
+  top: 37px;
+  width: 158px;
+}
+
+.produktansicht-767 .knnen-wir-helfen-eQhXyp {
+  background-color: transparent;
+  height: 28px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: 160px;
+}
+
+.produktansicht-767 .gruppe-348-eQhXyp {
+  background-color: transparent;
+  bottom: calc(29.79% - 4px);
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  width: 86px;
+}
+
+.produktansicht-767 .gruppe-140-tqJzHy {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 53px;
+}
+
+.produktansicht-767 .kontakt-YJXOWa {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -6px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.produktansicht-767 .contact-tqJzHy {
+  background-color: transparent;
+  height: 12px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 25px;
+}
+
+.produktansicht-767 .gruppe-349-eQhXyp {
+  background-color: transparent;
+  bottom: 0px;
+  height: 20px;
+  left: calc(37.82% - 57px);
+  position: absolute;
+  width: 152px;
+}
+
+.produktansicht-767 .gruppe-141-JoWeEI {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 15px;
+  position: absolute;
+  right: 0px;
+  width: 122px;
+}
+
+.produktansicht-767 .zahlungsoptionen-UGbbou {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.produktansicht-767 .money-JoWeEI {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 20px;
+}
+
+.produktansicht-767 .gruppe-354-Jb0eNO {
+  background-color: transparent;
+  height: 251px;
+  position: absolute;
+  right: calc(23.89% - 49px);
+  top: 37px;
+  width: 205px;
+}
+
+.produktansicht-767 .das-unternehmen-Zwi58Z {
+  background-color: transparent;
+  height: 28px;
+  left: 7px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% - 49px);
+}
+
+.produktansicht-767 .gruppe-353-Zwi58Z {
+  background-color: transparent;
+  bottom: 0px;
+  height: 27px;
+  left: 1px;
+  position: absolute;
+  width: 113px;
+}
+
+.produktansicht-767 .gruppe-158-me6jbn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 16px;
+  position: absolute;
+  right: 1px;
+  top: 2px;
+  width: 80px;
+}
+
+.produktansicht-767 .impressum-xF8YVk {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.produktansicht-767 .gruppe-154-me6jbn {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+
+.produktansicht-767 .gruppe-159-5OCdWr {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.produktansicht-767 .ellipse-25-tMfLrj {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+
+.produktansicht-767 .i-tMfLrj {
+  background-color: transparent;
+  height: 25px;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -2px;
+  white-space: nowrap;
+  width: calc(100.00% - 7px);
+}
+
+.produktansicht-767 .gruppe-160-Zwi58Z {
+  background-color: transparent;
+  height: 20px;
+  left: 7px;
+  position: absolute;
+  top: calc(41.56% - 8px);
+  width: 120px;
+}
+
+.produktansicht-767 .gruppe-155-Bqvxjv {
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  position: absolute;
+  right: 0px;
+  top: 2px;
+  width: 94px;
+}
+
+.produktansicht-767 .gruppe-138-r1Jwre {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.produktansicht-767 .ber-borbus-QNSFRB {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.produktansicht-767 .b-Bqvxjv {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 16px;
+}
+
+.produktansicht-767 .gruppe-351-Zwi58Z {
+  background-color: transparent;
+  bottom: calc(37.16% - 12px);
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.produktansicht-767 .gruppe-156-KoYckx {
+  background-color: transparent;
+  height: 100%;
+  left: 33px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 33px);
+}
+
+.produktansicht-767 .geschfts-und-nutzungsbediengungen-8xpzyR {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.produktansicht-767 .solid-KoYckx {
+  background-color: transparent;
+  bottom: calc(47.15% - 10px);
+  height: 20px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 21px;
+}
+
+.produktansicht-767 .gruppe-352-Zwi58Z {
+  background-color: transparent;
+  bottom: calc(18.98% - 4px);
+  height: 19px;
+  left: 2px;
+  position: absolute;
+  width: calc(100.00% - 3px);
+}
+
+.produktansicht-767 .gruppe-157-9MiIfQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 15px;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 171px;
+}
+
+.produktansicht-767 .datenschutz-cookies-Y9V6G8 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.produktansicht-767 .cookie-9MiIfQ {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 19px;
+}
+
+.produktansicht-767 .gruppe-355-Jb0eNO {
+  background-color: transparent;
+  height: 122px;
+  position: absolute;
+  right: calc(4.87% - 5px);
+  top: 37px;
+  width: 110px;
+}
+
+.produktansicht-767 .besuche-uns-UjGqic {
+  background-color: transparent;
+  height: 28px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.produktansicht-767 .gruppe-323-UjGqic {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 26px;
+  left: 0px;
+  position: absolute;
+  width: calc(100.00% - 4px);
+}
+
+.produktansicht-767 .gruppe-162-CpKmAK {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  position: absolute;
+  right: 0px;
+  top: 3px;
+  width: 82px;
+}
+
+.produktansicht-767 .instagram-c6jm4n {
+  background-color: transparent;
+  height: 25px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.produktansicht-767 .icon-instagram-CpKmAK {
+  background-color: transparent;
+  height: 18px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.produktansicht-767 .ssl-EHMNUx {
+  background-color: transparent;
+  bottom: 31px;
+  display: block;
+  height: 90px;
+  left: calc(9.91% - 9px);
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  width: 90px;
+}
+
+.produktansicht-767 .ssl-EHMNUx.bp2-animate-enter224 {
+  animation: bp2-animate-enter224-frames 0.20s linear 0.10s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter224-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.produktansicht-767 .warenkorb-oben-rechts-EHMNUx {
+  background-color: transparent;
+  height: 41px;
+  position: absolute;
+  right: 49px;
+  top: 49px;
+  width: 44px;
+}
+
+.produktansicht-767 .iconfinder_basket_ecommerce_shop_4177565-gOheSN {
+  background-color: transparent;
+  height: 24px;
+  object-fit: cover;
+  position: absolute;
+  right: 16px;
+  top: 17px;
+  width: 28px;
+}
+
+.produktansicht-767 .gruppe-579-gOheSN {
+  background-color: transparent;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.produktansicht-767 .ellipse-47-TqxLws {
+  background-color: var(--stratos);
+  border-radius: 11.5px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 23px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 23px;
+}
+
+.produktansicht-767 .anzahl-warenkorb-TqxLws {
+  -webkit-text-stroke: 0.05000000074505806px var(--gallery);
+  background-color: transparent;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  right: 5px;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 11px;
+}
+@media screen and (max-width: 766px) {
+  .screen.produktansicht { 
+    display: none;
+   }
+  .screen.produktansicht-1200-all-breakpoints { 
+    display: none;
+   }
+  .screen.produktansicht-767 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 767px) and (max-width: 1199px) {
+  .screen.produktansicht { 
+    display: none;
+   }
+  .screen.produktansicht-1200-all-breakpoints { 
+    display: none;
+   }
+  .screen.produktansicht-375 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1200px) and (max-width: 1919px) {
+  .screen.produktansicht { 
+    display: none;
+   }
+  .screen.produktansicht-767 { 
+    display: none;
+   }
+  .screen.produktansicht-375 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1920px) {
+  .screen.produktansicht-1200-all-breakpoints { 
+    display: none;
+   }
+  .screen.produktansicht-767 { 
+    display: none;
+   }
+  .screen.produktansicht-375 { 
+    display: none;
+   }
+}
