@@ -994,7 +994,7 @@ function _renderPaypalButton(id) {
 
     onApprove: function(data, actions) {
       return actions.order.capture().then(function(details) {
-
+        // save the dress which was bought here
         alert('Transaction completed by ' + details.payer.name.given_name)
         window.location.assign("/danke")
       });
@@ -1009,44 +1009,3 @@ _renderPaypalButton("div[class*='paypal-button-mobile']")
 _renderPaypalButton("div[class*='paypal-button-tablet']")
 _renderPaypalButton("div[class*='paypal-button-small-desktop']")
 _renderPaypalButton("div[class*='paypal-button-large-desktop']")
-
-function _test() {
-  const buttons = document.querySelectorAll("div[class*='sichere-bezahlung']")
-
-  const cart = JSON.parse(window.localStorage.getItem("cart")) || []
-  if (cart.length === 0) {
-    _noCartItemFound()
-    return
-  }
-
-  buttons.forEach(button => {
-    button.setAttribute("style", "cursor: pointer;")
-    button.addEventListener("click", async () => {
-      // const xhr = new XMLHttpRequest();
-      // xhr.open("POST", "http://localhost:8888/.netlify/functions/store-to-nft-storage");
-
-      // xhr.setRequestHeader("Accept", "application/json");
-      // xhr.setRequestHeader("Content-Type", "application/json");
-
-      // xhr.onload = () => console.log(xhr.responseText);
-
-      // xhr.send(JSON.stringify(cart));
-      // let selledItems
-      let selledItems = []
-      const cid = await _storeToNftStorage(selledItems)
-      console.log(cid);
-
-      // selledItems = await _getFromNftStorage(cid)
-      // selledItems.push(cid)
-      // console.log(selledItems);
-
-      // const nextCID = await _storeToNftStorage(selledItems)
-
-      // selledItems = await _getFromNftStorage(nextCID)
-      // selledItems.push(nextCID)
-      // console.log(selledItems);
-    })
-  })
-}
-_test()
-
