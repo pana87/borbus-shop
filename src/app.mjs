@@ -4,7 +4,6 @@ import express from "express"
 dotenv.config()
 
 const app = express()
-const port = 8888
 const client = new NFTStorage({ token: process.env.NFT_STORAGE_TOKEN })
 
 app.use(express.static("public"))
@@ -15,6 +14,6 @@ app.post('/store-to-nft-storage', async function (req, res) {
   res.send(cid);
 });
 
-app.listen(port, () => {
+app.listen(process.env.PORT, () => {
   console.log(`Borbus webshop listening on port ${port}`)
 })
