@@ -12,6 +12,7 @@ app.use(express.json())
 
 app.post('/store-to-nft-storage', async function (req, res) {
   const cid = await client.storeBlob(new Blob(JSON.stringify(req.body)))
+  // write the latest cid to a local file here
   res.send(cid);
 });
 
