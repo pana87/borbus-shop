@@ -5,7 +5,7 @@ import {
   _noUserFound,
   _noAddressFound,
 } from "./exceptions.js"
-import { _getAddresses, _getCart } from "./storage.js"
+import { _getAddresses, _getCart, _getFromNftStorage, _storeToNftStorage } from "./storage.js"
 
 export function _updateCartPointer() {
   const cartPointerTopRight = document.querySelectorAll("div[class*='anzahl-warenkorb']")
@@ -32,6 +32,7 @@ export async function _renderShopList() {
 
   if (shopListDivs.length === 0) return
 
+  // get fetched shoplist here instead of window.__DATA__
   if (!window.__DATA__) return
 
   const nfts = window.__DATA__
@@ -993,6 +994,7 @@ function _renderPaypalButton(id) {
 
     onApprove: function(data, actions) {
       return actions.order.capture().then(function(details) {
+
         alert('Transaction completed by ' + details.payer.name.given_name)
         window.location.assign("/danke")
       });
@@ -1007,3 +1009,44 @@ _renderPaypalButton("div[class*='paypal-button-mobile']")
 _renderPaypalButton("div[class*='paypal-button-tablet']")
 _renderPaypalButton("div[class*='paypal-button-small-desktop']")
 _renderPaypalButton("div[class*='paypal-button-large-desktop']")
+
+function _test() {
+  const buttons = document.querySelectorAll("div[class*='sichere-bezahlung']")
+
+  const cart = JSON.parse(window.localStorage.getItem("cart")) || []
+  if (cart.length === 0) {
+    _noCartItemFound()
+    return
+  }
+
+  buttons.forEach(button => {
+    button.setAttribute("style", "cursor: pointer;")
+    button.addEventListener("click", async () => {
+      // const xhr = new XMLHttpRequest();
+      // xhr.open("POST", "http://localhost:8888/.netlify/functions/store-to-nft-storage");
+
+      // xhr.setRequestHeader("Accept", "application/json");
+      // xhr.setRequestHeader("Content-Type", "application/json");
+
+      // xhr.onload = () => console.log(xhr.responseText);
+
+      // xhr.send(JSON.stringify(cart));
+      // let selledItems
+      let selledItems = []
+      const cid = await _storeToNftStorage(selledItems)
+      console.log(cid);
+
+      // selledItems = await _getFromNftStorage(cid)
+      // selledItems.push(cid)
+      // console.log(selledItems);
+
+      // const nextCID = await _storeToNftStorage(selledItems)
+
+      // selledItems = await _getFromNftStorage(nextCID)
+      // selledItems.push(nextCID)
+      // console.log(selledItems);
+    })
+  })
+}
+_test()
+

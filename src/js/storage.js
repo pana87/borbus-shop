@@ -15,3 +15,28 @@ export function _getAddresses() {
     resolve(JSON.parse(window.localStorage.getItem("addresses")))
   })
 }
+
+export function _storeToNftStorage(blob) {
+  return new Promise((resolve, reject) => {
+    const xhr = new XMLHttpRequest();
+    xhr.open("POST", "http://localhost:8888/store-to-nft-storage");
+
+    xhr.setRequestHeader("Accept", "application/json");
+    xhr.setRequestHeader("Content-Type", "application/json");
+
+    xhr.onload = () => resolve(xhr.responseText)
+    console.log(blob);
+    xhr.send(JSON.stringify(blob));
+  })
+}
+
+export function _getFromNftStorage(cid) {
+  return new Promise((resolve, reject) => {
+    const xhr = new XMLHttpRequest();
+    xhr.open("GET", `https://ipfs.io/ipfs/${cid}`)
+
+    xhr.onload = () => resolve(JSON.parse(xhr.responseText))
+
+    xhr.send()
+  })
+}
