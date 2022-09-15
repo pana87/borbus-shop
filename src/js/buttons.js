@@ -354,15 +354,21 @@ _onAboutBorbusButtonClick()
 
 function _onAgbButtonClick() {
   const agbButtons = document.querySelectorAll("a[href*='allgemeinegeschaftsbedingungen']")
-  const agb2Buttons = document.querySelectorAll("a[href*='allgemeinegeschaeftsbedingungen']")
 
   if (agbButtons.length === 0) return
-  if (agb2Buttons.length === 0) return
 
   agbButtons.forEach(button => button.setAttribute("href", "/agbs"))
-  agb2Buttons.forEach(button => button.setAttribute("href", "/agbs"))
 }
 _onAgbButtonClick()
+
+function _onAgbButton2Click() {
+  const agb2Buttons = document.querySelectorAll("a[href*='allgemeinegeschaeftsbedingungen']")
+
+  if (agb2Buttons.length === 0) return
+
+  agb2Buttons.forEach(button => button.setAttribute("href", "/agbs"))
+}
+_onAgbButton2Click()
 
 function _onDsgvoButtonClick() {
   const dsgvoButtons = document.querySelectorAll("a[href*='datenschutzerklaerung']")

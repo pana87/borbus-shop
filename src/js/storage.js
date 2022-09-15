@@ -19,7 +19,7 @@ export function _getAddresses() {
 export function _storeToNftStorage(blob) {
   return new Promise((resolve, reject) => {
     const xhr = new XMLHttpRequest();
-    xhr.open("POST", "http://localhost:8888/store-to-nft-storage");
+    xhr.open("POST", `${process.env.URL}/store-to-nft-storage`);
 
     xhr.setRequestHeader("Accept", "application/json");
     xhr.setRequestHeader("Content-Type", "application/json");
