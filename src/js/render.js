@@ -1,11 +1,8 @@
 import {
-  _noUserSessionFound,
-  _noAccountIdFound,
   _noCartItemFound,
-  _noUserFound,
   _noAddressFound,
 } from "./exceptions.js"
-import { _getAddresses, _getCart, _getFromNftStorage, _storeToNftStorage } from "./storage.js"
+import { _getCart } from "./storage.js"
 
 export function _updateCartPointer() {
   const cartPointerTopRight = document.querySelectorAll("div[class*='anzahl-warenkorb']")
@@ -659,7 +656,6 @@ function _renderPaypalButton(id) {
 
     onApprove: function(data, actions) {
       return actions.order.capture().then(function(details) {
-        // save the dress which was bought here
         alert('Transaction completed by ' + details.payer.name.given_name)
         window.location.assign("/danke")
       });
